@@ -1,0 +1,2623 @@
+﻿Peildatum;Netbeheerder;Gemeente;CBS Buurt;CBS Buurtcode;Maximum (omvormer) capaciteit_wind_in aanleg;Maximum (omvormer) capaciteit_wind_in bedrijf;Maximum (omvormer) capaciteit_zon_in aanleg;Maximum (omvormer) capaciteit_zon_in bedrijf
+202106;Enexis;Appingedam;Appingedam-Oost;BU00030002;0;0;1;1
+202106;Enexis;Appingedam;Verspreide huizen Damsterdiep en Eemskanaal;BU00030007;0;0;0;0
+202106;Enexis;Appingedam;Verspreide huizen ten zuiden van Eemskanaal;BU00030008;0;0;14;0
+202106;Enexis;Bedum;Bedum;BU00050000;0;0;0;1
+202106;Enexis;Bedum;Verspreide huizen Bedum;BU00050001;0;1;2;0
+202106;Enexis;Bedum;Zuidwolde;BU00050002;0;0;1;0
+202106;Enexis;Bedum;Verspreide huizen Onderdendam;BU00050005;0;1;0;0
+202106;Enexis;Bedum;Verspreide huizen Noordwolde;BU00050007;0;0;0;0
+202106;Enexis;Ten Boer;Ten Boer;BU00090000;0;0;0;0
+202106;Enexis;Ten Boer;Verspreide huizen ten noorden van het Eemskanaal;BU00090009;0;0;0;0
+202106;Enexis;Ten Boer;Ten Post;BU00090100;0;0;0;0
+202106;Enexis;Ten Boer;Verspreide huizen ten noorden van het Eemskanaal;BU00090109;0;0;0;1
+202106;Enexis;Delfzijl;Delfzijl-Centrum;BU00100000;0;0;2;0
+202106;Enexis;Delfzijl;Farmsum;BU00100001;0;70;0;2
+202106;Enexis;Delfzijl;Delfzijl-Noord;BU00100002;0;0;0;0
+202106;Enexis;Delfzijl;Tuikwerd;BU00100005;0;0;0;1
+202106;Enexis;Delfzijl;Meedhuizen;BU00100103;0;0;0;0
+202106;Enexis;Delfzijl;Verspreide huizen Eemskanaal (ten zuiden);BU00100107;73;69;0;39
+202106;Enexis;Delfzijl;Industrieterrein;BU00100108;0;160;21;1
+202106;Enexis;Delfzijl;Wagenborgen;BU00100205;0;2;0;6
+202106;Enexis;Delfzijl;Verspreide huizen Wagenborgen;BU00100207;0;1;1;1
+202106;Enexis;Delfzijl;Verspreide huizen Termunten;BU00100209;0;1;0;1
+202106;Enexis;Delfzijl;Godlinze;BU00100303;0;0;0;0
+202106;Enexis;Delfzijl;Losdorp;BU00100304;0;0;0;0
+202106;Enexis;Delfzijl;Verspreide huizen Bierum;BU00100309;5;7;1;2
+202106;Enexis;Groningen;Binnenstad-Noord;BU00140000;0;0;0;0
+202106;Enexis;Groningen;Binnenstad-Zuid;BU00140001;0;0;0;0
+202106;Enexis;Groningen;Binnenstad-Oost;BU00140002;0;0;0;0
+202106;Enexis;Groningen;Hortusbuurt-Ebbingekwartier;BU00140005;0;0;0;10
+202106;Enexis;Groningen;Stationsgebied;BU00140008;0;0;0;0
+202106;Enexis;Groningen;De Meeuwen;BU00140100;0;0;0;0
+202106;Enexis;Groningen;Oosterpoort;BU00140101;0;0;0;0
+202106;Enexis;Groningen;Herewegbuurt;BU00140102;0;0;0;0
+202106;Enexis;Groningen;Rivierenbuurt;BU00140103;0;0;0;0
+202106;Enexis;Groningen;Grunobuurt;BU00140104;0;0;0;0
+202106;Enexis;Groningen;Zeeheldenbuurt;BU00140106;0;0;0;0
+202106;Enexis;Groningen;Martini Trade Park;BU00140109;0;0;0;1
+202106;Enexis;Groningen;Noorderplantsoenbuurt;BU00140201;0;0;0;0
+202106;Enexis;Groningen;Schildersbuurt;BU00140202;0;0;0;0
+202106;Enexis;Groningen;Kostverloren;BU00140203;0;0;0;0
+202106;Enexis;Groningen;De Hoogte;BU00140300;0;0;0;1
+202106;Enexis;Groningen;Professorenbuurt;BU00140302;0;0;0;0
+202106;Enexis;Groningen;Vogelbuurt;BU00140401;0;0;0;0
+202106;Enexis;Groningen;Damsterbuurt;BU00140404;0;0;0;0
+202106;Enexis;Groningen;De Linie;BU00140500;0;0;0;0
+202106;Enexis;Groningen;Europapark;BU00140501;0;0;0;2
+202106;Enexis;Groningen;Eemskanaal;BU00140502;0;0;1;4
+202106;Enexis;Groningen;Driebond;BU00140505;0;0;0;2
+202106;Enexis;Groningen;Eemspoort;BU00140506;0;0;0;1
+202106;Enexis;Groningen;Euvelgunne;BU00140507;0;0;0;2
+202106;Enexis;Groningen;Winschoterdiep;BU00140508;0;0;0;12
+202106;Enexis;Groningen;Roodehaan;BU00140510;0;0;32;12
+202106;Enexis;Groningen;Sterrebosbuurt;BU00140600;0;0;0;1
+202106;Enexis;Groningen;Coendersborg;BU00140601;0;0;0;0
+202106;Enexis;Groningen;Helpman;BU00140604;0;0;0;0
+202106;Enexis;Groningen;De Wijert;BU00140605;0;0;0;0
+202106;Enexis;Groningen;De Wijert-Zuid;BU00140606;0;0;0;0
+202106;Enexis;Groningen;Hoornse Meer;BU00140701;0;0;0;0
+202106;Enexis;Groningen;Hoogkerk Dorp;BU00140800;0;0;0;7
+202106;Enexis;Groningen;Hoogkerk-Zuid;BU00140801;0;0;0;0
+202106;Enexis;Groningen;Westpoort;BU00140802;0;0;0;1
+202106;Enexis;Groningen;Zuidwending;BU00140804;0;0;0;0
+202106;Enexis;Groningen;Gravenburg;BU00140806;0;0;0;0
+202106;Enexis;Groningen;Peizerweg;BU00140808;0;0;0;1
+202106;Enexis;Groningen;Kranenburg;BU00140811;0;0;0;0
+202106;Enexis;Groningen;Vinkhuizen-Noord;BU00140900;0;0;0;0
+202106;Enexis;Groningen;Vinkhuizen-Zuid;BU00140901;0;0;0;1
+202106;Enexis;Groningen;Hoendiep;BU00140902;0;0;0;3
+202106;Enexis;Groningen;Friesestraatweg;BU00140903;0;0;0;0
+202106;Enexis;Groningen;Reitdiep;BU00140904;0;0;0;0
+202106;Enexis;Groningen;Dorkwerd;BU00140905;0;0;0;0
+202106;Enexis;Groningen;Selwerd;BU00141000;0;0;0;0
+202106;Enexis;Groningen;Paddepoel-Noord;BU00141002;0;0;0;0
+202106;Enexis;Groningen;Zernike Campus;BU00141003;0;0;0;2
+202106;Enexis;Groningen;Beijum-Oost;BU00141101;0;0;0;0
+202106;Enexis;Groningen;Van Starkenborgh;BU00141103;0;0;0;0
+202106;Enexis;Groningen;Oosterhoogebrug;BU00141203;0;0;0;0
+202106;Enexis;Groningen;Ulgersmaborg;BU00141204;0;0;0;0
+202106;Enexis;Groningen;Hunzepark;BU00141205;0;0;0;0
+202106;Enexis;Groningen;Kardinge;BU00141207;0;0;0;0
+202106;Enexis;Groningen;Engelbert;BU00141301;0;0;0;0
+202106;Enexis;Grootegast;Grootegast;BU00150000;0;0;0;0
+202106;Enexis;Grootegast;Doezum;BU00150001;0;0;0;0
+202106;Enexis;Grootegast;Verspreide huizen Lutjegast;BU00150109;0;0;0;0
+202106;Enexis;Grootegast;Opende-West;BU00150200;0;0;0;0
+202106;Enexis;Grootegast;Verspreide huizen ten zuiden van Opende;BU00150209;0;0;0;1
+202106;Enexis;Grootegast;Verspreide huizen Oldekerk;BU00150309;0;0;0;3
+202106;Enexis;Haren;Haren;BU00170000;0;0;0;0
+202106;Enexis;Haren;Hemmen;BU00170005;0;0;0;0
+202106;Enexis;Haren;Verspreide huizen ten westen van Noord-Willemskanaal;BU00170106;0;0;0;0
+202106;Enexis;Haren;Verspreide huizen op de Hondsrug;BU00170107;0;0;0;2
+202106;Enexis;Haren;Verspreide huizen Onner Esch;BU00170108;0;0;0;0
+202106;Enexis;Haren;Verspreide huizen ten oosten van de Hondsrug;BU00170109;0;0;2;0
+202106;Enexis;Leek;Centrum Leek en omgeving;BU00220002;0;0;0;0
+202106;Enexis;Leek;Rodenburg en omgeving;BU00220003;0;0;0;0
+202106;Enexis;Leek;Buitengebied ten zuiden van Leek;BU00220009;0;0;0;0
+202106;Enexis;Leek;Bebouwde kom Zevenhuizen;BU00220100;0;0;0;0
+202106;Enexis;Leek;De Haspel;BU00220101;0;0;0;1
+202106;Enexis;Leek;Drostinnewijk;BU00220102;0;0;0;2
+202106;Enexis;Leek;Buitengebied ten westen van Zevenhuizen;BU00220109;0;0;0;0
+202106;Enexis;Leek;Bebouwde kom Tolbert;BU00220200;0;0;0;0
+202106;Enexis;Leek;Sint Maheerdt;BU00220201;0;0;0;0
+202106;Enexis;Leek;Buitengebied Tolbert;BU00220209;0;0;20;11
+202106;Enexis;Leek;Buitengebied Midwolde;BU00220409;0;0;0;0
+202106;Enexis;Loppersum;Loppersum;BU00240000;0;0;0;0
+202106;Enexis;Loppersum;Verspreide huizen ten noorden van het Damsterdiep;BU00240009;0;0;0;0
+202106;Enexis;Loppersum;Verspreide huizen Stedum inclusief Startenhuizen;BU00240109;0;0;1;0
+202106;Enexis;Loppersum;Verspreide huizen Middelstum;BU00240209;0;1;0;1
+202106;Enexis;Loppersum;'t Zandt;BU00240300;0;0;0;1
+202106;Enexis;Loppersum;Verspreide huizen 't Zandt;BU00240309;0;0;0;0
+202106;Enexis;Marum;Marum;BU00250000;0;0;0;0
+202106;Enexis;Marum;Nuis;BU00250002;0;0;0;0
+202106;Enexis;Marum;Niebert;BU00250003;0;0;0;0
+202106;Enexis;Marum;De Haar;BU00250007;0;0;0;0
+202106;Enexis;Marum;Verspreide huizen in het noordwesten;BU00250008;0;0;0;0
+202106;Enexis;Marum;Verspreide huizen in het noordoosten;BU00250009;0;0;1;0
+202106;Enexis;Marum;De Wilp (gedeeltelijk);BU00250100;0;0;0;0
+202106;Enexis;Marum;Keuningswijk;BU00250102;0;0;1;0
+202106;Enexis;Marum;Jonkersvaart;BU00250104;0;0;0;0
+202106;Enexis;Marum;Verspreide huizen ten noorden van de Wilp;BU00250109;0;0;0;9
+202106;Enexis;Stadskanaal;Stadskanaal Centrum;BU00370100;0;0;0;0
+202106;Enexis;Stadskanaal;Maarsstee;BU00370101;0;0;0;0
+202106;Enexis;Stadskanaal;Maarswold;BU00370102;0;0;0;0
+202106;Enexis;Stadskanaal;Maarsveld;BU00370103;0;0;0;0
+202106;Enexis;Stadskanaal;De Hagen;BU00370104;0;0;0;0
+202106;Enexis;Stadskanaal;Industriegebied Vleddermond;BU00370106;0;0;0;14
+202106;Enexis;Stadskanaal;Dideldom;BU00370107;0;0;0;5
+202106;Enexis;Stadskanaal;Parkwijk;BU00370108;0;0;0;0
+202106;Enexis;Stadskanaal;Stadskanaal Noord Centrum;BU00370110;0;0;0;0
+202106;Enexis;Stadskanaal;Stadskanaal Noord;BU00370111;0;0;0;1
+202106;Enexis;Stadskanaal;Musselkanaal Centrum;BU00370200;0;0;0;0
+202106;Enexis;Stadskanaal;Onstwedde;BU00370300;0;0;0;0
+202106;Enexis;Stadskanaal;Holte;BU00370301;0;0;0;0
+202106;Enexis;Stadskanaal;Onstwedde Buitengebied Noord;BU00370308;0;0;0;0
+202106;Enexis;Stadskanaal;Onstwedde Buitengebied Zuid;BU00370309;0;0;0;1
+202106;Enexis;Stadskanaal;Mussel Buitengebied;BU00370409;0;0;0;1
+202106;Enexis;Stadskanaal;Alteveer Buitengebied;BU00370509;0;0;5;1
+202106;Enexis;Veendam;Veendam-Centrum;BU00470000;0;0;0;0
+202106;Enexis;Veendam;Veendam-Middenweg en omgeving;BU00470002;0;0;0;0
+202106;Enexis;Veendam;Veendam en omgeving station;BU00470003;0;0;0;6
+202106;Enexis;Veendam;Veendam-Zuid;BU00470004;0;0;0;0
+202106;Enexis;Veendam;Veendam-Sorghvliet;BU00470005;0;0;0;0
+202106;Enexis;Veendam;Veendam-industriegebied;BU00470006;0;18;15;19
+202106;Enexis;Veendam;Buitenwoel;BU00470007;0;0;0;0
+202106;Enexis;Veendam;Ommelanderwijk;BU00470101;0;0;0;0
+202106;Enexis;Veendam;Zuidwending;BU00470102;0;0;0;0
+202106;Enexis;Veendam;Verspreide huizen;BU00470109;0;18;0;3
+202106;Enexis;Veendam;Wildervank;BU00470200;0;0;0;0
+202106;Enexis;Veendam;Boven-Wildervank;BU00470201;0;0;0;0
+202106;Enexis;Veendam;Wildervanksterdallen;BU00470203;0;0;0;0
+202106;Enexis;Veendam;Verspreide huizen;BU00470209;0;0;0;0
+202106;Enexis;Winsum;Winsum;BU00530000;0;0;0;0
+202106;Enexis;Winsum;Potmaar;BU00530003;0;0;0;0
+202106;Enexis;Winsum;De Brake;BU00530004;0;0;2;0
+202106;Enexis;Winsum;Verspreide huizen Winsum;BU00530009;0;0;10;1
+202106;Enexis;Winsum;Verspreide huizen Ezinge;BU00530109;0;0;0;1
+202106;Enexis;Winsum;Rasquert;BU00530202;0;0;0;0
+202106;Enexis;Winsum;Verspreide huizen Baflo;BU00530209;0;0;0;2
+202106;Enexis;Zuidhorn;Zuidhorn;BU00560000;0;0;1;0
+202106;Enexis;Zuidhorn;Noordhorn;BU00560001;0;0;0;0
+202106;Enexis;Zuidhorn;Verspreide huizen Zuidhorn;BU00560009;0;0;0;0
+202106;Enexis;Zuidhorn;Grijpskerk;BU00560100;0;0;0;0
+202106;Enexis;Zuidhorn;Verspreide huizen Grijpskerk;BU00560109;0;0;0;1
+202106;Enexis;Zuidhorn;Verspreide huizen Ruigezand en Nieuwe Ruigezand;BU00560208;0;0;0;0
+202106;Enexis;Zuidhorn;Overige verspreide huizen;BU00560209;0;0;0;1
+202106;Enexis;Zuidhorn;Den Ham;BU00560302;0;0;0;0
+202106;Enexis;Zuidhorn;Verspreide huizen Aduard;BU00560309;0;0;0;1
+202106;Enexis;Kollumerland en Nieuwkruisland;Verspreide huizen Munnekezijl;BU00790109;0;0;0;0
+202106;Enexis;Assen;Overcingel;BU01060002;0;0;0;0
+202106;Enexis;Assen;Oranjebuurt;BU01060003;0;0;0;0
+202106;Enexis;Assen;Galgenveld;BU01060004;0;0;0;0
+202106;Enexis;Assen;Koopmanskwartier;BU01060005;0;0;0;0
+202106;Enexis;Assen;Cultuureelkwartier;BU01060006;0;0;0;0
+202106;Enexis;Assen;Asserbos;BU01060009;0;0;0;0
+202106;Enexis;Assen;Zuiderpark;BU01060012;0;0;0;0
+202106;Enexis;Assen;De Lariks Oost;BU01060100;0;0;0;0
+202106;Enexis;Assen;Luchiesland Zuid;BU01060103;0;0;0;0
+202106;Enexis;Assen;Oude Molenbuurt;BU01060200;0;0;0;0
+202106;Enexis;Assen;Dichtershof;BU01060201;0;0;0;0
+202106;Enexis;Assen;Veningerland;BU01060202;0;0;0;0
+202106;Enexis;Assen;Zwarte Water;BU01060203;0;0;0;0
+202106;Enexis;Assen;Componistenbuurt West;BU01060204;0;0;0;0
+202106;Enexis;Assen;Componistenbuurt Oost;BU01060205;0;0;0;0
+202106;Enexis;Assen;Vredeveld Zuid;BU01060307;0;0;0;0
+202106;Enexis;Assen;GGZ-terrein;BU01060309;0;0;0;1
+202106;Enexis;Assen;Pittelo Noord;BU01060402;0;0;0;0
+202106;Enexis;Assen;Recreatiepark Pittelo;BU01060403;0;0;0;0
+202106;Enexis;Assen;De Maten;BU01060500;0;0;20;0
+202106;Enexis;Assen;Baggelhuizen Noord;BU01060504;0;0;0;0
+202106;Enexis;Assen;Lauwers;BU01060505;0;0;0;0
+202106;Enexis;Assen;Huize Nassau;BU01060506;0;0;0;0
+202106;Enexis;Assen;Sportpark Stadsbroek;BU01060509;0;0;0;0
+202106;Enexis;Assen;Peelerpark;BU01060604;0;0;0;0
+202106;Enexis;Assen;Messchenveld;BU01060700;0;0;0;0
+202106;Enexis;Assen;De Hoven;BU01060706;0;0;0;0
+202106;Enexis;Assen;De Beemden;BU01060708;0;0;0;0
+202106;Enexis;Assen;Bedrijventerrein West;BU01060713;0;0;0;2
+202106;Enexis;Assen;Bedrijventerrein Oost;BU01060714;0;0;0;1
+202106;Enexis;Assen;Bedrijventerrein Marsdijk Oost;BU01060715;0;0;0;1
+202106;Enexis;Assen;Havenkanaal Noordzijde;BU01060716;0;0;0;0
+202106;Enexis;Assen;Kloosterveste;BU01060800;0;0;0;0
+202106;Enexis;Assen;Kloostergaarde;BU01060806;0;0;0;0
+202106;Enexis;Assen;De Zoom;BU01060811;0;0;0;0
+202106;Enexis;Assen;Recreatiepark Zeijerveen;BU01060814;0;0;0;3
+202106;Enexis;Assen;Verspreide huizen Ubbena West;BU01069905;0;0;20;1
+202106;Enexis;Assen;Ter Aard;BU01069908;0;0;20;0
+202106;Enexis;Assen;Zeijerveld;BU01069909;0;0;0;1
+202106;Enexis;Assen;Bos en Golf;BU01069910;0;0;0;0
+202106;Enexis;Assen;Verspreide huizen Witten;BU01069911;0;0;0;7
+202106;Enexis;Assen;Graswijkbuurt;BU01069913;0;0;2;0
+202106;Enexis;Coevorden;Coevorden-Centrum;BU01091000;0;0;0;0
+202106;Enexis;Coevorden;Lootuinen;BU01091001;0;0;0;0
+202106;Enexis;Coevorden;Binnenvree Buitenvree Pikveld;BU01091003;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Coevorden;BU01091009;0;8;30;2
+202106;Enexis;Coevorden;Hare;BU01091011;0;0;0;1
+202106;Enexis;Coevorden;Leeuwerikenveld;BU01091012;0;0;0;12
+202106;Enexis;Coevorden;De Heege en De Mars;BU01091013;0;18;0;0
+202106;Enexis;Coevorden;Steenwijksmoer;BU01091116;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Steenwijksmoer;BU01091117;0;0;20;18
+202106;Enexis;Coevorden;Nieuwe Krim;BU01091218;0;0;40;6
+202106;Enexis;Coevorden;Verspreide huizen Weijerswold;BU01091320;0;14;0;0
+202106;Enexis;Coevorden;Verspreide huizen Vlieghuis en Padhuis;BU01091421;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Dalen;BU01092023;0;0;0;1
+202106;Enexis;Coevorden;Wachtum;BU01092024;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Wachtum;BU01092025;0;0;0;5
+202106;Enexis;Coevorden;Verspreide huizen Dalerpeel;BU01092027;0;0;0;3
+202106;Enexis;Coevorden;Dalerveen;BU01092028;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Dalerveen;BU01092029;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Gees;BU01093035;0;0;0;0
+202106;Enexis;Coevorden;Zwinderen;BU01093036;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Zwinderen;BU01093037;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Geesbrug;BU01093039;0;0;0;1
+202106;Enexis;Coevorden;Verspreide huizen Sleen;BU01094042;0;0;0;10
+202106;Enexis;Coevorden;Noord-Sleen;BU01094043;0;0;0;0
+202106;Enexis;Coevorden;'t Haantje;BU01094044;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Noord-Sleen;BU01094046;0;0;0;0
+202106;Enexis;Coevorden;Schoonoord;BU01094047;0;0;2;0
+202106;Enexis;Coevorden;Verspreide huizen Schoonoord;BU01094051;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Meppen;BU01095062;0;0;0;0
+202106;Enexis;Coevorden;Wezup;BU01095063;0;0;0;0
+202106;Enexis;Coevorden;Verspreide huizen Wezuperbrug;BU01095067;0;0;0;0
+202106;Enexis;Emmen;Eerste Kruisdiep;BU01140101;0;0;0;0
+202106;Enexis;Emmen;Achterdiep;BU01140103;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Nieuw-Weerdinge;BU01140109;50;0;51;1
+202106;Enexis;Emmen;Oude Schuttingskanaal;BU01140206;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Roswinkel;BU01140209;0;0;0;0
+202106;Enexis;Emmen;Emmer-Compascuum-Centrum;BU01140300;0;0;0;0
+202106;Enexis;Emmen;Emmer-Erfscheidenveen;BU01140301;0;0;0;1
+202106;Enexis;Emmen;Foxel;BU01140302;0;0;3;0
+202106;Enexis;Emmen;Oosterdiep;BU01140303;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Emmer-Compascuum;BU01140309;0;0;0;5
+202106;Enexis;Emmen;Barger-Compascuum-Centrum;BU01140400;0;0;0;0
+202106;Enexis;Emmen;Scholtenskanaal;BU01140401;0;0;0;2
+202106;Enexis;Emmen;Limietweg;BU01140408;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Barger-Compascuum;BU01140409;0;0;0;20
+202106;Enexis;Emmen;Oranjedorp;BU01140502;0;0;0;1
+202106;Enexis;Emmen;Herenstreek;BU01140504;0;0;0;0
+202106;Enexis;Emmen;Nieuw-Amsterdam-Centrum;BU01140600;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Nieuw-Amsterdam;BU01140609;0;0;0;0
+202106;Enexis;Emmen;Erica-Centrum;BU01140700;0;0;0;0
+202106;Enexis;Emmen;Beekweg;BU01140702;0;0;0;5
+202106;Enexis;Emmen;Ericasestraat;BU01140708;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Erica;BU01140709;0;0;0;1
+202106;Enexis;Emmen;Klazienaveen-Noord;BU01140800;0;0;0;1
+202106;Enexis;Emmen;Klazienaveen-Zuid;BU01140801;0;0;0;0
+202106;Enexis;Emmen;Tuinbouwcentrum Klazienaveen;BU01140807;0;0;0;0
+202106;Enexis;Emmen;Zwartemeer-Centrum;BU01140900;0;0;0;0
+202106;Enexis;Emmen;Schoonebeek;BU01141000;0;0;0;0
+202106;Enexis;Emmen;Westerse Bos;BU01141002;0;0;0;0
+202106;Enexis;Emmen;Industrieterrein De Vierslagen;BU01141004;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Veenoord;BU01141309;0;0;0;0
+202106;Enexis;Emmen;Oostelijk Nieuw-Schoonebeek;BU01142102;0;0;0;0
+202106;Enexis;Emmen;Weiteveen;BU01143200;0;0;0;0
+202106;Enexis;Emmen;Emmen-Centrum;BU01144000;0;0;0;0
+202106;Enexis;Emmen;Emmen over 't spoor;BU01144101;0;0;0;0
+202106;Enexis;Emmen;Emmermeer;BU01144200;0;0;0;0
+202106;Enexis;Emmen;Angelslo;BU01144300;0;0;0;1
+202106;Enexis;Emmen;Emmerhout;BU01144400;0;0;0;0
+202106;Enexis;Emmen;Emmerschans;BU01144500;0;0;0;0
+202106;Enexis;Emmen;Bargeres;BU01144600;0;0;0;1
+202106;Enexis;Emmen;Rietlanden;BU01144700;0;0;0;0
+202106;Enexis;Emmen;Barger-Oosterveld;BU01145000;0;0;0;0
+202106;Enexis;Emmen;Weerdinge;BU01145100;0;0;0;0
+202106;Enexis;Emmen;Verspreide huizen Emmen;BU01145109;0;0;0;0
+202106;Enexis;Emmen;Noordbarge;BU01145200;0;0;0;1
+202106;Enexis;Emmen;Industrieterrein Bargermeer;BU01145300;0;0;1;15
+202106;Enexis;Emmen;Bedrijvenpark A37;BU01145301;0;0;0;28
+202106;Enexis;Hoogeveen;Fluitenberg kern;BU01185200;0;0;0;28
+202106;Enexis;Hoogeveen;Verspreide huizen Fluitenberg;BU01185201;0;0;0;0
+202106;Enexis;Hoogeveen;Verspreide huizen Hollandscheveld-West;BU01185401;0;0;0;0
+202106;Enexis;Hoogeveen;Verspreide huizen Noordscheschut;BU01185501;0;0;0;0
+202106;Enexis;Hoogeveen;Nieuwlande kern;BU01185600;0;0;0;0
+202106;Enexis;Hoogeveen;Nieuweroord kern;BU01185700;0;0;0;3
+202106;Enexis;Hoogeveen;Verspreide huizen Tiendeveen;BU01185801;0;0;0;0
+202106;Enexis;Hoogeveen;Pesse kern;BU01186000;0;0;0;0
+202106;Enexis;Hoogeveen;Verspreide huizen Pesse-Oost;BU01186001;0;0;30;0
+202106;Enexis;Hoogeveen;Verspreide huizen Pesse-West;BU01186002;0;0;0;0
+202106;Enexis;Hoogeveen;Verspreide huizen Nijstad;BU01186206;0;0;0;1
+202106;Enexis;Meppel;Historisch Centrum;BU01190000;0;0;0;0
+202106;Enexis;Meppel;Indische buurt;BU01190001;0;0;0;0
+202106;Enexis;Meppel;Koninginnebuurt;BU01190002;0;0;0;0
+202106;Enexis;Meppel;Hesselingen;BU01190300;0;0;0;1
+202106;Enexis;Meppel;Koeberg;BU01190301;0;0;0;0
+202106;Enexis;Meppel;Reestlanden;BU01190302;0;0;0;4
+202106;Enexis;Meppel;Bloemenbuurt;BU01190500;0;0;0;0
+202106;Enexis;Meppel;Verzetsbuurt;BU01190603;0;0;0;0
+202106;Enexis;Meppel;Blankenstein;BU01190800;0;0;0;1
+202106;Enexis;Meppel;Industrieterrein Noord I;BU01190900;0;0;0;1
+202106;Enexis;Meppel;Industrieterrein Noord II;BU01190901;0;0;0;1
+202106;Enexis;Meppel;Industrie Oevers A;BU01191000;0;0;0;0
+202106;Enexis;Meppel;Industrie Oevers B;BU01191001;0;0;0;0
+202106;Enexis;Meppel;Industrie Oevers C;BU01191002;0;0;0;0
+202106;Enexis;Meppel;Industrie Oevers D;BU01191003;0;0;1;0
+202106;Enexis;Meppel;Verspreid gebied Meppel Oost;BU01191101;0;0;0;0
+202106;Enexis;Meppel;Danninge Erve;BU01191203;0;0;0;0
+202106;Enexis;Meppel;Verspreid gebied Nijeveen;BU01191209;0;1;0;0
+202106;Enexis;Meppel;Rogat;BU01191300;0;0;0;0
+202106;Enexis;Almelo;Verspreide huizen wijk 11;BU01411109;0;0;0;0
+202106;Enexis;Almelo;Bedrijvenpark Twente;BU01412002;0;0;0;7
+202106;Enexis;Almelo;Verspreide huizen wijk 20;BU01412009;0;0;30;40
+202106;Enexis;Almelo;Verspreide huizen wijk 21;BU01412109;0;0;6;13
+202106;Enexis;Borne;Bornsche Maten;BU01470000;0;0;0;0
+202106;Enexis;Borne;Borne Centrum;BU01470001;0;0;0;0
+202106;Enexis;Borne;'t Wensink Noord;BU01470002;0;0;0;0
+202106;Enexis;Borne;'t Wensink Zuid;BU01470003;0;0;0;0
+202106;Enexis;Borne;Dikkerslaan-Molenkampsweg en omgeving;BU01470004;0;0;0;1
+202106;Enexis;Borne;Lettersveld I;BU01470005;0;0;1;0
+202106;Enexis;Borne;Lettersveld II;BU01470006;0;0;0;0
+202106;Enexis;Borne;Verspreide huizen Borne-West;BU01470009;0;0;0;1
+202106;Enexis;Borne;Verspreide huizen Zenderen;BU01470102;0;0;10;0
+202106;Enexis;Borne;Hertme;BU01470105;0;0;0;0
+202106;Enexis;Borne;Verspreide huizen Hertme;BU01470106;0;0;0;0
+202106;Enexis;Dalfsen;Dalfsen Centrum;BU01480101;0;0;0;0
+202106;Enexis;Dalfsen;Pleijendal;BU01480103;0;0;0;0
+202106;Enexis;Dalfsen;Bedrijventerrein Rondweg;BU01480107;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Ankum;BU01480109;0;0;0;1
+202106;Enexis;Dalfsen;Verspreide huizen Dalfserveld;BU01480110;0;0;6;0
+202106;Enexis;Dalfsen;Verspreide huizen Welsum-Gerner;BU01480111;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Hessum-Rechteren;BU01480112;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Dalmsholte;BU01480113;0;0;0;1
+202106;Enexis;Dalfsen;Verspreide huizen Millingen;BU01480114;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Emmen-De Marshoek;BU01480115;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Lenthe;BU01480117;0;0;1;0
+202106;Enexis;Dalfsen;Oudleusen kern;BU01480118;0;0;0;0
+202106;Enexis;Dalfsen;Verspreide huizen Oudleusenerveld;BU01480119;0;0;0;4
+202106;Enexis;Dalfsen;Nieuwleusen Noord;BU01480201;0;0;0;1
+202106;Enexis;Dalfsen;Nieuwleusen Centrum-zuid;BU01480203;0;0;0;0
+202106;Enexis;Dalfsen;Bedrijventerrein De Grift;BU01480206;0;0;0;0
+202106;Enexis;Dalfsen;Bedrijventerrein De Evenboer;BU01480207;0;0;0;2
+202106;Enexis;Dalfsen;Verspreide huizen De Meele;BU01480208;0;0;0;2
+202106;Enexis;Dalfsen;Verspreide huizen Ruitenveen;BU01480210;8;0;0;0
+202106;Enexis;Dalfsen;Lemelerveld kern oost;BU01480302;0;0;0;0
+202106;Enexis;Dalfsen;Bedrijventerrein 't Febriek;BU01480304;0;0;0;1
+202106;Enexis;Dalfsen;Verspreide huizen Lemelerveld west;BU01480305;0;0;1;1
+202106;Enexis;Dalfsen;Verspreide huizen Lemelerveld oost;BU01480306;0;0;0;0
+202106;Enexis;Deventer;Centrum;BU01500101;0;0;0;0
+202106;Enexis;Deventer;Singel;BU01500105;0;0;0;0
+202106;Enexis;Deventer;Knutteldorp;BU01500107;0;0;0;0
+202106;Enexis;Deventer;Rode Dorp;BU01500401;0;0;0;0
+202106;Enexis;Deventer;Oudegoedstraat;BU01500402;0;0;0;0
+202106;Enexis;Deventer;Brinkgreven;BU01500407;0;0;0;1
+202106;Enexis;Deventer;Borgele;BU01500501;0;0;0;0
+202106;Enexis;Deventer;Platvoet;BU01500502;0;0;0;1
+202106;Enexis;Deventer;Ludgeruskwartier;BU01500601;0;0;0;0
+202106;Enexis;Deventer;Oranjekwartier;BU01500604;0;0;0;0
+202106;Enexis;Deventer;Landsherenkwartier;BU01500605;0;0;0;0
+202106;Enexis;Deventer;Deltabuurt;BU01500702;0;0;0;0
+202106;Enexis;Deventer;Hoornwerk;BU01500703;0;0;0;0
+202106;Enexis;Deventer;Industrieterrein;BU01500704;0;0;0;5
+202106;Enexis;Deventer;Kloosterlanden;BU01500705;0;0;0;2
+202106;Enexis;Deventer;Blauwenoord;BU01500803;0;0;0;0
+202106;Enexis;Deventer;Op den Haar;BU01500901;0;0;0;0
+202106;Enexis;Deventer;Steinvoorde;BU01500902;0;0;0;0
+202106;Enexis;Deventer;Snipperling;BU01501001;0;0;0;1
+202106;Enexis;Deventer;De Scheg;BU01501003;0;0;0;0
+202106;Enexis;Deventer;Colmschaterenk;BU01501004;0;0;0;0
+202106;Enexis;Deventer;Handelspark De Weteringen;BU01501009;0;0;0;1
+202106;Enexis;Deventer;Bannink;BU01501010;0;0;0;0
+202106;Enexis;Deventer;Oxerhof;BU01501011;0;0;0;1
+202106;Enexis;Deventer;Tjoene;BU01501103;0;0;0;0
+202106;Enexis;Deventer;Dorp Schalkhaar;BU01501201;0;0;0;0
+202106;Enexis;Deventer;Averlo en Frieswijk;BU01501202;0;0;0;1
+202106;Enexis;Deventer;Buitengebied Lettele en Okkenbroek;BU01501403;0;0;0;0
+202106;Enexis;Deventer;Dorp Bathmen;BU01501501;0;0;12;0
+202106;Enexis;Deventer;Loo;BU01501502;0;0;0;0
+202106;Enexis;Deventer;Dortherhoek;BU01501503;0;0;1;0
+202106;Enexis;Deventer;Zuidloo;BU01501504;0;0;0;0
+202106;Enexis;Enschede;City;BU01530000;0;0;0;0
+202106;Enexis;Enschede;De Laares;BU01530002;0;0;0;0
+202106;Enexis;Enschede;De Bothoven;BU01530003;0;0;0;0
+202106;Enexis;Enschede;Getfert;BU01530005;0;0;0;0
+202106;Enexis;Enschede;Veldkamp-Getfert-West;BU01530006;0;0;0;0
+202106;Enexis;Enschede;Horstlanden-Stadsweide;BU01530007;0;0;0;0
+202106;Enexis;Enschede;Boddenkamp;BU01530008;0;0;0;0
+202106;Enexis;Enschede;Velve-Lindenhof;BU01530100;0;0;0;0
+202106;Enexis;Enschede;Wooldrik;BU01530101;0;0;0;0
+202106;Enexis;Enschede;Varvik-Diekman;BU01530103;0;0;1;0
+202106;Enexis;Enschede;Boswinkel-De Braker;BU01530201;0;0;0;0
+202106;Enexis;Enschede;Stevenfenne;BU01530203;0;0;0;0
+202106;Enexis;Enschede;Elferink-Heuwkamp;BU01530205;0;0;1;0
+202106;Enexis;Enschede;Stadsveld-Noord-Bruggert;BU01530206;0;0;0;0
+202106;Enexis;Enschede;Tubantia-Toekomst;BU01530300;0;0;0;1
+202106;Enexis;Enschede;Twekkelerveld;BU01530301;0;0;0;0
+202106;Enexis;Enschede;Roombeek-Roomveldje;BU01530402;0;0;0;0
+202106;Enexis;Enschede;Mekkelholt;BU01530403;0;0;0;0
+202106;Enexis;Enschede;Deppenbroek;BU01530404;0;0;0;0
+202106;Enexis;Enschede;Voortman-Amelink;BU01530405;0;0;0;0
+202106;Enexis;Enschede;Drienerveld-U.T.;BU01530406;0;0;0;0
+202106;Enexis;Enschede;Schreurserve;BU01530500;0;0;0;0
+202106;Enexis;Enschede;Stroinkslanden Noord-Oost;BU01530600;0;0;0;0
+202106;Enexis;Enschede;Wesselerbrink Noord-Oost;BU01530603;0;0;0;0
+202106;Enexis;Enschede;Wesselerbrink Zuid-Oost;BU01530604;0;0;0;0
+202106;Enexis;Enschede;Wesselerbrink Noord-West;BU01530606;0;0;0;1
+202106;Enexis;Enschede;Helmerhoek-Noord;BU01530607;0;0;0;0
+202106;Enexis;Enschede;Industrie- en havengebied;BU01530700;0;0;1;1
+202106;Enexis;Enschede;Marssteden;BU01530701;0;0;0;2
+202106;Enexis;Enschede;Koekoeksbeekhoek;BU01530702;0;0;0;0
+202106;Enexis;Enschede;Kennispark;BU01530703;0;0;0;2
+202106;Enexis;Enschede;Schipholt-Glanermaten;BU01530802;0;0;0;0
+202106;Enexis;Enschede;De Slank;BU01530806;0;0;0;2
+202106;Enexis;Enschede;Dorp Boekelo;BU01530901;0;0;0;0
+202106;Enexis;Enschede;Buurtschap Lonneker-West;BU01530902;0;0;4;0
+202106;Enexis;Enschede;Noord Esmarke;BU01530903;0;0;0;0
+202106;Enexis;Enschede;Buurtschap Zuid-Esmarke;BU01530904;0;0;15;0
+202106;Enexis;Enschede;Buurtschap Broekheurne;BU01530905;0;0;52;1
+202106;Enexis;Enschede;Buurtschap Usselo;BU01530906;0;0;0;0
+202106;Enexis;Enschede;Boekelerveld;BU01530907;0;0;0;17
+202106;Enexis;Enschede;Buurtschap Twekkelo;BU01530908;0;0;0;2
+202106;Enexis;Haaksbergen;Haaksbergen Kern-1;BU01580001;0;0;0;0
+202106;Enexis;Haaksbergen;Haaksbergen Kern-2;BU01580002;0;0;0;0
+202106;Enexis;Haaksbergen;Haaksbergen Kern-3;BU01580003;0;0;0;0
+202106;Enexis;Haaksbergen;Veldmaat 1;BU01580010;0;0;0;0
+202106;Enexis;Haaksbergen;De Pas;BU01580040;0;0;0;0
+202106;Enexis;Haaksbergen;Industriegebied West;BU01580090;0;0;0;1
+202106;Enexis;Haaksbergen;Industriegebied Brammelo;BU01580091;0;0;0;0
+202106;Enexis;Haaksbergen;Verspreide huizen Langelo ten noorden van de spoorlijn;BU01580160;0;0;0;0
+202106;Enexis;Haaksbergen;Verspreide huizen Langelo (gedeeltelijk) en Honesch;BU01580170;0;0;0;0
+202106;Enexis;Haaksbergen;Verspreide huizen Veldmaat ten noorden van de spoorlijn;BU01580190;0;0;0;2
+202106;Enexis;Haaksbergen;Verspreide huizen Sint Isidorushoeve;BU01580290;0;0;0;1
+202106;Enexis;Haaksbergen;Verspreide huizen Buurse;BU01580390;0;0;1;0
+202106;Enexis;Haaksbergen;Verspreide huizen Brammelo;BU01580490;0;0;0;1
+202106;Enexis;Haaksbergen;Verspreide huizen Bretelerveld;BU01580590;0;0;8;0
+202106;Enexis;Hardenberg;Verspreide huizen Ane;BU01600102;0;0;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Anerveen;BU01600201;0;0;0;1
+202106;Enexis;Hardenberg;Balkbrug-Noord;BU01600402;0;0;0;1
+202106;Enexis;Hardenberg;Balkbrug-Benedenvaart;BU01600404;0;0;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Reestgebied (ged.);BU01600406;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Bergentheimerveen;BU01600502;0;0;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Oud-Bergentheim;BU01600503;0;0;0;1
+202106;Enexis;Hardenberg;Brucht;BU01600601;0;0;0;0
+202106;Enexis;Hardenberg;Collendoorn;BU01600701;0;0;0;0
+202106;Enexis;Hardenberg;De Krim-Streekdorp;BU01600802;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen De Krim;BU01600804;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Nieuwlande;BU01600805;0;0;0;0
+202106;Enexis;Hardenberg;Dedemsvaart-Noord;BU01600901;0;0;0;0
+202106;Enexis;Hardenberg;Dedemsvaart-Zuidwest;BU01600902;0;0;0;0
+202106;Enexis;Hardenberg;Dedemsvaart-Zuidoost;BU01600903;0;0;0;0
+202106;Enexis;Hardenberg;Rheezerend;BU01600904;0;0;0;0
+202106;Enexis;Hardenberg;Industriegebied Rollepaal;BU01600905;0;0;0;7
+202106;Enexis;Hardenberg;Verspreide huizen Colenbranderbos;BU01600906;0;0;0;2
+202106;Enexis;Hardenberg;Verspreide huizen Dedemsvaart;BU01600907;0;0;2;1
+202106;Enexis;Hardenberg;Verspreide huizen Ommerkanaal;BU01600908;0;14;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Den Velde;BU01601001;0;0;0;0
+202106;Enexis;Hardenberg;Gramsbergen Kern;BU01601201;0;0;0;1
+202106;Enexis;Hardenberg;Heemserveen;BU01601301;0;0;14;0
+202106;Enexis;Hardenberg;Verspreide huizen Holtheme-De Haandrik;BU01601401;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Holthone;BU01601501;0;0;0;0
+202106;Enexis;Hardenberg;Hoogenweg;BU01601601;0;0;22;0
+202106;Enexis;Hardenberg;Kloosterhaar Kern;BU01601701;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Kloosterhaar;BU01601702;0;0;0;6
+202106;Enexis;Hardenberg;Verspreide huizen Lutten-West;BU01601902;0;0;0;2
+202106;Enexis;Hardenberg;Verspreide huizen Oud-Lutten;BU01601904;0;0;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Marienberg;BU01602002;0;0;0;0
+202106;Enexis;Hardenberg;Radewijk;BU01602101;0;0;0;1
+202106;Enexis;Hardenberg;Rheezerveen;BU01602301;0;0;0;6
+202106;Enexis;Hardenberg;Schuinesloot Kern;BU01602401;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Schuinesloot;BU01602402;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Sibculo;BU01602502;0;0;0;1
+202106;Enexis;Hardenberg;Verspreide huizen Slagharen-Oost;BU01602603;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Slagharen-West;BU01602604;0;0;0;0
+202106;Enexis;Hardenberg;Venebrugge;BU01602701;0;0;0;1
+202106;Enexis;Hardenberg;Overig Stad Hardenberg;BU01602801;0;0;0;0
+202106;Enexis;Hardenberg;Industriegebied;BU01602802;0;0;0;8
+202106;Enexis;Hardenberg;Heemse-West Heemserbos;BU01602805;0;0;0;0
+202106;Enexis;Hardenberg;Baalder;BU01602806;0;0;0;0
+202106;Enexis;Hardenberg;Baalderveld;BU01602807;0;0;0;0
+202106;Enexis;Hardenberg;Marslanden;BU01602808;0;0;0;1
+202106;Enexis;Hardenberg;Centrum Saneringsgebied;BU01602809;0;0;0;0
+202106;Enexis;Hardenberg;Bruchterveld Kern;BU01602901;0;0;0;0
+202106;Enexis;Hardenberg;Verspreide huizen Bruchterveld;BU01602902;0;0;0;0
+202106;Enexis;Hellendoorn;Den Dam;BU01630103;0;0;0;0
+202106;Enexis;Hellendoorn;Zeeheldenwijk;BU01630201;0;0;0;0
+202106;Enexis;Hellendoorn;Nijverdal-Centrum;BU01630301;0;0;0;0
+202106;Enexis;Hellendoorn;Noetsele II en III;BU01630304;0;0;0;0
+202106;Enexis;Hellendoorn;De Brake;BU01630402;0;0;0;0
+202106;Enexis;Hellendoorn;De Blokken;BU01630405;0;0;0;0
+202106;Enexis;Hellendoorn;'t Lochter;BU01630407;0;0;1;6
+202106;Enexis;Hellendoorn;Hellendoorn;BU01630501;0;0;2;2
+202106;Enexis;Hellendoorn;'t Hexel;BU01630503;0;0;0;0
+202106;Enexis;Hellendoorn;Egede, Elen en Rhaan;BU01630505;0;0;1;1
+202106;Enexis;Hellendoorn;Hulsen;BU01630506;0;0;0;0
+202106;Enexis;Hellendoorn;Haarle;BU01630507;0;0;0;0
+202106;Enexis;Hellendoorn;Daarle;BU01630508;0;0;0;1
+202106;Enexis;Hellendoorn;Daalerveen;BU01630509;0;0;0;0
+202106;Enexis;Hellendoorn;Marle;BU01630510;0;0;0;1
+202106;Enexis;Hellendoorn;Hulsen dorp;BU01630601;0;0;0;0
+202106;Enexis;Hellendoorn;Kruidenwijk Centrum;BU01630603;0;0;0;0
+202106;Enexis;Hengelo;Binnenstad-Centrum;BU01640000;0;0;0;0
+202106;Enexis;Hengelo;Binnenstad-Oost;BU01640002;0;0;0;0
+202106;Enexis;Hengelo;Tichelwerk;BU01640101;0;0;0;0
+202106;Enexis;Hengelo;'t Wilbert;BU01640102;0;0;0;0
+202106;Enexis;Hengelo;Bedrijventerrein Timmersveld;BU01640103;0;0;0;0
+202106;Enexis;Hengelo;'t Rot;BU01640204;0;0;0;0
+202106;Enexis;Hengelo;Bartelinkshoek;BU01640302;0;0;0;0
+202106;Enexis;Hengelo;Oosterveld;BU01640309;0;0;1;0
+202106;Enexis;Hengelo;Zwavertshoek;BU01640400;0;0;0;0
+202106;Enexis;Hengelo;Anninks-/Nijhofshoek;BU01640401;0;0;0;0
+202106;Enexis;Hengelo;Groot Driene-Noord;BU01640403;0;0;0;0
+202106;Enexis;Hengelo;Bedrijventerrein Twentekanaal-Zuid II;BU01640500;0;0;0;0
+202106;Enexis;Hengelo;Berflo Es Noord;BU01640501;0;0;0;0
+202106;Enexis;Hengelo;Berflo Es Zuid;BU01640502;0;0;0;0
+202106;Enexis;Hengelo;Veldwijk-Noord;BU01640504;0;0;0;0
+202106;Enexis;Hengelo;Veldwijk-Zuid;BU01640505;0;0;0;0
+202106;Enexis;Hengelo;Boeldershoek;BU01640506;0;0;0;1
+202106;Enexis;Hengelo;Bedrijventerrein Twentekanaal-Zuid I;BU01640600;0;0;1;11
+202106;Enexis;Hengelo;Tuindorp 't Lansink;BU01640601;0;0;0;0
+202106;Enexis;Hengelo;Bedrijventerrein Twentekanaal-Noord I;BU01640603;0;0;0;0
+202106;Enexis;Hengelo;Nijverheid;BU01640604;0;0;0;0
+202106;Enexis;Hengelo;Bedrijventerrein Zeggershoek;BU01640606;0;0;0;1
+202106;Enexis;Hengelo;Bedrijventerrein Westermaat-Zuidwest;BU01640700;0;0;0;1
+202106;Enexis;Hengelo;Woolde;BU01640701;0;0;0;1
+202106;Enexis;Hengelo;Woolder Es;BU01640702;0;0;0;0
+202106;Enexis;Hengelo;Weidedorp;BU01640703;0;0;0;0
+202106;Enexis;Hengelo;Bedrijvenpark Westermaat-Zuidoost;BU01640704;0;0;0;0
+202106;Enexis;Hengelo;Bedrijventerrein Westermaat-Noordoost;BU01640705;0;0;0;5
+202106;Enexis;Hengelo;Het Broek;BU01640803;0;0;0;0
+202106;Enexis;Hengelo;Verspreide huizen Slangenbeek;BU01640901;0;0;0;0
+202106;Enexis;Hengelo;Stadspark Weusthag-Zuid;BU01640903;0;0;0;0
+202106;Enexis;Hengelo;Verspreide huizen Driene;BU01640904;0;0;0;0
+202106;Enexis;Hengelo;Verspreide huizen Twekkelo;BU01640905;0;0;0;0
+202106;Enexis;Hengelo;Verspreide huizen Woolde;BU01640907;0;0;0;0
+202106;Enexis;Hengelo;Verspreide huizen Beckum;BU01640909;0;0;0;1
+202106;Enexis;Kampen;Binnenstad Kampen;BU01660000;0;0;0;0
+202106;Enexis;Kampen;Groene Hart;BU01660002;0;0;0;0
+202106;Enexis;Kampen;Flevowijk;BU01660005;0;0;0;0
+202106;Enexis;Kampen;Industrieterrein Kampen;BU01660006;6;12;0;18
+202106;Enexis;Kampen;Bovenbroek;BU01660007;0;0;0;0
+202106;Enexis;Kampen;Cellesbroek;BU01660008;0;0;0;0
+202106;Enexis;Kampen;Hagenbroek;BU01660009;0;0;0;0
+202106;Enexis;Kampen;De Venen;BU01660011;0;0;0;0
+202106;Enexis;Kampen;Polder Dronthen;BU01660016;0;0;0;0
+202106;Enexis;Kampen;De Melm;BU01660017;0;0;0;0
+202106;Enexis;Kampen;Kampereiland;BU01660018;0;0;0;1
+202106;Enexis;Kampen;Industrieterrein IJsselmuiden;BU01660302;0;0;0;7
+202106;Enexis;Kampen;De Waard;BU01660303;0;0;0;0
+202106;Enexis;Kampen;De Koekoek;BU01660304;0;0;12;3
+202106;Enexis;Kampen;Oosterholt;BU01660305;0;0;0;0
+202106;Enexis;Kampen;Trekvaart;BU01660307;0;0;0;0
+202106;Enexis;Kampen;Verspreide huizen Zalk;BU01660401;0;0;1;0
+202106;Enexis;Kampen;Kamperveen;BU01660700;0;0;1;1
+202106;Enexis;Kampen;Verspreide huizen polder Mastenbroek;BU01660900;0;0;1;3
+202106;Enexis;Losser;Losser-West;BU01680001;0;0;0;0
+202106;Enexis;Losser;Bedrijfsterrein Losser;BU01680002;0;0;3;0
+202106;Enexis;Losser;Losser-Oost;BU01680003;0;0;0;1
+202106;Enexis;Losser;Verspreide huizen Losser;BU01680009;0;0;0;0
+202106;Enexis;Losser;Verspreide huizen Glane;BU01680109;0;0;0;0
+202106;Enexis;Losser;Overdinkel kern;BU01680201;0;0;0;0
+202106;Enexis;Losser;Verspreide huizen Overdinkel;BU01680209;0;0;20;2
+202106;Enexis;Losser;Verspreide huizen De Lutte;BU01680309;0;0;0;2
+202106;Enexis;Losser;Beuningen kern;BU01680401;0;0;0;0
+202106;Enexis;Losser;Verspreide huizen Beuningen;BU01680409;0;0;0;0
+202106;Enexis;Noordoostpolder;Marknesse-landelijk gebied;BU01710426;0;0;22;0
+202106;Enexis;Oldenzaal;Het Hulsbeek;BU01731000;0;0;0;0
+202106;Enexis;Ommen;Kern Ommen - Centrum;BU01750101;0;0;0;0
+202106;Enexis;Ommen;Kern Ommen - Laarakkers;BU01750103;0;0;0;0
+202106;Enexis;Ommen;Kern Ommen - Industrieterrein;BU01750105;0;0;0;1
+202106;Enexis;Ommen;Buurtschap Varsen;BU01750109;0;0;0;1
+202106;Enexis;Ommen;Buurtschap Emsland;BU01750111;0;0;0;2
+202106;Enexis;Ommen;Kern Ommen - Zuid - ten noorden v spoor;BU01750113;0;0;0;0
+202106;Enexis;Ommen;Kern Ommen - Zuid - ten zuiden v spoor;BU01750114;0;0;0;0
+202106;Enexis;Ommen;Kern Ommen - Rotbrink;BU01750120;0;0;0;2
+202106;Enexis;Ommen;Kern Ommen - Alteveer Bedrijven;BU01750122;0;0;0;1
+202106;Enexis;Ommen;Buurtschap Arrienveld;BU01750202;0;9;0;0
+202106;Enexis;Ommen;Buurtschap Beerze;BU01750301;0;0;0;0
+202106;Enexis;Ommen;Kern Kloosterdijk;BU01750402;0;0;0;0
+202106;Enexis;Ommen;Buurtschap Beerzerveld;BU01750403;0;0;0;0
+202106;Enexis;Ommen;Buurtschap Dalmsholte;BU01750501;0;0;0;0
+202106;Enexis;Ommen;Kern Lemele;BU01750701;0;0;0;0
+202106;Enexis;Ommen;Buurtschap Stegerveld;BU01750802;0;0;0;3
+202106;Enexis;Ommen;Buurtschap Vinkenbuurt;BU01751001;0;0;0;1
+202106;Enexis;Ommen;Buurtschap Witharen;BU01751102;0;0;0;1
+202106;Enexis;Ommen;Buurtschap Ommerveld;BU01751103;0;0;0;0
+202106;Enexis;Raalte;Raalte Centrum;BU01770000;0;0;0;0
+202106;Enexis;Raalte;De Enk en industrieterrein-Noordoost;BU01770001;0;0;1;2
+202106;Enexis;Raalte;Blekkershoek;BU01770002;0;0;0;0
+202106;Enexis;Raalte;De Hofstee;BU01770003;0;0;0;0
+202106;Enexis;Raalte;Langkamp II;BU01770007;0;0;0;0
+202106;Enexis;Raalte;Langkamp I;BU01770008;0;0;0;0
+202106;Enexis;Raalte;Industriegebied De Zegge I en II;BU01770100;0;0;0;1
+202106;Enexis;Raalte;Industriegebied De Zegge III;BU01770101;0;0;0;0
+202106;Enexis;Raalte;Drostenkamp en Tijenraan;BU01770104;0;0;0;1
+202106;Enexis;Raalte;Het Overstigt;BU01770107;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen buitengebied;BU01770109;0;0;23;3
+202106;Enexis;Raalte;Heeten-Kern;BU01770200;0;0;0;2
+202106;Enexis;Raalte;Verspreide huizen Heeten;BU01770209;0;0;0;1
+202106;Enexis;Raalte;Verspreide huizen Luttenberg I;BU01770308;0;0;22;0
+202106;Enexis;Raalte;Verspreide huizen Luttenberg II;BU01770309;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Broekland II;BU01770408;0;0;2;1
+202106;Enexis;Raalte;Verspreide huizen Broekland III;BU01770409;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Mariënheem I;BU01770507;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Mariënheem II;BU01770508;0;0;0;2
+202106;Enexis;Raalte;Verspreide huizen Mariënheem III;BU01770509;0;0;0;0
+202106;Enexis;Raalte;Nieuw Heeten;BU01770600;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Nieuw Heeten;BU01770609;0;0;0;0
+202106;Enexis;Raalte;Heino-West;BU01770800;0;0;0;0
+202106;Enexis;Raalte;Heino-Oost;BU01770801;0;0;0;0
+202106;Enexis;Raalte;Heino-Noord;BU01770802;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Twentseweg en omgeving;BU01770806;0;0;6;0
+202106;Enexis;Raalte;Verspreide huizen Veldhoek;BU01770807;0;0;0;1
+202106;Enexis;Raalte;Verspreide huizen Laag Zuthem;BU01770909;0;0;0;1
+202106;Enexis;Raalte;Lierderholthuis-Kern;BU01771000;0;0;0;0
+202106;Enexis;Raalte;Verspreide huizen Molenweg en omgeving;BU01771009;0;0;0;0
+202106;Enexis;Staphorst;Staphorst streek-Oost;BU01800003;0;0;0;0
+202106;Enexis;Staphorst;Industrieterrein Staphorst;BU01800004;0;0;0;1
+202106;Enexis;Staphorst;Staphorst-Zuid;BU01800005;0;0;0;0
+202106;Enexis;Staphorst;Staphorst-Noord;BU01800006;0;0;0;0
+202106;Enexis;Staphorst;Rouveen Streek-Zuid;BU01800101;0;0;0;0
+202106;Enexis;Staphorst;Rouveen Streek-Noord;BU01800102;0;0;0;1
+202106;Enexis;Staphorst;Verspreide huizen Dedemsvaart;BU01800206;0;2;0;0
+202106;Enexis;Staphorst;Verspreide huizen Bisschops- en Munnikenslag;BU01800207;13;2;0;0
+202106;Enexis;Staphorst;Verspreide huizen Geerenland;BU01800208;0;0;0;0
+202106;Enexis;Staphorst;Verspreide huizen Oldmaten;BU01800209;0;0;0;0
+202106;Enexis;Staphorst;Verspreide huizen Leyen;BU01800306;0;0;0;0
+202106;Enexis;Staphorst;Verspreide huizen Berger Achthoven en omgeving;BU01800307;0;0;0;2
+202106;Enexis;Staphorst;Verspreide huizen Rechterensweg en omgeving;BU01800309;0;0;0;0
+202106;Enexis;Staphorst;IJhorst;BU01800400;0;0;0;0
+202106;Enexis;Staphorst;Verspreide huizen IJhorst;BU01800409;0;0;0;0
+202106;Enexis;Staphorst;Verspreide huizen Punthorst;BU01800509;0;2;0;1
+202106;Enexis;Tubbergen;Tubbergen-Dorp;BU01830000;0;0;0;1
+202106;Enexis;Tubbergen;Verspreide huizen Manderveen;BU01830008;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Tubbergen;BU01830009;0;0;0;1
+202106;Enexis;Tubbergen;Albergen kern;BU01830100;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Albergen;BU01830109;0;0;1;1
+202106;Enexis;Tubbergen;Harbrinkhoek kern;BU01830200;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Harbrinkhoek;BU01830209;0;0;0;0
+202106;Enexis;Tubbergen;Geesteren kern;BU01830300;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Geesteren;BU01830309;0;0;0;3
+202106;Enexis;Tubbergen;Langeveen kern;BU01830400;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Langeveen;BU01830409;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Hezingen;BU01830507;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Vasse;BU01830508;0;0;0;0
+202106;Enexis;Tubbergen;Reutum kern;BU01830600;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Reutum;BU01830609;0;0;1;0
+202106;Enexis;Tubbergen;Fleringen kern;BU01830700;0;0;0;0
+202106;Enexis;Tubbergen;Verspreide huizen Fleringen;BU01830709;0;0;1;2
+202106;Enexis;Wierden;Wierden-Noord;BU01890001;0;0;0;1
+202106;Enexis;Wierden;De Maaten;BU01890003;0;0;0;0
+202106;Enexis;Wierden;Verspreide huizen Lage Egge en omgeving;BU01890105;0;0;0;5
+202106;Enexis;Wierden;Verspreide huizen Broeklanden;BU01890106;0;0;0;0
+202106;Enexis;Wierden;Verspreide huizen Huurne I;BU01890107;0;0;0;1
+202106;Enexis;Wierden;Verspreide huizen Wierdenseveld;BU01890109;0;0;0;0
+202106;Enexis;Wierden;Verspreide huizen Hooge-Hexel;BU01890209;0;0;0;2
+202106;Enexis;Wierden;Enter-Zuidwest;BU01890300;0;0;0;1
+202106;Enexis;Wierden;Enter-West;BU01890303;0;0;0;1
+202106;Enexis;Wierden;Verspreide huizen Enterveen en Elsslagen;BU01890407;0;0;2;2
+202106;Enexis;Wierden;Verspreide huizen Zuiderveld;BU01890408;0;0;4;0
+202106;Enexis;Wierden;Verspreide huizen Enterbroek en omgeving;BU01890409;0;0;1;2
+202106;Enexis;Wierden;Verspreide huizen Rectum;BU01890507;0;0;0;1
+202106;Enexis;Wierden;Verspreide huizen Notter;BU01890508;0;0;0;1
+202106;Enexis;Wierden;Verspreide huizen Zuna;BU01890509;0;0;0;0
+202106;Enexis;Zwolle;Binnenstad-Zuid;BU01931000;0;0;0;0
+202106;Enexis;Zwolle;Noordereiland;BU01931020;0;0;0;0
+202106;Enexis;Zwolle;Het Noorden;BU01931100;0;0;0;0
+202106;Enexis;Zwolle;Bollebieste;BU01931120;0;0;0;0
+202106;Enexis;Zwolle;Bagijneweide;BU01931140;0;0;0;0
+202106;Enexis;Zwolle;Bedrijventerrein Floresstraat;BU01931180;0;0;0;2
+202106;Enexis;Zwolle;Wipstrik-Zuid;BU01931210;0;0;0;0
+202106;Enexis;Zwolle;Stationsbuurt;BU01931300;0;0;0;0
+202106;Enexis;Zwolle;Oud-Assendorp;BU01931310;0;0;0;0
+202106;Enexis;Zwolle;Wezenlanden;BU01931330;0;0;0;0
+202106;Enexis;Zwolle;Pierik;BU01931340;0;0;0;0
+202106;Enexis;Zwolle;Hanzeland;BU01931360;0;0;0;0
+202106;Enexis;Zwolle;Kamperpoort;BU01931400;0;0;0;0
+202106;Enexis;Zwolle;Veerallee;BU01931410;0;0;0;0
+202106;Enexis;Zwolle;Bedrijventerrein Voorst-A;BU01932000;0;0;0;0
+202106;Enexis;Zwolle;Bedrijventerrein Voorst-B;BU01932010;0;0;0;7
+202106;Enexis;Zwolle;Oud-Westenholte;BU01932100;0;0;0;0
+202106;Enexis;Zwolle;Vreugderijk;BU01932120;0;0;2;1
+202106;Enexis;Zwolle;Bedrijventerrein Voorst-C;BU01932130;0;0;0;1
+202106;Enexis;Zwolle;Bedrijventerrein Voorst-D;BU01932140;0;0;0;0
+202106;Enexis;Zwolle;Frankhuis;BU01932200;0;0;0;0
+202106;Enexis;Zwolle;Mastenbroek;BU01932210;0;0;0;0
+202106;Enexis;Zwolle;Milligen;BU01932240;0;0;0;0
+202106;Enexis;Zwolle;Breecamp;BU01932260;0;0;1;0
+202106;Enexis;Zwolle;Holtenbroek IV;BU01933000;0;0;0;0
+202106;Enexis;Zwolle;Aalanden-Midden;BU01933110;0;0;0;0
+202106;Enexis;Zwolle;Haerst;BU01933220;0;0;0;26
+202106;Enexis;Zwolle;Berkum;BU01934000;0;0;0;1
+202106;Enexis;Zwolle;Bedrijventerrein de Vrolijkheid;BU01934010;0;0;0;0
+202106;Enexis;Zwolle;Kantorenterrein-Oosterenk;BU01934030;0;0;1;5
+202106;Enexis;Zwolle;Bedrijventerrein Hessenpoort;BU01934040;0;0;0;19
+202106;Enexis;Zwolle;Tolhuislanden;BU01934050;0;20;0;0
+202106;Enexis;Zwolle;Herfte;BU01934100;0;0;0;0
+202106;Enexis;Zwolle;Bedrijventerrein Marslanden-Zuid;BU01934110;0;0;0;16
+202106;Enexis;Zwolle;Wijthmen;BU01934120;0;0;0;0
+202106;Enexis;Zwolle;Schellerbroek;BU01935020;0;0;0;0
+202106;Enexis;Zwolle;Schellerlanden;BU01935030;0;0;0;0
+202106;Enexis;Zwolle;Katerveer-Engelse Werk;BU01935080;0;0;0;1
+202106;Enexis;Zwolle;Oud Ittersum;BU01935100;0;0;0;0
+202106;Enexis;Zwolle;Gerenbroek;BU01935150;0;0;0;0
+202106;Enexis;Zwolle;Oude Mars;BU01935160;0;0;0;1
+202106;Enexis;Zwolle;Harculo en Hoogzutmen;BU01935210;0;0;1;15
+202106;Enexis;Voorst;Verspreide huizen Twello-Zuid;BU02850105;0;0;0;36
+202106;Enexis;Tholen;Verspreide huizen Sint-Annaland;BU07160509;0;15;0;0
+202106;Enexis;Aalburg;Wijk en Aalburg;BU07380000;0;0;0;0
+202106;Enexis;Aalburg;Spijk;BU07380001;0;0;0;1
+202106;Enexis;Aalburg;Verspreide huizen Wijk en Aalburg;BU07380009;0;0;0;1
+202106;Enexis;Aalburg;Veen;BU07380100;0;0;0;0
+202106;Enexis;Aalburg;Verspreide huizen Genderen;BU07380209;0;0;0;1
+202106;Enexis;Aalburg;Eethen;BU07380300;0;0;0;0
+202106;Enexis;Aalburg;Verspreide huizen Drongelen;BU07380509;0;0;0;2
+202106;Enexis;Aalburg;Verspreide huizen Babyloniënbroek;BU07380609;0;0;0;1
+202106;Enexis;Asten;Asten;BU07430000;0;0;0;2
+202106;Enexis;Asten;De Loverbosch;BU07430001;0;0;0;0
+202106;Enexis;Asten;Nobis;BU07430002;0;0;0;0
+202106;Enexis;Asten;Verspreide huizen Achterbosch en Rinkveld;BU07430008;0;0;0;0
+202106;Enexis;Asten;Verspreide huizen Asten;BU07430009;0;0;0;2
+202106;Enexis;Asten;Heusden;BU07430100;0;0;0;0
+202106;Enexis;Asten;Verspreide huizen Heusden;BU07430109;0;0;2;10
+202106;Enexis;Asten;Ommel;BU07430200;0;0;0;0
+202106;Enexis;Asten;Verspreide huizen Ommel;BU07430209;0;0;0;1
+202106;Enexis;Asten;Verspreide huizen Kleine Heitrak en omgeving;BU07430809;0;0;5;1
+202106;Enexis;Asten;Verspreide huizen Leensel en Hutten;BU07430909;0;0;1;1
+202106;Enexis;Baarle-Nassau;Baarle-Nassau;BU07440000;0;0;0;1
+202106;Enexis;Baarle-Nassau;Verspreide huizen Baarle-Nassau;BU07440009;0;0;0;4
+202106;Enexis;Baarle-Nassau;Ulicoten;BU07440100;0;0;0;0
+202106;Enexis;Baarle-Nassau;Verspreide huizen Ulicoten;BU07440109;0;0;2;2
+202106;Enexis;Baarle-Nassau;Verspreide huizen Castelre;BU07440209;0;0;0;0
+202106;Enexis;Bergen op Zoom;Vestinggronden-Noord;BU07480002;0;0;0;0
+202106;Enexis;Bergen op Zoom;Meilust Noord;BU07480101;0;0;0;0
+202106;Enexis;Bergen op Zoom;Gageldonk-West;BU07480200;0;0;0;0
+202106;Enexis;Bergen op Zoom;Warande-Oost;BU07480203;0;0;0;0
+202106;Enexis;Bergen op Zoom;Langeweg;BU07480205;0;0;0;0
+202106;Enexis;Bergen op Zoom;Lage Meren;BU07480206;0;0;0;3
+202106;Enexis;Bergen op Zoom;Verspreide huizen Heimolen;BU07480208;0;0;6;0
+202106;Enexis;Bergen op Zoom;Buitengebied-Oost;BU07480209;0;0;18;1
+202106;Enexis;Bergen op Zoom;Bergse Plaat;BU07480300;0;0;0;0
+202106;Enexis;Bergen op Zoom;De Markiezaten;BU07480301;0;0;0;0
+202106;Enexis;Bergen op Zoom;Schelde Vesting;BU07480302;0;0;0;0
+202106;Enexis;Bergen op Zoom;Waterfront-Industriegebied;BU07480306;0;0;0;9
+202106;Enexis;Bergen op Zoom;Halsteren-Centrum;BU07480400;0;0;0;0
+202106;Enexis;Bergen op Zoom;De Schans en Oude Molen;BU07480405;0;0;0;1
+202106;Enexis;Bergen op Zoom;Verspreide huizen Halsterse Polders;BU07480409;0;7;0;1
+202106;Enexis;Bergen op Zoom;Lepelstraat;BU07480500;0;0;6;0
+202106;Enexis;Bergen op Zoom;Verspreide huizen Oud Glymespolder;BU07480509;0;0;0;0
+202106;Enexis;Best;Centrum;BU07530001;0;0;0;0
+202106;Enexis;Best;Naastenbest;BU07530009;0;0;0;1
+202106;Enexis;Best;'t Zand;BU07530010;0;0;1;3
+202106;Enexis;Best;Breeven;BU07530011;0;0;0;2
+202106;Enexis;Best;Heide;BU07530012;0;0;0;4
+202106;Enexis;Best;Buitengebied;BU07530015;0;0;2;9
+202106;Enexis;Best;Dijkstraten;BU07530016;0;0;0;0
+202106;Enexis;Boekel;Boekel;BU07550000;0;0;0;0
+202106;Enexis;Boekel;Verspreide huizen Logt en Berkhoek;BU07550005;0;0;0;0
+202106;Enexis;Boekel;Verspreide huizen Arendnest-Zijp;BU07550006;0;0;0;6
+202106;Enexis;Boekel;Verspreide huizen Zandhoek en Peelstraat;BU07550007;0;0;0;2
+202106;Enexis;Boekel;Verspreide huizen Molenwijk, Elzen en Neerbroek;BU07550008;0;0;0;4
+202106;Enexis;Boekel;Verspreide huizen Bovenstehuis en Peelsehuis;BU07550009;0;0;0;1
+202106;Enexis;Boekel;Venhorst;BU07550100;0;0;0;1
+202106;Enexis;Boekel;Verspreide huizen Venhorst;BU07550109;0;0;0;3
+202106;Enexis;Boxmeer;Boxmeer Centrum;BU07560000;0;0;0;0
+202106;Enexis;Boxmeer;Bakelgeert-Zuid;BU07560002;0;0;0;0
+202106;Enexis;Boxmeer;Bedrijventerrein Saxa Gotha;BU07560008;0;0;0;3
+202106;Enexis;Boxmeer;Verspreide huizen Sambeek;BU07560109;0;0;0;2
+202106;Enexis;Boxmeer;Beugen Centrum;BU07560200;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Beugen;BU07560209;0;0;0;1
+202106;Enexis;Boxmeer;Oeffelt Centrum;BU07560300;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Oeffelt;BU07560309;0;0;0;0
+202106;Enexis;Boxmeer;Rijkevoort Centrum;BU07560400;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Rijkevoort;BU07560409;0;0;0;5
+202106;Enexis;Boxmeer;Vortum-Mullem Centrum;BU07560500;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Vortum-Mullem;BU07560509;0;0;0;2
+202106;Enexis;Boxmeer;Vierlingsbeek Centrum;BU07560600;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Vierlingsbeek en Groeningen;BU07560609;0;0;50;3
+202106;Enexis;Boxmeer;Overloon Centrum;BU07560700;0;0;0;1
+202106;Enexis;Boxmeer;Verspreide huizen Westerbeek;BU07560707;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Stevensbeek;BU07560708;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide huizen Overloon;BU07560709;0;0;1;3
+202106;Enexis;Boxmeer;Verspreide huizen Maashees;BU07560809;0;0;0;0
+202106;Enexis;Boxmeer;Holthees Centrum;BU07560900;0;0;0;0
+202106;Enexis;Boxmeer;Verspreide Huizen Holthees;BU07560909;0;0;0;0
+202106;Enexis;Boxtel;Boxtel-Centrum;BU07570000;0;0;0;0
+202106;Enexis;Boxtel;Boxtel-Noord;BU07570002;0;0;0;0
+202106;Enexis;Boxtel;Industrieterrein Boxtel;BU07570004;0;0;0;2
+202106;Enexis;Boxtel;Verspreide huizen Tongeren, Luissel en Nergena;BU07570006;0;0;0;2
+202106;Enexis;Boxtel;Verspreide huizen Hal en Heult;BU07570007;0;0;0;0
+202106;Enexis;Boxtel;Verspreide huizen Langenberg;BU07570008;0;0;0;1
+202106;Enexis;Boxtel;Lennisheuvel;BU07570100;0;0;0;1
+202106;Enexis;Boxtel;Verspreide huizen Lennisheuvel;BU07570109;0;0;1;0
+202106;Enexis;Boxtel;Vrilkhoven;BU07570207;0;0;0;0
+202106;Enexis;Boxtel;Verspreide huizen Velders, Bosch en De Scheeken;BU07570209;0;0;0;0
+202106;Enexis;Breda;Valkenberg;BU07580001;0;0;0;0
+202106;Enexis;Breda;Chassé;BU07580002;0;0;0;0
+202106;Enexis;Breda;Schorsmolen;BU07580004;0;0;0;0
+202106;Enexis;Breda;Station;BU07580005;0;0;0;0
+202106;Enexis;Breda;City;BU07580006;0;0;0;0
+202106;Enexis;Breda;Belcrum;BU07580100;0;0;0;0
+202106;Enexis;Breda;Doornbos-Linie;BU07580101;0;0;0;0
+202106;Enexis;Breda;Biesdonk;BU07580102;0;0;0;0
+202106;Enexis;Breda;Geeren-Zuid;BU07580103;0;0;0;2
+202106;Enexis;Breda;Krogten;BU07580105;0;0;2;3
+202106;Enexis;Breda;Geeren-Noord;BU07580106;0;0;0;0
+202106;Enexis;Breda;Brabantpark;BU07580200;0;0;0;2
+202106;Enexis;Breda;Sportpark;BU07580201;0;0;0;1
+202106;Enexis;Breda;Heusdenhout;BU07580203;0;0;0;0
+202106;Enexis;Breda;Moleneind-Oost;BU07580204;0;0;0;0
+202106;Enexis;Breda;Hoogeind;BU07580205;0;0;0;33
+202106;Enexis;Breda;Blauwe Kei;BU07580300;0;0;0;0
+202106;Enexis;Breda;Ypelaar;BU07580301;0;0;0;0
+202106;Enexis;Breda;Overakker;BU07580302;0;0;0;0
+202106;Enexis;Breda;Mastbos;BU07580309;13;0;0;0
+202106;Enexis;Breda;Boeimeer;BU07580400;0;0;0;0
+202106;Enexis;Breda;Ruitersbos;BU07580401;0;0;0;0
+202106;Enexis;Breda;Heuvel;BU07580501;0;0;0;0
+202106;Enexis;Breda;Tuinzigt;BU07580502;0;0;0;1
+202106;Enexis;Breda;Princenhage;BU07580503;0;0;1;1
+202106;Enexis;Breda;Westerpark;BU07580504;0;0;0;0
+202106;Enexis;Breda;Heilaar;BU07580505;0;0;4;3
+202106;Enexis;Breda;Hazeldonk;BU07580506;0;9;4;3
+202106;Enexis;Breda;Steenakker;BU07580507;0;0;0;4
+202106;Enexis;Breda;Effen-Rith;BU07580508;0;0;1;1
+202106;Enexis;Breda;Liesbos;BU07580509;0;0;0;0
+202106;Enexis;Breda;Gageldonk;BU07580600;0;0;0;0
+202106;Enexis;Breda;Kievitsloop;BU07580601;0;0;0;0
+202106;Enexis;Breda;Kesteren;BU07580602;0;0;0;0
+202106;Enexis;Breda;Muizenberg;BU07580603;0;0;0;0
+202106;Enexis;Breda;Heksenwiel;BU07580604;0;0;0;0
+202106;Enexis;Breda;Kroeten;BU07580606;0;0;0;0
+202106;Enexis;Breda;Emer;BU07580607;0;0;4;2
+202106;Enexis;Breda;Hagebeemd;BU07580609;0;1;0;1
+202106;Enexis;Breda;Bavel;BU07580700;0;0;0;0
+202106;Enexis;Breda;Nieuw Wolfslaar;BU07580701;0;0;0;0
+202106;Enexis;Breda;Buitengebied Bavel;BU07580709;0;0;0;1
+202106;Enexis;Breda;Ulvenhout;BU07580800;0;0;0;0
+202106;Enexis;Breda;Prinsenbeek;BU07580900;0;0;1;0
+202106;Enexis;Breda;Buitengebied Prinsenbeek;BU07580909;0;0;0;0
+202106;Enexis;Breda;Teteringen;BU07581000;0;0;0;0
+202106;Enexis;Breda;Vuchtpolder;BU07581008;0;0;0;0
+202106;Enexis;Deurne;Deurne-Centrum;BU07620000;0;0;0;0
+202106;Enexis;Deurne;Sint Jozefparochie;BU07620001;0;0;0;5
+202106;Enexis;Deurne;Industrieterrein;BU07620006;0;0;0;3
+202106;Enexis;Deurne;Verspreide huizen Deurne;BU07620009;0;0;6;13
+202106;Enexis;Deurne;Verspreide huizen Vlierden;BU07620109;0;0;0;2
+202106;Enexis;Deurne;Verspreide huizen Liessel;BU07620209;0;0;1;1
+202106;Enexis;Deurne;Verspreide huizen Neerkant;BU07620309;0;0;0;1
+202106;Enexis;Deurne;Helenaveen;BU07620400;0;0;0;0
+202106;Enexis;Deurne;Verspreide huizen Helenaveen;BU07620409;0;0;1;0
+202106;Enexis;Pekela;Oude Pekela;BU07650000;0;0;1;8
+202106;Enexis;Pekela;Verspreide huizen Oude Pekela;BU07650009;0;0;53;0
+202106;Enexis;Pekela;Nieuwe Pekela;BU07650100;0;0;0;0
+202106;Enexis;Pekela;Boven-Pekela;BU07650101;0;0;0;1
+202106;Enexis;Pekela;Verspreide huizen Nieuwe Pekela;BU07650109;0;0;2;16
+202106;Enexis;Dongen;Buitengebied West 1;BU07660102;0;0;0;0
+202106;Enexis;Dongen;Centrum;BU07660105;0;0;0;0
+202106;Enexis;Dongen;Beljaart;BU07660106;0;0;0;0
+202106;Enexis;Dongen;Buitengebied Oost;BU07660110;0;0;22;0
+202106;Enexis;Dongen;Buitengebied Klein Dongen/Dongen-Vaart;BU07660113;0;0;0;0
+202106;Enexis;Dongen;Tichelrijt;BU07660114;0;0;13;1
+202106;Enexis;Dongen;'s Gravenmoer;BU07660216;0;0;0;0
+202106;Enexis;Eersel;Eersel-kom en Lindeakkers;BU07700000;0;0;0;0
+202106;Enexis;Eersel;Bedrijventerrein Eersel;BU07700005;0;0;0;2
+202106;Enexis;Eersel;Stokkelen en Hoogstraat;BU07700007;0;0;0;0
+202106;Enexis;Eersel;De Hees en Genderweg;BU07700008;0;0;0;0
+202106;Enexis;Eersel;Verspreide huizen Eersel;BU07700009;0;0;0;2
+202106;Enexis;Eersel;Duizel;BU07700100;0;0;0;0
+202106;Enexis;Eersel;Verspreide huizen Duizel;BU07700109;0;0;0;1
+202106;Enexis;Eersel;Verspreide huizen Steensel;BU07700209;0;0;0;0
+202106;Enexis;Eersel;Vessem-kom;BU07700300;0;0;0;0
+202106;Enexis;Eersel;Verspreide huizen Vessem;BU07700309;0;0;0;1
+202106;Enexis;Eersel;Wintelre-kom;BU07700400;0;0;0;0
+202106;Enexis;Eersel;Verspreide huizen Wintelre;BU07700409;0;0;0;1
+202106;Enexis;Eersel;Knegsel-kom;BU07700500;0;0;0;0
+202106;Enexis;Eersel;Verspreide huizen Knegsel;BU07700509;0;0;0;2
+202106;Enexis;Eindhoven;Binnenstad;BU07721111;0;0;0;1
+202106;Enexis;Eindhoven;Bergen;BU07721112;0;0;0;0
+202106;Enexis;Eindhoven;Witte Dame;BU07721113;0;0;0;0
+202106;Enexis;Eindhoven;Fellenoord;BU07721114;0;0;0;0
+202106;Enexis;Eindhoven;TU-terrein;BU07721115;0;0;0;1
+202106;Enexis;Eindhoven;Irisbuurt;BU07721211;0;0;0;1
+202106;Enexis;Eindhoven;Tuindorp;BU07721214;0;0;0;0
+202106;Enexis;Eindhoven;Looiakkers;BU07721217;0;0;0;0
+202106;Enexis;Eindhoven;Gerardusplein;BU07721222;0;0;0;0
+202106;Enexis;Eindhoven;Roosten;BU07721224;0;0;0;0
+202106;Enexis;Eindhoven;Sportpark Aalsterweg;BU07721226;0;0;0;0
+202106;Enexis;Eindhoven;Puttense Dreef;BU07721230;0;0;0;0
+202106;Enexis;Eindhoven;Poeijers;BU07721231;0;0;0;0
+202106;Enexis;Eindhoven;Nieuwe Erven;BU07721236;0;0;0;0
+202106;Enexis;Eindhoven;Villapark;BU07721311;0;0;0;0
+202106;Enexis;Eindhoven;Lakerlopen;BU07721312;0;0;0;0
+202106;Enexis;Eindhoven;Doornakkers-West;BU07721321;0;0;0;0
+202106;Enexis;Eindhoven;Doornakkers-Oost;BU07721322;0;0;0;0
+202106;Enexis;Eindhoven;Tongelresche Akkers;BU07721328;0;0;0;0
+202106;Enexis;Eindhoven;Muschberg, Geestenberg;BU07721333;0;0;0;0
+202106;Enexis;Eindhoven;Urkhoven;BU07721334;0;0;0;1
+202106;Enexis;Eindhoven;Limbeek-Zuid;BU07721410;0;0;0;0
+202106;Enexis;Eindhoven;Limbeek-Noord;BU07721411;0;0;0;0
+202106;Enexis;Eindhoven;Woenselse Watermolen;BU07721414;0;0;0;0
+202106;Enexis;Eindhoven;Kronehoef;BU07721422;0;0;0;0
+202106;Enexis;Eindhoven;Mensfort;BU07721424;0;0;0;0
+202106;Enexis;Eindhoven;Oude Toren;BU07721432;0;0;0;0
+202106;Enexis;Eindhoven;Hondsheuvels;BU07721433;0;0;0;0
+202106;Enexis;Eindhoven;Oude Gracht-West;BU07721434;0;0;0;0
+202106;Enexis;Eindhoven;Oude Gracht-Oost;BU07721435;0;0;0;1
+202106;Enexis;Eindhoven;Driehoeksbos;BU07721511;0;0;0;1
+202106;Enexis;Eindhoven;Prinsejagt;BU07721512;0;0;0;1
+202106;Enexis;Eindhoven;Winkelcentrum;BU07721515;0;0;0;0
+202106;Enexis;Eindhoven;Vlokhoven;BU07721516;0;0;0;0
+202106;Enexis;Eindhoven;Kapelbeemd;BU07721520;0;0;0;0
+202106;Enexis;Eindhoven;Kerkdorp Acht;BU07721521;0;0;0;0
+202106;Enexis;Eindhoven;Achtse Barrier-Gunterslaer;BU07721522;0;0;0;0
+202106;Enexis;Eindhoven;Achtse Barrier-Spaaihoef;BU07721523;0;0;0;0
+202106;Enexis;Eindhoven;Achtse Barrier-Hoeven;BU07721524;0;0;0;0
+202106;Enexis;Eindhoven;Woenselse Heide;BU07721531;0;0;0;0
+202106;Enexis;Eindhoven;Tempel;BU07721532;0;0;0;1
+202106;Enexis;Eindhoven;Castiliëlaan;BU07721535;0;0;0;1
+202106;Enexis;Eindhoven;Eckart;BU07721541;0;0;0;0
+202106;Enexis;Eindhoven;Heesterakker;BU07721544;0;0;0;0
+202106;Enexis;Eindhoven;Esp;BU07721545;0;0;0;1
+202106;Enexis;Eindhoven;Bokt;BU07721546;0;0;0;0
+202106;Enexis;Eindhoven;Eliasterrein, Vonderkwartier;BU07721611;0;0;0;0
+202106;Enexis;Eindhoven;Philipsdorp;BU07721612;0;0;0;0
+202106;Enexis;Eindhoven;Schouwbroek;BU07721614;0;0;0;0
+202106;Enexis;Eindhoven;Schoot;BU07721615;0;0;0;0
+202106;Enexis;Eindhoven;Strijp S;BU07721616;0;0;0;0
+202106;Enexis;Eindhoven;Hurk;BU07721621;0;0;1;5
+202106;Enexis;Eindhoven;Het Ven;BU07721622;0;0;0;8
+202106;Enexis;Eindhoven;Lievendaal;BU07721623;0;0;0;0
+202106;Enexis;Eindhoven;Drents Dorp;BU07721624;0;0;0;1
+202106;Enexis;Eindhoven;Zwaanstraat;BU07721625;0;0;0;1
+202106;Enexis;Eindhoven;Herdgang;BU07721627;0;0;0;0
+202106;Enexis;Eindhoven;Mispelhoef;BU07721628;0;0;1;22
+202106;Enexis;Eindhoven;BeA2;BU07721631;0;0;0;2
+202106;Enexis;Eindhoven;Grasrijk;BU07721633;0;0;0;0
+202106;Enexis;Eindhoven;Park Forum;BU07721636;0;0;1;3
+202106;Enexis;Eindhoven;Flight Forum;BU07721637;0;0;2;14
+202106;Enexis;Eindhoven;Meerrijk;BU07721640;0;0;0;0
+202106;Enexis;Eindhoven;Schrijversbuurt;BU07721711;0;0;0;0
+202106;Enexis;Eindhoven;Oude Spoorbaan;BU07721712;0;0;0;0
+202106;Enexis;Eindhoven;Genderdal;BU07721721;0;0;0;0
+202106;Enexis;Eindhoven;Bennekel-Oost;BU07721724;0;0;0;0
+202106;Enexis;Eindhoven;Bennekel-West, Gagelbosch;BU07721725;0;0;0;0
+202106;Enexis;Eindhoven;Gennep;BU07721726;0;0;0;5
+202106;Enexis;Eindhoven;Beemden;BU07721727;0;0;0;1
+202106;Enexis;Eindhoven;Genderbeemd;BU07721731;0;0;0;0
+202106;Enexis;Etten-Leur;Centrum Oost 2;BU07770001;0;0;0;0
+202106;Enexis;Etten-Leur;Centrum West 1;BU07770003;0;0;0;0
+202106;Enexis;Etten-Leur;Het Hooghuis;BU07770005;0;0;0;0
+202106;Enexis;Etten-Leur;Bedrijventerrein Vosdonk;BU07770100;0;0;5;5
+202106;Enexis;Etten-Leur;Etten-Leur Midden landelijk gebied;BU07770200;0;0;0;0
+202106;Enexis;Etten-Leur;Noord 4, Stichting Het Hooghuys;BU07771003;0;0;0;0
+202106;Enexis;Etten-Leur;Baai 2;BU07771005;0;0;0;0
+202106;Enexis;Etten-Leur;Attelaken;BU07771014;0;0;0;0
+202106;Enexis;Etten-Leur;Bedrijventerrein Vossendaal;BU07771100;0;0;0;2
+202106;Enexis;Etten-Leur;Landelijk gebied 2 (Noord);BU07771201;0;10;0;1
+202106;Enexis;Etten-Leur;Landelijk gebied 4 (Noord);BU07771203;0;24;0;0
+202106;Enexis;Etten-Leur;Banakkers 3;BU07772002;0;0;0;0
+202106;Enexis;Etten-Leur;Banakkers 4, Achter de Molen;BU07772003;0;0;0;1
+202106;Enexis;Etten-Leur;Grauwe Polder 5, 't Winhof;BU07772008;0;0;0;1
+202106;Enexis;Etten-Leur;Hoge Neerstraat;BU07772009;0;0;0;1
+202106;Enexis;Etten-Leur;Centrumplan;BU07772010;0;0;0;0
+202106;Enexis;Etten-Leur;Bedrijventerrein Vosdonk-Zuid;BU07772100;0;0;4;3
+202106;Enexis;Etten-Leur;Bedrijventerrein Trivium;BU07772200;0;0;0;1
+202106;Enexis;Etten-Leur;Landelijk gebied 1 (Zuid);BU07772300;0;0;0;0
+202106;Enexis;Etten-Leur;Landelijk gebied 2 (Zuid);BU07772301;0;0;0;0
+202106;Enexis;Etten-Leur;Landelijk gebied 3 (Zuid);BU07772302;0;0;0;0
+202106;Enexis;Geertruidenberg;Raamsdonksveer;BU07790000;0;0;0;0
+202106;Enexis;Geertruidenberg;Hooipolder en De Hoeven;BU07790001;0;0;0;0
+202106;Enexis;Geertruidenberg;Industrieterrein Dombosch;BU07790002;0;0;0;10
+202106;Enexis;Geertruidenberg;Raamsdonk;BU07790100;0;0;0;0
+202106;Enexis;Geertruidenberg;Verspreide huizen Raamsdonk;BU07790109;0;0;0;3
+202106;Enexis;Geertruidenberg;Geertruidenberg-Kom;BU07790200;0;0;0;0
+202106;Enexis;Geertruidenberg;Geertruidenberg-West;BU07790201;0;0;0;0
+202106;Enexis;Geertruidenberg;Verspreide huizen Geertruidenberg;BU07790209;0;0;0;0
+202106;Enexis;Gilze en Rijen;Rijen;BU07840000;0;0;0;1
+202106;Enexis;Gilze en Rijen;Bedrijventerrein Haansberg;BU07840007;0;0;0;2
+202106;Enexis;Gilze en Rijen;Verspreide huizen Rijen;BU07840009;0;0;0;3
+202106;Enexis;Gilze en Rijen;Gilze;BU07840100;0;0;0;0
+202106;Enexis;Gilze en Rijen;Bedrijventerrein Broekakkers;BU07840107;0;0;1;1
+202106;Enexis;Gilze en Rijen;Verspreide huizen Gilze;BU07840109;0;0;0;3
+202106;Enexis;Gilze en Rijen;Molenschot;BU07840200;0;0;0;0
+202106;Enexis;Gilze en Rijen;Verspreide huizen Molenschot;BU07840209;0;0;2;1
+202106;Enexis;Gilze en Rijen;Hulten;BU07840300;0;0;0;0
+202106;Enexis;Gilze en Rijen;Verspreide huizen Hulten;BU07840309;0;0;0;1
+202106;Enexis;Goirle;Goirle-Centrum;BU07850101;0;0;0;0
+202106;Enexis;Goirle;Grobbendonck;BU07850202;0;0;0;0
+202106;Enexis;Goirle;Wildackers;BU07850608;0;0;0;0
+202106;Enexis;Goirle;Burgemeesters;BU07850710;0;0;0;0
+202106;Enexis;Goirle;De Nieuwe Erven;BU07851019;0;0;0;0
+202106;Enexis;Goirle;Herstallen;BU07851122;0;0;0;0
+202106;Enexis;Goirle;Tijlvoort-Noort;BU07851324;0;0;0;1
+202106;Enexis;Goirle;Tijlvoort-Zuid;BU07851325;0;0;0;1
+202106;Enexis;Goirle;Verspreide huizen Goirle;BU07851426;0;0;25;2
+202106;Enexis;Goirle;Riel-Dorp;BU07852027;0;0;0;0
+202106;Enexis;Goirle;Verspreide huizen Riel;BU07852331;0;0;0;1
+202106;Enexis;Grave;Esterveld;BU07860003;0;0;0;0
+202106;Enexis;Grave;Zittert;BU07860004;0;0;0;0
+202106;Enexis;Grave;De Stoof;BU07860005;0;0;0;0
+202106;Enexis;Grave;Buitengebied West inclusief Raam;BU07860101;0;0;0;0
+202106;Enexis;Grave;Buitengebied-Oost;BU07860102;0;0;0;0
+202106;Enexis;Grave;Buitengebied Zuid;BU07860203;0;0;0;0
+202106;Enexis;Grave;Buitengebied Gassel;BU07860301;0;0;0;0
+202106;Enexis;Haaren;Haaren;BU07880100;0;0;0;1
+202106;Enexis;Haaren;Verspreide huizen in het Westen;BU07880108;0;0;0;0
+202106;Enexis;Haaren;Verspreide huizen in het Oosten;BU07880109;0;0;1;2
+202106;Enexis;Haaren;Helvoirt;BU07880200;0;0;0;0
+202106;Enexis;Haaren;Distelberg;BU07880201;0;0;0;0
+202106;Enexis;Haaren;Verspreide huizen Helvoirtse Heide;BU07880207;0;0;0;0
+202106;Enexis;Haaren;Verspreide huizen Gijzel, Raam en Molenstraat;BU07880209;0;0;0;0
+202106;Enexis;Haaren;Verspreide huizen Esch;BU07880309;0;0;0;0
+202106;Enexis;Haaren;Biezenmortel;BU07880400;0;0;0;0
+202106;Enexis;Haaren;Verspreide huizen Biezenmortel;BU07880409;0;0;0;2
+202106;Enexis;Helmond;Centrum;BU07941000;0;0;0;0
+202106;Enexis;Helmond;Stationsgebied;BU07941004;0;0;0;0
+202106;Enexis;Helmond;Vossenberg;BU07941005;0;0;0;0
+202106;Enexis;Helmond;Annabuurt en Suytkade;BU07941006;0;0;0;0
+202106;Enexis;Helmond;Steenweg en omgeving;BU07941007;0;0;0;2
+202106;Enexis;Helmond;Straakven;BU07941102;0;0;0;0
+202106;Enexis;Helmond;Bloemvelden;BU07941200;0;0;0;0
+202106;Enexis;Helmond;Binderen;BU07941201;0;0;0;0
+202106;Enexis;Helmond;Eeuwsels;BU07941202;0;0;0;0
+202106;Enexis;Helmond;Brouwhorst;BU07941404;0;0;0;0
+202106;Enexis;Helmond;Houtsdonk;BU07941501;0;0;0;0
+202106;Enexis;Helmond;Stiphout-Dorp;BU07941700;0;0;0;0
+202106;Enexis;Helmond;Schooten;BU07941701;0;0;0;1
+202106;Enexis;Helmond;Geeneind;BU07941709;0;0;16;0
+202106;Enexis;Helmond;Berkendonk;BU07941809;0;0;0;0
+202106;Enexis;Helmond;Scheepstal;BU07941909;0;0;0;0
+202106;Enexis;Helmond;Hoogeind;BU07942901;0;0;0;4
+202106;Enexis;Helmond;B.Z.O.B.;BU07942902;0;0;2;7
+202106;Enexis;'s-Hertogenbosch;Binnenstad-Centrum;BU07960101;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Binnenstad-Oost;BU07960102;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Het Zand;BU07960105;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Zuid;BU07960202;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bazeldonk;BU07960203;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein-Zuid;BU07960204;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Gestelse Buurt;BU07960205;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Pettelaarpark;BU07960206;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Meerendonk;BU07960207;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Kloosterstraat;BU07960208;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Aawijk-Zuid;BU07960211;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijvenpark De Brand;BU07960212;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;De Hinthamerpoort;BU07960301;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Graafsebuurt-Noord;BU07960304;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Hintham-Noord;BU07960306;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;De Vliert;BU07960402;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Orthenpoort;BU07960403;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;Maliskamp-West;BU07960501;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Maliskamp-Oost;BU07960502;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Het Vinkel;BU07960503;0;0;6;0
+202106;Enexis;'s-Hertogenbosch;Binckhorst;BU07960504;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Sparrenburg;BU07960505;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Molenhoek;BU07960506;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Hondsberg;BU07960603;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein Kruisstraat;BU07960605;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Overlaet-West;BU07960607;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Rosmalense Polder;BU07960609;0;0;0;3
+202106;Enexis;'s-Hertogenbosch;Brabantpoort;BU07960701;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;Broekland;BU07960704;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Hoven;BU07960706;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Overig Landelijk gebied De Groote Wielen;BU07960798;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Landelijk gebied De Groote Wielen;BU07960799;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Empel-Oost;BU07960803;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein De Herven;BU07960903;0;0;0;3
+202106;Enexis;'s-Hertogenbosch;De Slagen;BU07960904;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Reit;BU07960906;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Rompert;BU07960908;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Sprookjesbuurt;BU07960910;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Muziekinstrumentenbuurt;BU07960911;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Edelstenenbuurt;BU07960912;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein-Noord;BU07960915;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Abdijenbuurt;BU07961003;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;De Staatsliedenbuurt;BU07961006;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein Maaspoort;BU07961010;0;2;0;6
+202106;Enexis;'s-Hertogenbosch;Boschveld;BU07961101;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;Paleiskwartier;BU07961102;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Moerputten;BU07961105;0;0;0;1
+202106;Enexis;'s-Hertogenbosch;De Schutskamp;BU07961106;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Kruiskamp;BU07961107;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Rietvelden-Oost;BU07961108;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Rietvelden-West;BU07961109;6;8;12;12
+202106;Enexis;'s-Hertogenbosch;Veemarktkwartier;BU07961110;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Ertveld;BU07961111;0;0;0;2
+202106;Enexis;'s-Hertogenbosch;De Vutter;BU07961202;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bokhoven;BU07961205;0;0;1;0
+202106;Enexis;'s-Hertogenbosch;Kom Nuland;BU07961301;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Bedrijventerrein Nuland;BU07961302;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;De Lage Kant;BU07961303;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Heeseind;BU07961304;0;0;10;0
+202106;Enexis;'s-Hertogenbosch;Landelijk gebied Nuland;BU07961399;0;0;1;3
+202106;Enexis;'s-Hertogenbosch;Kom Vinkel;BU07961401;0;0;0;0
+202106;Enexis;'s-Hertogenbosch;Landelijk gebied Vinkel;BU07961499;0;0;1;2
+202106;Enexis;Heusden;Braken-Oost;BU07970102;0;0;4;3
+202106;Enexis;Heusden;Centrum Drunen;BU07970103;0;0;0;0
+202106;Enexis;Heusden;Venne-West;BU07970104;0;0;0;0
+202106;Enexis;Heusden;Venne-Oost;BU07970105;0;0;0;0
+202106;Enexis;Heusden;Elshout;BU07970200;0;0;2;3
+202106;Enexis;Heusden;Haarsteeg;BU07970300;0;0;0;7
+202106;Enexis;Heusden;Nieuwkuijk;BU07970400;0;0;0;4
+202106;Enexis;Heusden;Vijfhoeven;BU07970501;0;0;0;0
+202106;Enexis;Heusden;Vlijmen-Dorp;BU07970502;0;0;0;0
+202106;Enexis;Heusden;Vliedberg;BU07970503;0;0;0;0
+202106;Enexis;Heusden;Heesbeen;BU07970800;0;0;0;1
+202106;Enexis;Heusden;Herpt;BU07970900;0;0;0;1
+202106;Enexis;Heusden;Heusden;BU07971000;0;0;0;0
+202106;Enexis;Heusden;Oudheusden;BU07971100;0;0;0;1
+202106;Enexis;Hilvarenbeek;Hilvarenbeek;BU07980000;0;0;0;1
+202106;Enexis;Hilvarenbeek;Verspreide huizen Hilvarenbeek;BU07980009;0;0;2;3
+202106;Enexis;Hilvarenbeek;Esbeek;BU07980100;0;0;0;1
+202106;Enexis;Hilvarenbeek;Verspreide huizen Esbeek;BU07980109;0;0;0;1
+202106;Enexis;Hilvarenbeek;Biest-Houtakker;BU07980200;0;0;0;0
+202106;Enexis;Hilvarenbeek;Verspreide huizen Biest-Houtakker;BU07980209;0;0;0;1
+202106;Enexis;Hilvarenbeek;Diessen;BU07980300;0;0;0;0
+202106;Enexis;Hilvarenbeek;Verspreide huizen Baarschot;BU07980309;0;0;17;2
+202106;Enexis;Hilvarenbeek;Haghorst;BU07980400;0;0;0;0
+202106;Enexis;Hilvarenbeek;Verspreide huizen Haghorst;BU07980409;0;0;42;3
+202106;Enexis;Loon op Zand;Centrum;BU08091020;0;0;0;0
+202106;Enexis;Loon op Zand;Staatsliedenbuurt;BU08091025;0;0;0;0
+202106;Enexis;Loon op Zand;Vossenberg (west);BU08091030;0;0;0;0
+202106;Enexis;Loon op Zand;De Kets (industrieterrein);BU08091035;0;0;0;1
+202106;Enexis;Loon op Zand;De Baan;BU08091041;0;0;0;0
+202106;Enexis;Loon op Zand;Els (west);BU08092048;0;0;0;0
+202106;Enexis;Loon op Zand;Els (oost);BU08092049;0;0;0;0
+202106;Enexis;Loon op Zand;Het Hoekske;BU08092063;0;0;0;0
+202106;Enexis;Loon op Zand;De Klinkenpolder;BU08092066;0;0;0;0
+202106;Enexis;Loon op Zand;Bergeind;BU08093090;0;0;0;0
+202106;Enexis;Loon op Zand;Oost-Loon;BU08093091;0;0;0;0
+202106;Enexis;Mill en Sint Hubert;Mill-Centrum;BU08150921;0;0;0;0
+202106;Enexis;Mill en Sint Hubert;Bedrijventerrein Het Spoor;BU08150925;0;0;0;0
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Groespeel;BU08150927;0;0;0;0
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Achterdijk-Roijendijk;BU08150928;0;0;0;1
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Meren-De Gagel;BU08150929;0;0;2;0
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Sint Hubert;BU08151033;0;0;6;0
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Wilbertoord;BU08151235;0;0;6;0
+202106;Enexis;Mill en Sint Hubert;Langenboom;BU08151530;0;0;0;0
+202106;Enexis;Mill en Sint Hubert;Verspreide huizen Langenboom;BU08151531;0;0;0;0
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Nuenen-Noord;BU08200000;0;0;0;0
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Nuenen-Zuid;BU08200001;0;0;0;1
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Nuenen-Oost;BU08200002;0;0;0;0
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Eeneind;BU08200003;0;0;0;3
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Verspreide huizen ten zuidoosten van Nuenen;BU08200009;0;0;0;0
+202106;Enexis;Nuenen, Gerwen en Nederwetten;Verspreide huizen Gerwen;BU08200109;0;0;1;1
+202106;Enexis;Oirschot;Oirschot-Centrum;BU08230000;0;0;0;0
+202106;Enexis;Oirschot;De Notel;BU08230002;0;0;0;0
+202106;Enexis;Oirschot;Industrieterrein De Stad;BU08230003;0;0;0;1
+202106;Enexis;Oirschot;Snepseind en Bijsterveld;BU08230004;0;0;0;0
+202106;Enexis;Oirschot;Straten met Moleneind;BU08230005;0;0;0;0
+202106;Enexis;Oirschot;Verspreide huizen Zuid-Oirschotse Heide;BU08230008;0;0;29;7
+202106;Enexis;Oirschot;Verspreide huizen Noord en De Mortelen;BU08230009;0;0;1;1
+202106;Enexis;Oirschot;Verspreide huizen Spoordonk;BU08230109;0;10;1;3
+202106;Enexis;Oirschot;Middelbeers;BU08230200;0;0;0;0
+202106;Enexis;Oirschot;Verspreide huizen Westelbeers;BU08230208;0;0;0;1
+202106;Enexis;Oirschot;Verspreide huizen Middelbeers;BU08230209;0;0;0;2
+202106;Enexis;Oirschot;Oostelbeers;BU08230300;0;0;0;0
+202106;Enexis;Oirschot;Verspreide huizen Oostelbeers;BU08230309;0;0;0;1
+202106;Enexis;Oisterwijk;Verspr.h. westen en noorden Moerg.;BU08240101;0;0;1;1
+202106;Enexis;Oisterwijk;Heukelom;BU08240301;0;0;0;1
+202106;Enexis;Oisterwijk;Buitengebied (Zuid);BU08240401;0;0;0;1
+202106;Enexis;Oisterwijk;Omg. Vinkenberg/Heuvelstraat;BU08240501;0;0;1;0
+202106;Enexis;Oisterwijk;Centrum Moergestel;BU08240701;0;0;0;1
+202106;Enexis;Oisterwijk;"Omg. ""Prinsessen""-wijk";BU08240803;0;0;0;0
+202106;Enexis;Oisterwijk;Omg. Europaln/Hondsbergseln;BU08240901;0;0;0;0
+202106;Enexis;Oisterwijk;Buitengebied Kerkhoven;BU08241001;0;0;0;0
+202106;Enexis;Oisterwijk;Omgeving Industrieterrein;BU08241201;0;0;0;2
+202106;Enexis;Oisterwijk;Omg. Petrus-Kerk;BU08241301;0;0;0;0
+202106;Enexis;Oisterwijk;Verspr.h. oosten en zuiden Moerg.;BU08241402;0;0;3;4
+202106;Enexis;Oisterwijk;Omg. Broekzijde;BU08241501;0;0;0;0
+202106;Enexis;Oosterhout;Centrum;BU08260000;0;0;0;0
+202106;Enexis;Oosterhout;Slotjes-Midden;BU08260101;0;0;0;0
+202106;Enexis;Oosterhout;Slotjes-West;BU08260102;0;0;0;0
+202106;Enexis;Oosterhout;Oud-West;BU08260200;0;0;0;0
+202106;Enexis;Oosterhout;Kanaleneiland;BU08260201;0;0;0;0
+202106;Enexis;Oosterhout;Vogelbuurt;BU08260300;0;0;0;0
+202106;Enexis;Oosterhout;Bloemenbuurt;BU08260500;0;0;0;0
+202106;Enexis;Oosterhout;Natuurkundigenbuurt;BU08260502;0;0;0;0
+202106;Enexis;Oosterhout;De Warande;BU08260504;0;0;0;0
+202106;Enexis;Oosterhout;Beemdenbuurt;BU08260604;0;0;0;0
+202106;Enexis;Oosterhout;Dammenbuurt;BU08260606;0;0;0;0
+202106;Enexis;Oosterhout;Industrieterrein Vijf Eiken;BU08260800;0;0;4;3
+202106;Enexis;Oosterhout;Industrieterrein Heikant;BU08260801;0;0;0;1
+202106;Enexis;Oosterhout;Industrieterrein Statendam;BU08260900;0;0;0;7
+202106;Enexis;Oosterhout;Industrieterrein Weststad-Zuid;BU08260901;0;0;4;6
+202106;Enexis;Oosterhout;Industrieterrein Weststad-Noord;BU08260902;0;17;0;2
+202106;Enexis;Oosterhout;Oranjepolder;BU08261000;17;0;35;0
+202106;Enexis;Oosterhout;Bosgebied-Oosterhout;BU08261001;0;0;0;1
+202106;Enexis;Oosterhout;Buitengebied Den Hout;BU08261109;0;0;1;0
+202106;Enexis;Oosterhout;Oosteind;BU08261200;0;0;0;0
+202106;Enexis;Oosterhout;Buitengebied-Oosteind-Zuid;BU08261208;0;0;1;0
+202106;Enexis;Oosterhout;Dorst;BU08261300;0;0;0;0
+202106;Enexis;Oosterhout;Buitengebied Dorst-Zuid;BU08261307;0;0;0;1
+202106;Enexis;Oosterhout;Bosgebied Dorst;BU08261308;0;0;0;0
+202106;Enexis;Oss;Centrum Zuid;BU08280002;0;0;0;0
+202106;Enexis;Oss;Moleneind;BU08280200;0;0;0;0
+202106;Enexis;Oss;Landweer;BU08280201;0;0;0;1
+202106;Enexis;Oss;Danenhoef;BU08280202;0;0;1;4
+202106;Enexis;Oss;Kortfoort;BU08280300;0;0;0;0
+202106;Enexis;Oss;Oranjebuurt I en Ruivert;BU08280301;0;0;0;1
+202106;Enexis;Oss;Rusheuvel;BU08280404;0;0;0;0
+202106;Enexis;Oss;Elzenburg;BU08280500;0;0;0;7
+202106;Enexis;Oss;De Winkel;BU08280501;0;0;0;2
+202106;Enexis;Oss;De Geer;BU08280503;0;0;2;3
+202106;Enexis;Oss;Dichtersbuurt;BU08280602;0;0;0;0
+202106;Enexis;Oss;Wagenaarstraat en omgeving;BU08280603;0;0;0;0
+202106;Enexis;Oss;Vondellaan-Zuid;BU08280604;0;0;0;0
+202106;Enexis;Oss;Loovelt;BU08280705;0;0;0;0
+202106;Enexis;Oss;Meerdijk;BU08280806;0;0;0;0
+202106;Enexis;Oss;Langendonk;BU08280808;0;0;1;0
+202106;Enexis;Oss;Buitengebied-West;BU08280809;0;0;37;2
+202106;Enexis;Oss;Vorstengraf;BU08280909;0;0;6;9
+202106;Enexis;Oss;Berghem-Noord;BU08281000;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen Duurendseind;BU08281007;0;0;1;0
+202106;Enexis;Oss;Haren;BU08281100;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen De Tuinlangel;BU08281209;0;0;0;0
+202106;Enexis;Oss;Ravenstein;BU08281400;0;0;0;0
+202106;Enexis;Oss;Ravenstein De Kolk en Schonenberg;BU08281401;0;0;0;0
+202106;Enexis;Oss;De Weem;BU08281402;0;0;0;0
+202106;Enexis;Oss;Huisseling;BU08281403;0;0;0;0
+202106;Enexis;Oss;Herpen;BU08281500;0;0;0;0
+202106;Enexis;Oss;Koolwijk en Bossen;BU08281508;0;0;0;2
+202106;Enexis;Oss;Neerloon;BU08281601;0;0;0;0
+202106;Enexis;Oss;Dieden;BU08281701;0;0;0;0
+202106;Enexis;Oss;Neerlangel;BU08281703;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen Deursen en Dennenburg;BU08281709;0;0;0;0
+202106;Enexis;Oss;Lith;BU08281800;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen Polder van Lith;BU08281809;0;0;0;1
+202106;Enexis;Oss;Lithoijen;BU08281900;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen Polder van Teeffelen;BU08281908;0;0;0;1
+202106;Enexis;Oss;Verspreide huizen Polder van Lithoijen;BU08281909;0;0;2;1
+202106;Enexis;Oss;Verspreide huizen Polder Oijen;BU08282009;0;0;0;2
+202106;Enexis;Oss;'t Wild;BU08282103;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen Polder van het Laag Heemaal;BU08282109;0;0;0;1
+202106;Enexis;Oss;Geffen;BU08282200;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen ten oosten van Geffen;BU08282208;0;0;0;0
+202106;Enexis;Oss;Verspreide huizen ten noorden van Geffen;BU08282209;0;0;0;0
+202106;Enexis;Rucphen;Rucphen;BU08400000;0;0;0;0
+202106;Enexis;Rucphen;Verspreide huizen Rucphen;BU08400009;0;0;0;1
+202106;Enexis;Rucphen;Sint Willebrord;BU08400100;0;0;0;0
+202106;Enexis;Rucphen;Sprundel;BU08400200;0;0;0;0
+202106;Enexis;Rucphen;Bedrijventerrein De Nijverhei;BU08400201;0;0;0;1
+202106;Enexis;Rucphen;Verspreide huizen Schijf;BU08400309;0;0;0;0
+202106;Enexis;Rucphen;Zegge;BU08400400;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Theereheide;BU08450001;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Venkant, Beekkant en Beekvliet;BU08450002;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Genenberg;BU08450008;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Sint-Michielsgestelse polders;BU08450009;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Gemonde;BU08450100;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen ten oosten van Gemonde;BU08450108;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen ten westen van Gemonde;BU08450109;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Den Dungen;BU08450200;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Spurk en 't Woud;BU08450207;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Poeldonk;BU08450208;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Maaskantje;BU08450209;0;0;0;1
+202106;Enexis;Sint-Michielsgestel;Berlicum;BU08450300;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Westakkers;BU08450301;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Westerbroek en Beekveld;BU08450302;0;0;0;0
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen Beekveld-Hersend;BU08450308;0;0;0;1
+202106;Enexis;Sint-Michielsgestel;Verspreide huizen ten noorden van Berlicum;BU08450309;0;0;3;1
+202106;Enexis;Someren;Someren;BU08470000;0;0;0;2
+202106;Enexis;Someren;Verspreide huizen Hoeven;BU08470008;0;0;2;0
+202106;Enexis;Someren;Verspreide huizen Slieven;BU08470009;0;0;1;9
+202106;Enexis;Someren;Verspreide huizen Meerven;BU08470108;0;0;0;0
+202106;Enexis;Someren;Verspreide huizen Hersel;BU08470109;0;0;1;2
+202106;Enexis;Someren;Someren-Eind;BU08470200;0;0;0;2
+202106;Enexis;Someren;Verspreide huizen Sluis 12/13;BU08470208;0;0;2;1
+202106;Enexis;Someren;Verspreide huizen Diepenhoek;BU08470209;0;0;7;2
+202106;Enexis;Someren;Verspreide huizen Somerense Heide;BU08470309;0;0;20;7
+202106;Enexis;Someren;Verspreide huizen Lungendonk;BU08470909;0;0;10;5
+202106;Enexis;Son en Breugel;Son;BU08480000;0;0;0;0
+202106;Enexis;Son en Breugel;Industrieterrein Ekkersrijt;BU08480002;0;0;3;14
+202106;Enexis;Son en Breugel;Verspreide huizen Son;BU08480009;0;0;0;3
+202106;Enexis;Son en Breugel;'t Eigen en Hoogstraat;BU08480101;0;0;0;0
+202106;Enexis;Steenbergen;Steenbergen-Centrum;BU08510000;0;0;0;0
+202106;Enexis;Steenbergen;Welberg;BU08510001;0;0;0;0
+202106;Enexis;Steenbergen;Steenbergen-Zuid;BU08510002;0;1;0;0
+202106;Enexis;Steenbergen;Steenbergen-Noord;BU08510003;0;0;0;0
+202106;Enexis;Steenbergen;Industrieterrein Reinierpolder;BU08510004;0;0;0;0
+202106;Enexis;Steenbergen;Graaf Hendrik- en Triangelpolder;BU08510007;0;0;0;0
+202106;Enexis;Steenbergen;Westelijke polders;BU08510008;0;0;2;1
+202106;Enexis;Steenbergen;Het Oudland;BU08510009;0;0;0;0
+202106;Enexis;Steenbergen;Kruisland;BU08510100;0;0;0;0
+202106;Enexis;Steenbergen;Kruislandse polders;BU08510109;0;0;0;3
+202106;Enexis;Steenbergen;Heense polders;BU08510209;0;0;0;2
+202106;Enexis;Steenbergen;Dinteloord;BU08510300;0;2;0;2
+202106;Enexis;Steenbergen;Verspreide huizen in het Oosten;BU08510308;0;22;19;5
+202106;Enexis;Steenbergen;Verspreide huizen in het Westen;BU08510309;22;0;0;0
+202106;Enexis;Steenbergen;Verspreide huizen waaronder Pelsendijk en Rolaf;BU08510409;0;0;37;0
+202106;Enexis;Tilburg;Binnenstad West;BU08551001;0;0;0;0
+202106;Enexis;Tilburg;Binnenstad Oost;BU08551002;0;0;0;0
+202106;Enexis;Tilburg;Koningsplein;BU08551003;0;0;0;1
+202106;Enexis;Tilburg;Oude Dijk;BU08551004;0;0;0;0
+202106;Enexis;Tilburg;Veemarktkwartier;BU08551101;0;0;0;0
+202106;Enexis;Tilburg;Tivoli;BU08551102;0;0;0;0
+202106;Enexis;Tilburg;Hoogvenne West;BU08551104;0;0;0;0
+202106;Enexis;Tilburg;Voltterrein;BU08551503;0;0;0;0
+202106;Enexis;Tilburg;Broekhoven II West;BU08551504;0;0;0;0
+202106;Enexis;Tilburg;Broekhoven II Oost;BU08551505;0;0;0;0
+202106;Enexis;Tilburg;Afrikaanderbuurt Midden;BU08551602;0;0;0;0
+202106;Enexis;Tilburg;Schrijversbuurt;BU08551705;0;0;0;0
+202106;Enexis;Tilburg;Het Laar;BU08551707;0;0;0;0
+202106;Enexis;Tilburg;Trouwlaan;BU08551801;0;0;0;0
+202106;Enexis;Tilburg;Sint Anna Zuid;BU08551902;0;0;0;0
+202106;Enexis;Tilburg;Bomenbuurt Midden;BU08552002;0;0;0;0
+202106;Enexis;Tilburg;Bomenbuurt Oost;BU08552003;0;0;0;0
+202106;Enexis;Tilburg;Spoorlaan;BU08552103;0;0;0;0
+202106;Enexis;Tilburg;Bouwmeestersbuurt Noord;BU08552201;0;0;0;0
+202106;Enexis;Tilburg;Bouwmeestersbuurt Zuid;BU08552202;0;0;0;0
+202106;Enexis;Tilburg;Pastorieklamp West;BU08552402;0;0;0;0
+202106;Enexis;Tilburg;Sint Pieterspark;BU08552501;0;0;0;0
+202106;Enexis;Tilburg;Padua;BU08552503;0;0;0;0
+202106;Enexis;Tilburg;Besterd;BU08552601;0;0;0;0
+202106;Enexis;Tilburg;Loven Noord;BU08552603;0;0;0;0
+202106;Enexis;Tilburg;Loven Zuid;BU08552604;0;0;0;0
+202106;Enexis;Tilburg;Loven Oost;BU08552605;0;0;0;0
+202106;Enexis;Tilburg;Theresia West;BU08552701;0;0;0;0
+202106;Enexis;Tilburg;Theresia Midden;BU08552702;0;0;0;0
+202106;Enexis;Tilburg;Spoorzone Noord-West;BU08552801;0;0;0;0
+202106;Enexis;Tilburg;Spoorzone Noord-Oost;BU08552802;0;0;0;0
+202106;Enexis;Tilburg;Ind.terrein Kanaalzone Noord;BU08552902;0;0;0;0
+202106;Enexis;Tilburg;Melis Stokestraat;BU08552904;0;0;0;0
+202106;Enexis;Tilburg;Ind.terrein Kanaalzone Zuid;BU08552906;0;0;0;1
+202106;Enexis;Tilburg;Kanaalzone Bosscheweg;BU08552907;0;0;0;0
+202106;Enexis;Tilburg;Elisabethziekenhuis;BU08553103;0;0;0;0
+202106;Enexis;Tilburg;Leijhoeven;BU08553104;0;0;0;0
+202106;Enexis;Tilburg;Stappegoor Noord;BU08553301;0;0;0;2
+202106;Enexis;Tilburg;Bedrijventerrein Het Laar;BU08553401;0;0;0;4
+202106;Enexis;Tilburg;Goirleseweg West;BU08553402;0;0;0;0
+202106;Enexis;Tilburg;De Blaak Zuid-Oost;BU08553504;0;0;0;0
+202106;Enexis;Tilburg;Abdij- en Torenbuurt;BU08553702;0;0;0;0
+202106;Enexis;Tilburg;Universiteit Campus;BU08553703;0;0;0;0
+202106;Enexis;Tilburg;Kastelenbuurt Zuid;BU08553705;0;0;0;0
+202106;Enexis;Tilburg;Sportweg;BU08553706;0;0;0;0
+202106;Enexis;Tilburg;Notre Dame;BU08553707;0;0;0;0
+202106;Enexis;Tilburg;Tweestedenziekenhuis;BU08553801;0;0;0;0
+202106;Enexis;Tilburg;Vijverlaan;BU08553810;0;0;0;0
+202106;Enexis;Tilburg;Bokhamer West;BU08553812;0;0;0;0
+202106;Enexis;Tilburg;Rooi Pannen;BU08553814;0;0;0;0
+202106;Enexis;Tilburg;Wandelbos Noord-West;BU08553901;0;0;0;0
+202106;Enexis;Tilburg;Stokhasselt Noord-Oost;BU08554202;0;0;0;0
+202106;Enexis;Tilburg;Stokhasselt Oost;BU08554204;0;0;0;0
+202106;Enexis;Tilburg;Heikant Noord-West;BU08554301;0;0;0;0
+202106;Enexis;Tilburg;Heikant Oost;BU08554304;0;0;0;0
+202106;Enexis;Tilburg;Heikant Zuid-West;BU08554305;0;0;0;0
+202106;Enexis;Tilburg;Heikant Zuid-Oost;BU08554306;0;0;0;0
+202106;Enexis;Tilburg;Quirijnstok West;BU08554403;0;0;0;0
+202106;Enexis;Tilburg;Quirijnstok Zuid-Oost;BU08554405;0;0;0;0
+202106;Enexis;Tilburg;Ind.terrein Loven Noord;BU08554501;0;0;0;2
+202106;Enexis;Tilburg;Ind.terrein Loven Zuid;BU08554502;0;0;0;0
+202106;Enexis;Tilburg;Gesworen Hoek Zuid;BU08554703;0;0;0;0
+202106;Enexis;Tilburg;Huibeven West;BU08554801;0;0;0;0
+202106;Enexis;Tilburg;Campenhoef West;BU08554901;0;0;0;0
+202106;Enexis;Tilburg;Heyhoef;BU08555001;0;0;0;0
+202106;Enexis;Tilburg;De Kievit Zuid-Oost;BU08555304;0;0;0;0
+202106;Enexis;Tilburg;Leeuwerik Zuid;BU08555407;0;0;0;0
+202106;Enexis;Tilburg;Dalem Zuid II;BU08555602;0;0;0;0
+202106;Enexis;Tilburg;Koolhoven Noord;BU08555701;0;0;0;0
+202106;Enexis;Tilburg;Witbrant West;BU08555801;0;0;0;0
+202106;Enexis;Tilburg;Bedrijventerrein Kraaiven;BU08555904;0;2;3;12
+202106;Enexis;Tilburg;Bedrijventerrein Kraaiven PDV;BU08555905;0;0;0;0
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg West II;BU08556001;0;0;6;22
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg West I;BU08556002;0;3;10;4
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg Scheg;BU08556003;0;0;0;1
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg;BU08556004;0;20;1;3
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg Scheg Oost;BU08556005;0;0;2;0
+202106;Enexis;Tilburg;Bedrijventerrein Vossenberg PDV;BU08556006;0;0;0;2
+202106;Enexis;Tilburg;Bedrijventerrein Albion;BU08556007;0;0;0;0
+202106;Enexis;Tilburg;De Katsbogten;BU08556101;0;0;1;1
+202106;Enexis;Tilburg;Tradepark 58 Noord;BU08556102;0;0;0;0
+202106;Enexis;Tilburg;Tradepark 58 Zuid;BU08556103;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied Gilzerbaan West;BU08556302;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied Gilzerbaan Oost;BU08556303;0;0;0;1
+202106;Enexis;Tilburg;Buitengebied Noord-Oost;BU08556401;0;0;0;0
+202106;Enexis;Tilburg;Rugdijk-Hazennest;BU08556402;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied Noord-West;BU08556501;0;15;0;1
+202106;Enexis;Tilburg;Bedrijventerrein Schepersven;BU08556601;0;0;0;1
+202106;Enexis;Tilburg;Buitengebied B-E Noord-Oost;BU08556604;0;0;0;0
+202106;Enexis;Tilburg;Ruiven;BU08556608;0;0;0;0
+202106;Enexis;Tilburg;Koningsoord;BU08556610;0;0;0;0
+202106;Enexis;Tilburg;Bedrijventerrein Enschot;BU08556615;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied B-E Zuid;BU08556620;0;0;0;0
+202106;Enexis;Tilburg;Achthoeven;BU08556702;0;0;0;0
+202106;Enexis;Tilburg;Bedrijventerrein Kreitenmolen;BU08556707;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied Udenhout Zuid-Oost;BU08556708;0;0;0;0
+202106;Enexis;Tilburg;Buitengebied Udenhout Noord;BU08556710;0;0;0;2
+202106;Enexis;Uden;Centrum;BU08560101;0;0;0;0
+202106;Enexis;Uden;Moleneind-Groenewoud;BU08560103;0;0;0;0
+202106;Enexis;Uden;Bitswijk;BU08560105;0;0;0;0
+202106;Enexis;Uden;Hoevenseveld;BU08560106;0;0;0;0
+202106;Enexis;Uden;Melle;BU08560110;0;0;0;0
+202106;Enexis;Uden;Sportpark Volkelseweg;BU08560112;0;0;0;0
+202106;Enexis;Uden;Zoggel;BU08560113;0;0;0;0
+202106;Enexis;Uden;Vluchtoord;BU08560114;0;0;0;0
+202106;Enexis;Uden;Loopkant-Liessent-Goorkens;BU08560115;0;0;0;3
+202106;Enexis;Uden;Hoenderbos-Velmolen;BU08560116;0;0;0;0
+202106;Enexis;Uden;Eikenheuvel;BU08560117;0;0;0;0
+202106;Enexis;Uden;Buitengebied Uden-Oost;BU08560196;0;0;0;2
+202106;Enexis;Uden;Buitengebied Uden-Zuid;BU08560197;0;0;0;1
+202106;Enexis;Uden;Buitengebied Uden-West;BU08560198;0;0;0;1
+202106;Enexis;Uden;Buitengebied Maashorst;BU08560199;0;0;0;0
+202106;Enexis;Uden;Buitengebied-Volkel;BU08560299;0;0;0;15
+202106;Enexis;Uden;Buitengebied-Odiliapeel;BU08560399;0;0;1;5
+202106;Enexis;Valkenswaard;Turfberg-Noord;BU08580002;0;0;0;0
+202106;Enexis;Valkenswaard;Turfberg-Zuid;BU08580003;0;0;0;1
+202106;Enexis;Valkenswaard;Het Gegraaf;BU08580006;0;0;1;0
+202106;Enexis;Valkenswaard;Industrieterrein Schaapsloop;BU08580007;0;0;0;3
+202106;Enexis;Valkenswaard;Verspreide huizen Turfbergse Heide Nederheide;BU08580009;0;0;1;2
+202106;Enexis;Valkenswaard;De Belleman;BU08580100;0;0;0;0
+202106;Enexis;Valkenswaard;Schaft;BU08580201;0;0;0;1
+202106;Enexis;Valkenswaard;Verspreide huizen Klein Borkel en Achterste Brug;BU08580208;0;0;0;0
+202106;Enexis;Valkenswaard;Verspreide huizen Malpiebergse- en Opperheide;BU08580209;0;0;0;0
+202106;Enexis;Veldhoven;Veldhoven;BU08610000;0;0;1;5
+202106;Enexis;Veldhoven;Meerveldhoven;BU08610001;0;0;0;4
+202106;Enexis;Veldhoven;Zeelst;BU08610002;0;0;0;0
+202106;Enexis;Veldhoven;D'Ekker;BU08610003;0;0;0;0
+202106;Enexis;Veldhoven;Cobbeek en Centrum;BU08610006;0;0;0;1
+202106;Enexis;Veldhoven;Verspreide huizen ten zuiden van de E3-weg;BU08610009;0;0;2;0
+202106;Enexis;Veldhoven;Heikant-Oost;BU08610101;0;0;0;0
+202106;Enexis;Veldhoven;Oerle;BU08610200;0;0;0;0
+202106;Enexis;Veldhoven;Verspreide huizen Groote Aard en Vliet;BU08610208;0;0;1;0
+202106;Enexis;Veldhoven;Verspreide huizen Scherpenering en Landsaard;BU08610209;0;0;0;2
+202106;Enexis;Vught;Taalstraat en omgeving;BU08650001;0;0;0;0
+202106;Enexis;Vught;Loyola en omgeving;BU08650002;0;0;0;1
+202106;Enexis;Vught;Vughtse Heide en Lunetten;BU08650008;0;0;0;0
+202106;Enexis;Vught;Voorburg en omgeving;BU08650100;0;0;0;2
+202106;Enexis;Vught;Molenstraat en omgeving;BU08650101;0;0;0;0
+202106;Enexis;Vught;Vijverhof;BU08650103;0;0;0;0
+202106;Enexis;Vught;Cromvoirt;BU08650200;0;0;0;0
+202106;Enexis;Vught;Verspreide huizen Cromvoirt;BU08650209;0;0;0;1
+202106;Enexis;Waalre;Waalre;BU08660000;0;0;0;2
+202106;Enexis;Waalre;Aalst;BU08660001;0;0;0;0
+202106;Enexis;Waalre;Voldijn;BU08660002;0;0;0;0
+202106;Enexis;Waalre;Ekenrooi;BU08660003;0;0;0;0
+202106;Enexis;Waalre;Verspreide huizen;BU08660009;0;0;0;0
+202106;Enexis;Waalwijk;Centrum;BU08670000;0;0;0;0
+202106;Enexis;Waalwijk;Besoijen;BU08670001;0;0;0;0
+202106;Enexis;Waalwijk;Baardwijk;BU08670002;0;0;0;0
+202106;Enexis;Waalwijk;Bloemenoord;BU08670005;0;0;0;0
+202106;Enexis;Waalwijk;Zanddonk;BU08670006;0;0;0;0
+202106;Enexis;Waalwijk;Meerdijk;BU08670007;0;0;0;0
+202106;Enexis;Waalwijk;Industrieterrein Zanddonk;BU08670009;0;0;0;1
+202106;Enexis;Waalwijk;Industrieterrein Haven;BU08670010;0;0;3;31
+202106;Enexis;Waalwijk;Buitengebied Waalwijk Noord;BU08670011;0;6;2;2
+202106;Enexis;Waalwijk;Eikendonk;BU08670012;0;0;0;0
+202106;Enexis;Waalwijk;Sprang;BU08670100;0;0;0;0
+202106;Enexis;Waalwijk;Capelle / Nieuwe Vaart;BU08670102;0;0;0;0
+202106;Enexis;Waalwijk;Buitengebeid Capelle;BU08670103;0;0;43;0
+202106;Enexis;Waalwijk;Landgoed Driessen;BU08670104;0;0;0;1
+202106;Enexis;Waalwijk;Waspik Beneden;BU08670200;0;0;0;0
+202106;Enexis;Waalwijk;Waspik Boven;BU08670201;0;0;0;0
+202106;Enexis;Waalwijk;Industrieterrein Waspik;BU08670202;0;0;0;2
+202106;Enexis;Werkendam;Burchtpolder;BU08700102;0;0;0;0
+202106;Enexis;Werkendam;Vervoornepolder;BU08700104;0;0;0;0
+202106;Enexis;Werkendam;Werkensepolder;BU08700105;0;0;0;0
+202106;Enexis;Werkendam;Bedrijventerreinen Werkendam;BU08700106;0;0;0;0
+202106;Enexis;Werkendam;Zevenban;BU08700192;0;0;0;0
+202106;Enexis;Werkendam;Grote Waard;BU08700193;0;0;0;1
+202106;Enexis;Werkendam;Noordwaard;BU08700194;0;0;0;0
+202106;Enexis;Werkendam;Spie Deen;BU08700196;0;0;0;0
+202106;Enexis;Werkendam;Kern Sleeuwijk;BU08700201;0;0;0;1
+202106;Enexis;Werkendam;Bedrijventerrein Sleeuwijk;BU08700202;0;0;0;0
+202106;Enexis;Werkendam;Sleeuwijksepolder;BU08700291;0;0;0;5
+202106;Enexis;Werkendam;Kern Nieuwendijk;BU08700301;0;0;2;0
+202106;Enexis;Werkendam;Kern Hank;BU08700401;0;0;0;0
+202106;Enexis;Werkendam;Vierbannen;BU08700491;0;0;0;0
+202106;Enexis;Werkendam;Jannezand;BU08700492;0;0;0;0
+202106;Enexis;Werkendam;Zuidhollandschepolder;BU08700495;0;0;0;1
+202106;Enexis;Werkendam;Kern Dussen;BU08700501;0;0;0;0
+202106;Enexis;Werkendam;Noordeveld;BU08700591;0;0;0;1
+202106;Enexis;Woensdrecht;Hoogerheide;BU08730000;0;0;0;0
+202106;Enexis;Woensdrecht;Hoogerheide-Noord;BU08730002;0;0;0;3
+202106;Enexis;Woensdrecht;Industrieterrein De Kooy;BU08730003;0;0;0;0
+202106;Enexis;Woensdrecht;Verspreide huizen Woensdrecht;BU08730008;0;1;13;3
+202106;Enexis;Woensdrecht;Verspreide huizen Hoogerheide;BU08730009;0;0;0;2
+202106;Enexis;Woensdrecht;Verspreide huizen ten noorden van Huijbergen;BU08730109;0;0;0;0
+202106;Enexis;Woensdrecht;Ossendrecht;BU08730200;0;0;0;0
+202106;Enexis;Woensdrecht;Calfven;BU08730201;0;0;0;0
+202106;Enexis;Woensdrecht;Verspreide huizen ten westen van Ossendrecht;BU08730208;0;0;0;2
+202106;Enexis;Woensdrecht;Verspreide huizen ten oosten van Ossendrecht;BU08730209;0;0;0;1
+202106;Enexis;Woudrichem;Woudrichem buiten de vesting;BU08740001;0;0;0;0
+202106;Enexis;Woudrichem;Oudendijk;BU08740002;0;0;0;0
+202106;Enexis;Woudrichem;Verspreide huizen in buitengebied;BU08740009;0;0;0;0
+202106;Enexis;Woudrichem;Almkerk;BU08740100;0;0;0;0
+202106;Enexis;Woudrichem;Verspreide huizen Provincialeweg-Noord en omgeving;BU08740108;0;0;0;1
+202106;Enexis;Woudrichem;Verspreide huizen Provincialeweg-Zuid en omgeving;BU08740109;0;0;0;1
+202106;Enexis;Woudrichem;Rijswijk;BU08740200;0;0;0;0
+202106;Enexis;Woudrichem;Verspreide huizen in buitengebied;BU08740209;0;0;0;0
+202106;Enexis;Woudrichem;Verspreide huizen in buitengebied;BU08740309;0;0;0;1
+202106;Enexis;Woudrichem;Verspreide huizen in buitengebied;BU08740409;0;0;0;2
+202106;Enexis;Woudrichem;Uitwijk;BU08740500;0;0;0;1
+202106;Enexis;Woudrichem;Waardhuizen;BU08740501;0;0;0;0
+202106;Enexis;Woudrichem;Verspreide huizen in buitengebied;BU08740509;0;0;0;1
+202106;Enexis;Zundert;Zundert;BU08790000;0;0;0;1
+202106;Enexis;Zundert;Verspreide huizen Zundert;BU08790009;13;0;0;3
+202106;Enexis;Zundert;Verspreide huizen Klein-Zundert;BU08790109;0;0;0;0
+202106;Enexis;Zundert;Wernhout;BU08790200;0;0;0;0
+202106;Enexis;Zundert;Verspreide huizen Wernhout;BU08790209;0;0;0;0
+202106;Enexis;Zundert;Verspreide huizen Achtmaal;BU08790309;0;0;0;2
+202106;Enexis;Zundert;Rijsbergen;BU08790400;0;0;0;0
+202106;Enexis;Zundert;Verspreide huizen in het Oosten;BU08790408;15;0;0;0
+202106;Enexis;Zundert;Verspreide huizen in het Westen;BU08790409;0;0;0;1
+202106;Enexis;Onderbanken;Schinveld;BU08810000;0;0;0;2
+202106;Enexis;Landgraaf;Kakert;BU08820001;0;0;10;0
+202106;Enexis;Landgraaf;De Streep;BU08820004;0;0;0;0
+202106;Enexis;Landgraaf;Gravenrode;BU08820020;0;0;0;2
+202106;Enexis;Landgraaf;Oud Nieuwenhagen;BU08820102;0;0;0;0
+202106;Enexis;Landgraaf;Op de Kamp;BU08820104;0;0;0;0
+202106;Enexis;Landgraaf;Abdissenbosch;BU08820201;0;0;0;0
+202106;Enexis;Landgraaf;Waubach;BU08820205;0;0;0;0
+202106;Enexis;Landgraaf;Groenstraat;BU08820206;0;0;2;0
+202106;Enexis;Landgraaf;Rimburg;BU08820207;0;0;0;1
+202106;Enexis;Landgraaf;Brunssumerheide (1);BU08820220;0;0;12;0
+202106;Enexis;Beek;Beek;BU08880000;0;0;10;0
+202106;Enexis;Beek;Spaubeek;BU08880002;0;0;0;0
+202106;Enexis;Beek;Grootgenhout;BU08880101;0;0;0;0
+202106;Enexis;Beek;Verspreide huizen Vliegbasis Zuid-Limburg;BU08880109;0;0;5;2
+202106;Enexis;Beesel;Reuver;BU08890000;0;0;2;0
+202106;Enexis;Beesel;Offenbeek;BU08890001;0;0;0;2
+202106;Enexis;Beesel;Verspreide huizen ten oosten en zuiden van de spoorlijn;BU08890008;0;0;10;1
+202106;Enexis;Beesel;Bussereind;BU08890101;0;0;0;0
+202106;Enexis;Beesel;Verspreide huizen;BU08890109;0;0;0;2
+202106;Enexis;Bergen (L.);Nieuw-Bergen Kern;BU08930330;0;0;0;0
+202106;Enexis;Bergen (L.);Nieuw-Bergen Buitengebied;BU08930331;0;0;0;0
+202106;Enexis;Bergen (L.);Nieuw-Bergen De Flammert;BU08930332;0;0;0;1
+202106;Enexis;Bergen (L.);Afferden Buitengebied;BU08930441;0;0;0;1
+202106;Enexis;Bergen (L.);Siebengewald Kern;BU08930550;0;0;0;0
+202106;Enexis;Bergen (L.);Siebengewald Buitengebied;BU08930551;0;0;2;2
+202106;Enexis;Bergen (L.);Well-Oost;BU08930660;0;0;0;0
+202106;Enexis;Bergen (L.);Well-West;BU08930661;0;0;0;0
+202106;Enexis;Bergen (L.);Well Buitengebied;BU08930662;0;0;0;1
+202106;Enexis;Bergen (L.);Wellerlooi Buitengebied;BU08930771;0;0;0;0
+202106;Enexis;Brunssum;Emma;BU08990135;0;0;0;0
+202106;Enexis;Brunssum;Houserveld;BU08990201;0;0;0;0
+202106;Enexis;Brunssum;Rode Beek;BU08990314;0;0;0;0
+202106;Enexis;Brunssum;Bouwberg;BU08990333;0;0;2;1
+202106;Enexis;Brunssum;Ora et Labora;BU08990337;0;0;0;0
+202106;Enexis;Brunssum;Vondelstraat;BU08990428;0;0;0;0
+202106;Enexis;Brunssum;Brandenberg;BU08990438;0;0;0;0
+202106;Enexis;Brunssum;Rumpener Beemden;BU08990523;0;0;0;0
+202106;Enexis;Gennep;Milsbeek;BU09070000;0;0;0;0
+202106;Enexis;Gennep;Sprokkelveld;BU09070001;0;0;0;0
+202106;Enexis;Gennep;Bloemenstraat-Zwarteweg;BU09070009;0;0;0;2
+202106;Enexis;Gennep;Aaldonk-Violenberg;BU09070108;0;0;0;1
+202106;Enexis;Gennep;Langehorst-Zelder;BU09070209;0;0;0;0
+202106;Enexis;Gennep;Midden;BU09070302;0;0;0;1
+202106;Enexis;Gennep;Zuid;BU09070303;0;0;0;0
+202106;Enexis;Gennep;Heijen;BU09070400;0;0;0;0
+202106;Enexis;Gennep;Heijensebos;BU09070408;0;0;0;0
+202106;Enexis;Gennep;Diekendaal-Nieuwerf;BU09070409;0;0;2;17
+202106;Enexis;Heerlen;Maria Gewanden;BU09171000;0;0;0;0
+202106;Enexis;Heerlen;Mariarade-Noord;BU09171100;0;0;0;0
+202106;Enexis;Heerlen;Mariarade-Zuid;BU09171101;0;0;0;0
+202106;Enexis;Heerlen;Hoensbroek-Centrum;BU09171200;0;0;0;0
+202106;Enexis;Heerlen;Nieuw Lotbroek-Noord;BU09171300;0;0;0;2
+202106;Enexis;Heerlen;De Koumen;BU09171400;0;0;0;2
+202106;Enexis;Heerlen;Vrieheide;BU09172004;0;0;0;0
+202106;Enexis;Heerlen;Passart;BU09172100;0;0;0;0
+202106;Enexis;Heerlen;Heerlerheide Kom;BU09172101;0;0;0;0
+202106;Enexis;Heerlen;In de Cramer;BU09173002;0;0;0;0
+202106;Enexis;Heerlen;Grasbroek;BU09173101;0;0;0;0
+202106;Enexis;Heerlen;Hoppersgraaf;BU09173103;0;0;0;1
+202106;Enexis;Heerlen;Heerlen-Centrum;BU09173300;0;0;0;0
+202106;Enexis;Heerlen;Op de Nobel;BU09173301;0;0;0;0
+202106;Enexis;Heerlen;Lindeveld;BU09173303;0;0;0;0
+202106;Enexis;Heerlen;Eikenderveld;BU09173400;0;0;0;0
+202106;Enexis;Heerlen;Ten Esschen;BU09173500;0;0;0;2
+202106;Enexis;Heerlen;Terworm;BU09173600;0;0;0;0
+202106;Enexis;Heerlen;Welten-Dorp;BU09173601;0;0;0;0
+202106;Enexis;Heerlen;Aarveld;BU09173701;0;0;0;0
+202106;Enexis;Heerlen;Schiffelerveld;BU09173903;0;0;0;0
+202106;Enexis;Heerlen;Giezenveld;BU09174101;0;0;0;0
+202106;Enexis;Heerlen;Beitel;BU09174200;0;1;1;14
+202106;Enexis;Kerkrade;Spekholzerheide;BU09280000;0;0;0;2
+202106;Enexis;Kerkrade;Terwinselen;BU09280002;0;0;0;0
+202106;Enexis;Kerkrade;Kaalheide;BU09280003;0;0;0;0
+202106;Enexis;Kerkrade;Gracht;BU09280004;0;0;0;1
+202106;Enexis;Kerkrade;Verspreide huizen Dentgenbach;BU09280009;0;0;0;3
+202106;Enexis;Kerkrade;Kerkrade-Centrum;BU09280100;0;0;0;0
+202106;Enexis;Kerkrade;Bleijerheide;BU09280105;0;0;0;0
+202106;Enexis;Maastricht;Binnenstad;BU09350000;0;0;0;0
+202106;Enexis;Maastricht;Kommelkwartier;BU09350002;0;0;0;0
+202106;Enexis;Maastricht;Statenkwartier;BU09350003;0;0;0;0
+202106;Enexis;Maastricht;Sint Maartenspoort;BU09350005;0;0;0;0
+202106;Enexis;Maastricht;Villapark;BU09350100;0;0;0;0
+202106;Enexis;Maastricht;Jekerdal;BU09350101;0;0;0;0
+202106;Enexis;Maastricht;Campagne;BU09350103;0;0;0;0
+202106;Enexis;Maastricht;Sint Pieter;BU09350105;0;0;0;0
+202106;Enexis;Maastricht;Brusselsepoort;BU09350200;0;0;0;0
+202106;Enexis;Maastricht;Mariaberg;BU09350201;0;0;0;0
+202106;Enexis;Maastricht;Pottenberg;BU09350203;0;0;0;0
+202106;Enexis;Maastricht;Caberg;BU09350205;0;0;0;0
+202106;Enexis;Maastricht;Malberg;BU09350207;0;0;0;0
+202106;Enexis;Maastricht;Bosscherveld;BU09350301;0;0;0;0
+202106;Enexis;Maastricht;Belvédère;BU09350303;0;0;0;14
+202106;Enexis;Maastricht;Lanakerveld;BU09350304;0;0;36;0
+202106;Enexis;Maastricht;Wyckerpoort;BU09350400;0;0;0;0
+202106;Enexis;Maastricht;Wittevrouwenveld;BU09350402;0;0;0;1
+202106;Enexis;Maastricht;Limmel;BU09350404;0;0;0;5
+202106;Enexis;Maastricht;Scharn;BU09350405;0;0;0;0
+202106;Enexis;Maastricht;Amby;BU09350406;0;0;0;1
+202106;Enexis;Maastricht;Beatrixhaven;BU09350500;0;0;0;2
+202106;Enexis;Maastricht;Randwyck;BU09350600;0;0;0;5
+202106;Enexis;Maastricht;Heugem;BU09350601;0;0;0;0
+202106;Enexis;Maastricht;Heer;BU09350602;0;0;0;0
+202106;Enexis;Maastricht;De Heeg;BU09350603;0;0;0;0
+202106;Enexis;Maastricht;Vroendaal;BU09350604;0;0;1;0
+202106;Enexis;Meerssen;Meerssen;BU09380000;0;0;0;0
+202106;Enexis;Meerssen;Rothem;BU09380001;0;0;0;0
+202106;Enexis;Meerssen;Weert;BU09380002;0;0;0;0
+202106;Enexis;Meerssen;Verspreide huizen;BU09380009;0;0;0;0
+202106;Enexis;Meerssen;Ulestraten;BU09380100;0;0;0;0
+202106;Enexis;Meerssen;Verspreide huizen;BU09380109;0;0;6;0
+202106;Enexis;Meerssen;Bunde;BU09380200;0;0;0;0
+202106;Enexis;Meerssen;Hussenberg met Snijdersberg;BU09380203;0;0;0;0
+202106;Enexis;Meerssen;Moorveld;BU09380205;0;0;0;0
+202106;Enexis;Mook en Middelaar;Molenhoek;BU09440000;0;0;0;0
+202106;Enexis;Mook en Middelaar;Mook;BU09440001;0;0;0;0
+202106;Enexis;Mook en Middelaar;Verspreide huizen Bisselt;BU09440009;0;0;0;0
+202106;Enexis;Mook en Middelaar;Riethorst-Plasmolen;BU09440100;0;0;0;0
+202106;Enexis;Mook en Middelaar;Middelaar Katerbosch en Heikant;BU09440101;0;0;0;0
+202106;Enexis;Nederweert;Nederweert;BU09460101;0;0;0;1
+202106;Enexis;Nederweert;Boeket-Hoogbosweg;BU09460102;0;0;57;3
+202106;Enexis;Nederweert;Bosserstraat-Lage Kuilen;BU09460103;0;0;0;3
+202106;Enexis;Nederweert;Schoor-Mildert;BU09460104;0;0;1;0
+202106;Enexis;Nederweert;Budschop;BU09460201;0;0;0;1
+202106;Enexis;Nederweert;Winnerstraat-Eindhovensebaan;BU09460202;0;0;0;4
+202106;Enexis;Nederweert;Ospel;BU09460301;0;0;0;0
+202106;Enexis;Nederweert;Nieuwstraat-Horick-Kampersweg;BU09460303;0;0;1;4
+202106;Enexis;Nederweert;Waatskamp-Bientjesweg;BU09460304;0;0;0;1
+202106;Enexis;Nederweert;Moostdijk-Kruisvennendijk;BU09460305;0;18;0;1
+202106;Enexis;Nederweert;Nederweert-Eind;BU09460401;0;0;0;1
+202106;Enexis;Nederweert;Wellenstein-Aan 't Kruis;BU09460402;0;0;0;1
+202106;Enexis;Nederweert;Leveroy;BU09460501;0;0;0;0
+202106;Enexis;Nederweert;Deckerstraat-Bergdijk;BU09460502;0;0;0;2
+202106;Enexis;Nuth;Nuth;BU09510000;0;0;0;0
+202106;Enexis;Nuth;Tervoorst en omgeving;BU09510001;0;0;0;0
+202106;Enexis;Nuth;Industrieterrein De Horsel;BU09510002;0;0;0;2
+202106;Enexis;Nuth;Swier;BU09510101;0;0;0;0
+202106;Enexis;Nuth;Hulsberg;BU09510200;0;0;0;0
+202106;Enexis;Nuth;Arensgenhout;BU09510202;0;0;0;1
+202106;Enexis;Nuth;Schimmert;BU09510300;0;0;0;0
+202106;Enexis;Nuth;Haasdal;BU09510301;0;0;0;1
+202106;Enexis;Nuth;Oensel;BU09510302;0;0;0;0
+202106;Enexis;Roermond;Binnenstad;BU09570000;0;0;0;0
+202106;Enexis;Roermond;Voorstad;BU09570001;0;0;0;0
+202106;Enexis;Roermond;Roerzicht;BU09570003;0;0;0;0
+202106;Enexis;Roermond;Willem-Alexander;BU09570004;0;0;0;1
+202106;Enexis;Roermond;Roermondse Veld;BU09570100;0;0;0;0
+202106;Enexis;Roermond;Vrijveld;BU09570101;0;0;0;0
+202106;Enexis;Roermond;Kapel-Muggenbroek;BU09570200;0;0;0;0
+202106;Enexis;Roermond;Roerstreek;BU09570202;0;0;3;3
+202106;Enexis;Roermond;Kitskensdal;BU09570203;0;0;0;0
+202106;Enexis;Roermond;Leeuwen;BU09570301;0;0;0;1
+202106;Enexis;Roermond;Tegelarijeveld-Broekhin;BU09570302;0;0;0;0
+202106;Enexis;Roermond;De Wijher en omgeving;BU09570303;0;0;0;0
+202106;Enexis;Roermond;Stadsrandzone-Noord;BU09570304;0;0;0;0
+202106;Enexis;Roermond;Kastelenbuurt;BU09570402;0;0;0;0
+202106;Enexis;Roermond;Sterrenberg;BU09570403;0;0;0;0
+202106;Enexis;Roermond;Asenray buitengebied;BU09570600;0;0;0;0
+202106;Enexis;Roermond;Herten;BU09570701;0;0;0;0
+202106;Enexis;Roermond;Merum;BU09570702;0;0;0;6
+202106;Enexis;Roermond;Heide;BU09570802;0;0;0;0
+202106;Enexis;Roermond;Martin Giessen-Bosstraat;BU09570805;0;0;0;1
+202106;Enexis;Roermond;Verspreide huizen Swalmen;BU09570809;0;0;0;1
+202106;Enexis;Schinnen;Schinnen;BU09620000;0;0;0;0
+202106;Enexis;Schinnen;Nagelbeek-Hegge;BU09620002;0;0;0;0
+202106;Enexis;Schinnen;Amstenrade;BU09620100;0;0;0;0
+202106;Enexis;Schinnen;Oirsbeek;BU09620101;0;0;1;0
+202106;Enexis;Simpelveld;Simpelveld;BU09650000;0;0;0;0
+202106;Enexis;Simpelveld;Molsberg-Rodeput;BU09650003;0;0;6;0
+202106;Enexis;Simpelveld;Bocholtz;BU09650100;0;0;0;0
+202106;Enexis;Simpelveld;Baneheide;BU09650103;0;0;0;1
+202106;Enexis;Stein;Oud-Stein;BU09710000;0;0;0;0
+202106;Enexis;Stein;Kerensheide;BU09710001;0;0;0;0
+202106;Enexis;Stein;Nieuwdorp;BU09710002;0;0;0;1
+202106;Enexis;Stein;Centrum;BU09710005;0;0;0;0
+202106;Enexis;Stein;Elsloo;BU09710100;0;0;2;1
+202106;Enexis;Stein;Catsop;BU09710102;0;0;0;0
+202106;Enexis;Stein;Urmond ten oosten van Julianakanaal;BU09710202;0;0;0;0
+202106;Enexis;Vaals;Mamelis;BU09810001;0;0;0;0
+202106;Enexis;Vaals;Vaals;BU09810100;0;0;0;0
+202106;Enexis;Venlo;Winkelcentrum;BU09831101;0;0;0;0
+202106;Enexis;Venlo;Q4;BU09831102;0;0;0;0
+202106;Enexis;Venlo;Rosarium;BU09831103;0;0;0;0
+202106;Enexis;Venlo;Sinselveld;BU09831201;0;0;0;0
+202106;Enexis;Venlo;Maaswaard;BU09831202;0;0;0;0
+202106;Enexis;Venlo;Hagerhof-oost;BU09831205;0;0;0;0
+202106;Enexis;Venlo;Wylrehof;BU09831207;0;0;1;0
+202106;Enexis;Venlo;Hogekamp;BU09831307;0;0;0;0
+202106;Enexis;Venlo;Genooybergen;BU09831404;0;0;0;0
+202106;Enexis;Venlo;Genooy;BU09831405;0;0;0;0
+202106;Enexis;Venlo;Auxillatrix;BU09831512;0;0;0;0
+202106;Enexis;Venlo;Kern 't Ven;BU09831601;0;0;0;1
+202106;Enexis;Venlo;Herungerberg;BU09831603;0;0;0;0
+202106;Enexis;Venlo;Veegtes;BU09831604;0;0;0;2
+202106;Enexis;Venlo;Noorderpoort;BU09831605;0;0;0;0
+202106;Enexis;Venlo;Venkoelen;BU09831606;0;0;2;0
+202106;Enexis;Venlo;Blerick-Centrum;BU09832101;0;0;0;0
+202106;Enexis;Venlo;gazenkamp;BU09832102;0;0;0;0
+202106;Enexis;Venlo;Annakamp-Oost;BU09832302;0;0;0;0
+202106;Enexis;Venlo;Verspreide huizen Hout-Blerick;BU09832602;0;0;0;0
+202106;Enexis;Venlo;Verspreide huizen Boekend;BU09832702;0;0;0;0
+202106;Enexis;Venlo;Horsterweg;BU09832801;0;0;0;1
+202106;Enexis;Venlo;Ubroek;BU09832803;0;0;0;5
+202106;Enexis;Venlo;Groot Boller;BU09832804;38;0;0;4
+202106;Enexis;Venlo;Havengebied;BU09832805;0;0;0;2
+202106;Enexis;Venlo;Ecopark;BU09832806;0;0;0;1
+202106;Enexis;Venlo;Heierhoeve;BU09832807;0;0;2;6
+202106;Enexis;Venlo;Fresh Park;BU09832808;0;0;0;5
+202106;Enexis;Venlo;Trade-Port-Oost;BU09832809;0;0;0;1
+202106;Enexis;Venlo;Trade-Port-Noord;BU09832810;0;0;0;30
+202106;Enexis;Venlo;Floriade Park;BU09832811;0;0;0;0
+202106;Enexis;Venlo;Zaarderheiken;BU09832812;0;0;29;27
+202106;Enexis;Venlo;Bosserhof;BU09833101;0;0;0;0
+202106;Enexis;Venlo;Tegelen-Centrum;BU09833102;0;0;0;0
+202106;Enexis;Venlo;Krekelsberg;BU09833103;0;0;0;0
+202106;Enexis;Venlo;Kaldenkerkerweg-West;BU09833203;0;0;0;5
+202106;Enexis;Venlo;Kaldenkerkerweg-Oost;BU09833205;0;0;0;2
+202106;Enexis;Venlo;Ulingsheid;BU09833206;0;0;0;0
+202106;Enexis;Venlo;Schandelo;BU09834104;0;0;30;0
+202106;Enexis;Venlo;Hasselt en Het Vorst;BU09834105;0;0;0;0
+202106;Enexis;Venlo;Verspreide huizen Velden;BU09834107;0;0;2;0
+202106;Enexis;Venlo;Spikweinen;BU09834302;0;0;0;0
+202106;Enexis;Venlo;Verspreide huizen arcen;BU09834404;0;0;0;0
+202106;Enexis;Venlo;Geloérveld / Pannenberg;BU09835106;0;0;0;1
+202106;Enexis;Venlo;Maalbeek;BU09835108;0;0;0;1
+202106;Enexis;Venray;Heide;BU09840101;0;0;0;2
+202106;Enexis;Venray;Ysselsteyn;BU09840201;0;0;2;14
+202106;Enexis;Venray;Merselo;BU09840301;0;0;1;1
+202106;Enexis;Venray;Vredepeel;BU09840401;0;0;0;2
+202106;Enexis;Venray;Smakt;BU09840501;0;0;0;0
+202106;Enexis;Venray;Oostrum;BU09840601;0;0;6;14
+202106;Enexis;Venray;Oirlo;BU09840701;0;0;2;4
+202106;Enexis;Venray;Castenray;BU09840801;0;0;0;2
+202106;Enexis;Venray;Veulen;BU09840901;0;0;0;1
+202106;Enexis;Venray;Leunen;BU09841001;0;0;2;2
+202106;Enexis;Venray;Centrum;BU09841101;0;0;0;0
+202106;Enexis;Venray;West zuid;BU09841303;0;0;0;0
+202106;Enexis;Venray;Veltum 1;BU09841501;0;0;0;0
+202106;Enexis;Venray;Veltum 2;BU09841502;0;0;0;0
+202106;Enexis;Venray;Brukske 1;BU09841601;0;0;0;0
+202106;Enexis;Venray;Keizersveld;BU09841704;0;0;0;0
+202106;Enexis;Venray;Smakterheide;BU09841801;0;0;25;8
+202106;Enexis;Venray;St. Antoniusveld;BU09842001;0;0;0;0
+202106;Enexis;Venray;Wanssum;BU09842101;0;0;0;1
+202106;Enexis;Voerendaal;Voerendaal;BU09860101;0;0;0;0
+202106;Enexis;Voerendaal;Kunrade;BU09860201;0;0;0;0
+202106;Enexis;Voerendaal;Ubachsberg;BU09860301;0;0;0;0
+202106;Enexis;Voerendaal;Ransdaal;BU09860501;0;0;0;0
+202106;Enexis;Voerendaal;Verspreide huizen Voerendaal;BU09860900;0;0;18;0
+202106;Enexis;Weert;Centrum-Noord;BU09880103;0;0;0;0
+202106;Enexis;Weert;Boshoven buitengebied;BU09880104;0;0;0;0
+202106;Enexis;Weert;Industrieterrein Boshoverheide;BU09880105;0;0;2;3
+202106;Enexis;Weert;Laar;BU09880201;0;0;0;0
+202106;Enexis;Weert;Laar buitengebied;BU09880203;0;0;0;0
+202106;Enexis;Weert;Kampershoek;BU09880302;0;0;0;1
+202106;Enexis;Weert;Kampershoek-Noord;BU09880303;0;0;4;3
+202106;Enexis;Weert;Weert-Centrum;BU09881101;0;0;0;7
+202106;Enexis;Weert;Maaspoort;BU09881102;0;0;0;0
+202106;Enexis;Weert;Groenewoud-Zuid;BU09881302;0;0;0;0
+202106;Enexis;Weert;Industrieterrein Fatima;BU09881402;0;0;0;0
+202106;Enexis;Weert;Keent;BU09882101;0;0;0;0
+202106;Enexis;Weert;Moesel buitengebied;BU09882202;0;0;0;0
+202106;Enexis;Weert;Leuken;BU09882401;0;0;0;1
+202106;Enexis;Weert;Industrieterrein Leuken;BU09882402;0;0;0;2
+202106;Enexis;Weert;Leuken buitengebied;BU09882403;15;0;0;0
+202106;Enexis;Weert;Kazernelaan;BU09882501;0;0;0;0
+202106;Enexis;Weert;Altweerterheide;BU09883101;0;0;0;1
+202106;Enexis;Weert;Altweerterheide buitengebied;BU09883102;0;0;1;4
+202106;Enexis;Weert;Tungelroy buitengebied;BU09883202;0;0;0;1
+202106;Enexis;Weert;Swartbroek buitengebied;BU09883302;0;0;0;1
+202106;Enexis;Weert;Stramproy;BU09883401;0;0;0;1
+202106;Enexis;Weert;Stramproy buitengebied;BU09883402;0;0;2;2
+202106;Enexis;Valkenburg aan de Geul;Valkenburg;BU09940000;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;De Valkenberg;BU09940005;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;Hekerbeek;BU09940006;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;Plenkert;BU09940007;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;Schoonbron;BU09940201;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;IJzeren;BU09940301;0;0;0;0
+202106;Enexis;Valkenburg aan de Geul;Berg;BU09940400;0;0;0;1
+202106;Enexis;Valkenburg aan de Geul;Vilt;BU09940402;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Griendtsveen;BU15070009;0;0;2;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen America;BU15070109;0;0;0;4
+202106;Enexis;Horst aan de Maas;Verspreide huizen Meterik;BU15070209;0;0;0;1
+202106;Enexis;Horst aan de Maas;Hegelsom;BU15070300;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Hegelsom;BU15070309;0;0;0;1
+202106;Enexis;Horst aan de Maas;Horst-Centrum;BU15070400;0;0;0;0
+202106;Enexis;Horst aan de Maas;Molenveld;BU15070401;0;0;0;0
+202106;Enexis;Horst aan de Maas;De Riet;BU15070402;0;0;0;0
+202106;Enexis;Horst aan de Maas;Kapellerhof;BU15070405;0;0;0;0
+202106;Enexis;Horst aan de Maas;De Afhang;BU15070409;0;0;0;0
+202106;Enexis;Horst aan de Maas;Hoogveld;BU15070410;0;0;0;1
+202106;Enexis;Horst aan de Maas;Verspreide huizen Horst;BU15070419;0;0;1;6
+202106;Enexis;Horst aan de Maas;Verspreide huizen Melderslo;BU15070509;0;0;0;1
+202106;Enexis;Horst aan de Maas;Verspreide huizen Broekhuizenvorst;BU15070609;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Lottum;BU15070709;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Grubbenvorst;BU15070809;0;0;6;2
+202106;Enexis;Horst aan de Maas;Verspreide huizen Broekhuizen;BU15070909;0;0;0;1
+202106;Enexis;Horst aan de Maas;Sevenum;BU15071000;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Sevenum;BU15071009;0;0;11;8
+202106;Enexis;Horst aan de Maas;Verspreide huizen Kronenberg;BU15071109;0;0;1;1
+202106;Enexis;Horst aan de Maas;Verspreide huizen Eversoord;BU15071209;0;0;0;1
+202106;Enexis;Horst aan de Maas;Meerlo;BU15071300;0;0;0;0
+202106;Enexis;Horst aan de Maas;Verspreide huizen Meerlo;BU15071309;0;0;0;4
+202106;Enexis;Horst aan de Maas;Verspreide huizen Tienray;BU15071409;0;0;0;2
+202106;Enexis;Horst aan de Maas;Verspreide huizen Swolgen;BU15071509;0;0;0;1
+202106;Enexis;Leudal;Kern Heythuysen;BU16400000;0;0;0;1
+202106;Enexis;Leudal;Verspreide huizen Heythuysen;BU16400001;0;0;1;3
+202106;Enexis;Leudal;Verspreide huizen Heibloem;BU16400101;0;9;0;1
+202106;Enexis;Leudal;Verspreide huizen Roggel;BU16400201;0;0;0;1
+202106;Enexis;Leudal;Kern Neer;BU16400300;0;0;0;0
+202106;Enexis;Leudal;Verspreide huizen Neer;BU16400301;0;12;1;1
+202106;Enexis;Leudal;Verspreide huizen Nunhem;BU16400401;0;0;0;0
+202106;Enexis;Leudal;Kern Haelen;BU16400500;0;0;0;0
+202106;Enexis;Leudal;Verspreide huizen Haelen;BU16400501;0;0;0;2
+202106;Enexis;Leudal;Kern Buggenum;BU16400600;0;0;0;1
+202106;Enexis;Leudal;Verspreide huizen Horn;BU16400701;0;0;0;0
+202106;Enexis;Leudal;Verspreide huizen Baexem;BU16400801;0;0;0;2
+202106;Enexis;Leudal;Verspreide huizen Kelpen-Oler;BU16400901;0;0;1;1
+202106;Enexis;Leudal;Verspreide huizen Grathem;BU16401001;0;0;0;1
+202106;Enexis;Leudal;Kern Ell;BU16401100;0;0;0;0
+202106;Enexis;Leudal;Verspreide huizen Ell;BU16401101;0;0;0;2
+202106;Enexis;Leudal;Verspreide huizen Haler;BU16401201;0;0;1;1
+202106;Enexis;Leudal;Verspreide huizen Hunsel;BU16401301;0;0;1;1
+202106;Enexis;Leudal;Verspreide huizen Neeritter;BU16401401;0;0;0;0
+202106;Enexis;Leudal;Kern Ittervoort;BU16401500;0;0;0;0
+202106;Enexis;Leudal;Verspreide huizen Ittervoort;BU16401501;0;0;0;0
+202106;Enexis;Maasgouw;Maasbracht;BU16410000;0;0;0;1
+202106;Enexis;Maasgouw;Verspreide huizen Het Vonderen;BU16410009;0;0;0;0
+202106;Enexis;Maasgouw;Linne;BU16410100;0;0;0;0
+202106;Enexis;Maasgouw;Thorn;BU16410400;0;0;0;0
+202106;Enexis;Maasgouw;Verspreide huizen Thorn;BU16410409;0;0;0;0
+202106;Enexis;Maasgouw;Heel;BU16410500;0;0;0;0
+202106;Enexis;Maasgouw;Beegden;BU16410600;0;0;0;0
+202106;Enexis;Maasgouw;Wessem;BU16410700;0;0;0;0
+202106;Enexis;Eemsmond;Uithuizen;BU16510001;0;0;0;1
+202106;Enexis;Eemsmond;Verspreide huizen in de nieuwe polders;BU16510008;0;1;0;1
+202106;Enexis;Eemsmond;Uithuizermeeden;BU16510100;0;0;0;0
+202106;Enexis;Eemsmond;Eemshavengebied;BU16510108;20;135;27;9
+202106;Enexis;Eemsmond;Verspreide huizen Uithuizermeeden;BU16510109;36;19;38;1
+202106;Enexis;Eemsmond;Verspreide huizen Kantens;BU16510209;0;1;0;0
+202106;Enexis;Eemsmond;Verspreide huizen in de nieuwe polders;BU16510308;0;0;0;1
+202106;Enexis;Eemsmond;Overige verspreide huizen;BU16510309;0;1;0;1
+202106;Enexis;Eemsmond;Warffum;BU16510400;0;0;0;0
+202106;Enexis;Eemsmond;Verspreide huizen Warffum;BU16510409;0;0;0;1
+202106;Enexis;Gemert-Bakel;Gemert-Centrum;BU16520000;0;0;0;0
+202106;Enexis;Gemert-Bakel;Gemert-Noord;BU16520001;0;0;0;0
+202106;Enexis;Gemert-Bakel;Industrieterrein Scheiweg;BU16520003;0;0;2;1
+202106;Enexis;Gemert-Bakel;Verspreide huizen Kampen-Esdonk;BU16520007;0;0;0;2
+202106;Enexis;Gemert-Bakel;Verspreide huizen Broekkant;BU16520008;0;0;0;2
+202106;Enexis;Gemert-Bakel;Verspreide huizen Rooije Hoef;BU16520009;0;0;0;4
+202106;Enexis;Gemert-Bakel;Verspreide huizen Verreheide;BU16520108;0;0;0;0
+202106;Enexis;Gemert-Bakel;De Mortel;BU16520200;0;0;0;0
+202106;Enexis;Gemert-Bakel;Verspreide huizen Mortelse Peel;BU16520209;0;0;1;2
+202106;Enexis;Gemert-Bakel;Elsendorp;BU16520300;0;0;0;0
+202106;Enexis;Gemert-Bakel;Verspreide huizen Elsendorp;BU16520309;0;0;1;3
+202106;Enexis;Gemert-Bakel;Verspreide huizen Grotelse Heide en Esp;BU16520408;0;0;0;1
+202106;Enexis;Gemert-Bakel;Verspreide huizen ten zuidwesten van Bakel;BU16520409;0;0;0;1
+202106;Enexis;Gemert-Bakel;Milheeze;BU16520500;0;0;0;0
+202106;Enexis;Gemert-Bakel;Verspreide huizen Groote Peel;BU16520508;0;0;1;4
+202106;Enexis;Gemert-Bakel;Verspreide huizen Milheeze;BU16520509;0;0;0;1
+202106;Enexis;Gemert-Bakel;Verspreide huizen Rips;BU16520609;0;0;1;1
+202106;Enexis;Halderberge;Stoof;BU16550102;0;0;1;1
+202106;Enexis;Halderberge;Verspreide huizen Oud Gastel;BU16550109;0;0;0;3
+202106;Enexis;Halderberge;Stampersgat;BU16550201;0;0;0;1
+202106;Enexis;Halderberge;Verspreide huizen Stampersgat;BU16550209;0;0;0;0
+202106;Enexis;Halderberge;Oudenbosch-Centrum;BU16550301;0;0;0;0
+202106;Enexis;Halderberge;Pagnevaart;BU16550302;0;0;0;0
+202106;Enexis;Halderberge;Spui;BU16550304;0;0;0;0
+202106;Enexis;Halderberge;Verspreide huizen Kuivezand en omgeving;BU16550307;0;10;12;9
+202106;Enexis;Halderberge;Verspreide huizen ten noorden van Oudenbosch;BU16550308;0;0;1;1
+202106;Enexis;Halderberge;Verspreide huizen ten zuiden van Oudenbosch;BU16550309;0;0;6;0
+202106;Enexis;Halderberge;Hoeven;BU16550401;0;0;0;0
+202106;Enexis;Halderberge;Achter 't Hof;BU16550402;0;0;0;0
+202106;Enexis;Halderberge;Verspreide huizen ten zuiden van Hoeven;BU16550408;0;0;1;0
+202106;Enexis;Halderberge;Verspreide huizen ten noorden van Hoeven;BU16550409;0;25;0;2
+202106;Enexis;Halderberge;Verspreide huizen Bosschenhoofd;BU16550509;0;0;0;0
+202106;Enexis;Heeze-Leende;Heeze;BU16580000;0;0;0;0
+202106;Enexis;Heeze-Leende;Bedrijventerrein De Poortmannen;BU16580001;0;0;0;1
+202106;Enexis;Heeze-Leende;Verspreide huizen Heeze;BU16580009;0;0;0;0
+202106;Enexis;Heeze-Leende;Leende;BU16580100;0;0;0;0
+202106;Enexis;Heeze-Leende;Verspreide huizen Groote Heide;BU16580108;0;0;0;0
+202106;Enexis;Heeze-Leende;Verspreide huizen Zevenhuizense Heide;BU16580109;0;0;1;1
+202106;Enexis;Heeze-Leende;Leenderstrijp;BU16580200;0;0;0;0
+202106;Enexis;Heeze-Leende;Verspreide huizen Dijkse Heide;BU16580209;0;0;0;0
+202106;Enexis;Heeze-Leende;Sterksel;BU16580300;0;0;0;0
+202106;Enexis;Heeze-Leende;Verspreide huizen ten zuiden van Sterksel;BU16580308;0;0;1;2
+202106;Enexis;Heeze-Leende;Verspreide huizen ten oosten van Sterksel;BU16580309;0;0;1;2
+202106;Enexis;Laarbeek;Beek;BU16590000;0;0;0;0
+202106;Enexis;Laarbeek;Bedrijventerrein Beekerheide;BU16590002;0;0;0;0
+202106;Enexis;Laarbeek;Bedrijventerrein Bemmer;BU16590003;0;0;0;1
+202106;Enexis;Laarbeek;Verspreide huizen Beek en Donk;BU16590009;0;0;27;1
+202106;Enexis;Laarbeek;Aarle-Rixtel;BU16590100;0;0;0;0
+202106;Enexis;Laarbeek;Verspreide huizen Laar en Strijp;BU16590108;0;0;0;0
+202106;Enexis;Laarbeek;Verspreide huizen Heikant;BU16590109;0;0;0;5
+202106;Enexis;Laarbeek;Industrieterrein Bavaria;BU16590201;0;0;1;0
+202106;Enexis;Laarbeek;Verspreide huizen Lieshout;BU16590209;0;0;0;1
+202106;Enexis;Laarbeek;Verspreide huizen Mariahout;BU16590309;0;0;13;2
+202106;Enexis;De Marne;Haven Lauwersoog;BU16630006;0;0;2;0
+202106;Enexis;De Marne;Landelijk gebied Lauwersmeer;BU16630008;0;0;0;0
+202106;Enexis;De Marne;Verspreide huizen Ulrum;BU16630009;0;0;1;3
+202106;Enexis;De Marne;Leens;BU16630101;0;0;0;0
+202106;Enexis;De Marne;Warfhuizen;BU16630102;0;0;0;0
+202106;Enexis;De Marne;Zuurdijk;BU16630106;0;0;0;0
+202106;Enexis;De Marne;Verspreide huizen Leens;BU16630109;0;2;0;2
+202106;Enexis;De Marne;Verspreide huizen Oude Land;BU16630208;0;0;0;0
+202106;Enexis;De Marne;Verspreide huizen in het Noorden;BU16630209;0;3;0;1
+202106;Enexis;De Marne;Kloosterburen;BU16630300;0;0;0;0
+202106;Enexis;De Marne;Verspreide huizen Kloosterburen;BU16630309;0;4;1;4
+202106;Enexis;Reusel-De Mierden;Reusel;BU16670000;0;0;0;0
+202106;Enexis;Reusel-De Mierden;Voorste Heikant en Weijereind;BU16670001;0;0;0;2
+202106;Enexis;Reusel-De Mierden;De Voort en Achterste Heikant;BU16670002;0;0;0;1
+202106;Enexis;Reusel-De Mierden;Buitengebied ten noorden van Reusel;BU16670008;0;0;1;3
+202106;Enexis;Reusel-De Mierden;Buitengebied ten zuiden van Reusel;BU16670009;0;11;44;8
+202106;Enexis;Reusel-De Mierden;Hooge Mierde;BU16670100;0;0;0;0
+202106;Enexis;Reusel-De Mierden;Verspreide huizen Hooge Mierde;BU16670109;0;0;0;3
+202106;Enexis;Reusel-De Mierden;Verspreide huizen Lage Mierde;BU16670209;0;0;0;1
+202106;Enexis;Reusel-De Mierden;Verspreide huizen Hulsel;BU16670309;0;0;0;2
+202106;Enexis;Roerdalen;Montfort;BU16690101;0;0;0;0
+202106;Enexis;Roerdalen;Buitengebied Montfort;BU16690109;0;0;22;0
+202106;Enexis;Roerdalen;Sint Odiliënberg;BU16690201;0;0;0;0
+202106;Enexis;Roerdalen;Buitengebied Sint Odiliënberg;BU16690209;0;0;0;0
+202106;Enexis;Roerdalen;Melick;BU16690301;0;0;0;0
+202106;Enexis;Roerdalen;Buitengebied Melick;BU16690309;0;0;0;0
+202106;Enexis;Roerdalen;Posterholt;BU16690401;0;0;0;0
+202106;Enexis;Roerdalen;Borg;BU16690404;0;0;0;0
+202106;Enexis;Roerdalen;Buitengebied Herkenbosch;BU16690509;0;0;0;1
+202106;Enexis;Roerdalen;Vlodrop;BU16690601;0;0;0;0
+202106;Enexis;Roerdalen;Rothenbach;BU16690603;0;0;0;0
+202106;Enexis;Roerdalen;Buitengebied Vlodrop;BU16690609;0;0;0;0
+202106;Enexis;Roosendaal;Centrum-Oud;BU16740000;0;0;0;0
+202106;Enexis;Roosendaal;Centrum-Nieuw;BU16740001;0;0;0;0
+202106;Enexis;Roosendaal;Stationsbuurt;BU16740002;0;0;0;0
+202106;Enexis;Roosendaal;Vrouwenhof;BU16740003;0;0;0;0
+202106;Enexis;Roosendaal;Ettingen;BU16740302;0;0;0;0
+202106;Enexis;Roosendaal;Vroenhout;BU16740309;0;9;58;0
+202106;Enexis;Roosendaal;Kroeven-Noordoost;BU16740401;0;0;0;0
+202106;Enexis;Roosendaal;Kroeven-Zuidoost;BU16740403;0;0;0;0
+202106;Enexis;Roosendaal;De Krogten;BU16740405;0;0;0;0
+202106;Enexis;Roosendaal;Borteldonk;BU16740409;0;0;0;0
+202106;Enexis;Roosendaal;Bovendonk;BU16740500;0;0;0;0
+202106;Enexis;Roosendaal;Langdonk-Oost;BU16740502;0;0;0;0
+202106;Enexis;Roosendaal;Kortendijk A;BU16740600;0;0;0;0
+202106;Enexis;Roosendaal;Kortendijk C;BU16740601;0;0;0;0
+202106;Enexis;Roosendaal;Bakkersberg-Langendijk;BU16740609;0;0;2;3
+202106;Enexis;Roosendaal;Hulsdonk;BU16740700;0;0;0;0
+202106;Enexis;Roosendaal;Weihoek-West;BU16740706;0;0;2;4
+202106;Enexis;Roosendaal;Haiink;BU16740709;0;0;0;0
+202106;Enexis;Roosendaal;Borchwerf-Noord;BU16740800;0;0;2;9
+202106;Enexis;Roosendaal;Borchwerf-Zuid;BU16740801;0;0;0;0
+202106;Enexis;Roosendaal;Majoppeveld-Noord;BU16740802;0;0;0;0
+202106;Enexis;Roosendaal;Majoppeveld-Zuid;BU16740803;0;0;2;2
+202106;Enexis;Roosendaal;Vijfhuizenberg;BU16740804;0;0;0;0
+202106;Enexis;Roosendaal;Verspreide huizen Nispen;BU16741009;0;0;0;0
+202106;Enexis;Roosendaal;Wouw;BU16741100;0;0;0;0
+202106;Enexis;Roosendaal;Verspreide huizen Wouw in het Noorden;BU16741108;0;0;0;0
+202106;Enexis;Roosendaal;Verspreide huizen Wouw in het Zuiden;BU16741109;0;0;0;0
+202106;Enexis;Roosendaal;Verspreide huizen Heerle;BU16741209;0;0;16;1
+202106;Enexis;Roosendaal;Moerstraten;BU16741300;0;0;0;0
+202106;Enexis;Roosendaal;Verspreide huizen Moerstraten;BU16741309;0;0;1;0
+202106;Enexis;Roosendaal;Verspreide huizen Wouwse Plantage;BU16741409;0;0;0;0
+202106;Enexis;Aa en Hunze;Annen;BU16800000;0;0;0;0
+202106;Enexis;Aa en Hunze;Eext;BU16800100;0;0;0;0
+202106;Enexis;Aa en Hunze;Eexterveen;BU16800600;0;0;0;1
+202106;Enexis;Aa en Hunze;Verspreide huizen Nieuw-Annerveen;BU16800809;0;0;0;2
+202106;Enexis;Aa en Hunze;Verspreide huizen Eexterzandvoort;BU16801309;0;0;0;0
+202106;Enexis;Aa en Hunze;Gasselternijveen;BU16801500;0;0;0;120
+202106;Enexis;Aa en Hunze;Gasselternijveenschemond;BU16801600;0;0;0;0
+202106;Enexis;Aa en Hunze;Verspreide huizen Gasselternijveenschemond;BU16801609;0;27;0;0
+202106;Enexis;Aa en Hunze;Gieten;BU16801700;0;0;0;0
+202106;Enexis;Aa en Hunze;Verspreide huizen Gieten;BU16801709;0;0;0;0
+202106;Enexis;Aa en Hunze;Nieuwediep;BU16801802;0;35;0;1
+202106;Enexis;Aa en Hunze;Verspreide huizen Gieterveen;BU16801809;0;0;0;0
+202106;Enexis;Aa en Hunze;Rolde;BU16801900;0;0;0;0
+202106;Enexis;Aa en Hunze;Ballo;BU16801901;0;0;0;0
+202106;Enexis;Aa en Hunze;Verspreide huizen Nooitgedacht;BU16801908;0;0;0;2
+202106;Enexis;Aa en Hunze;Verspreide huizen Rolde;BU16801909;0;0;0;0
+202106;Enexis;Aa en Hunze;Verspreide huizen Grolloo;BU16802009;0;0;0;1
+202106;Enexis;Aa en Hunze;Verspreide huizen Ekehaar;BU16802109;0;0;0;0
+202106;Enexis;Borger-Odoorn;Borger;BU16810000;0;0;6;0
+202106;Enexis;Borger-Odoorn;Verspreide huizen Westdorp;BU16810008;0;0;6;0
+202106;Enexis;Borger-Odoorn;Buinen;BU16810100;0;0;0;1
+202106;Enexis;Borger-Odoorn;Verspreide huizen Buinen;BU16810109;0;0;0;4
+202106;Enexis;Borger-Odoorn;Drouwenermond;BU16810600;0;20;0;0
+202106;Enexis;Borger-Odoorn;Verspreide huizen Drouwenermond;BU16810609;0;4;0;0
+202106;Enexis;Borger-Odoorn;Nieuw-Buinen;BU16810700;0;27;0;1
+202106;Enexis;Borger-Odoorn;Verspreide huizen Nieuw-Buinen;BU16810709;0;0;0;0
+202106;Enexis;Borger-Odoorn;Odoorn;BU16811000;0;0;0;0
+202106;Enexis;Borger-Odoorn;Verspreide huizen Odoorn;BU16811009;0;0;0;0
+202106;Enexis;Borger-Odoorn;Exloo;BU16811100;0;0;50;0
+202106;Enexis;Borger-Odoorn;Verspreide huizen Exloo;BU16811109;0;0;0;0
+202106;Enexis;Borger-Odoorn;Odoornerveen;BU16811400;0;0;0;0
+202106;Enexis;Borger-Odoorn;Tweede Exloërmond;BU16811500;0;35;0;2
+202106;Enexis;Borger-Odoorn;Eerste Exloërmond;BU16811501;0;27;0;0
+202106;Enexis;Borger-Odoorn;Valthermond;BU16811600;0;0;0;0
+202106;Enexis;Cuijk;Katwijk havengebied;BU16840217;0;0;0;2
+202106;Enexis;Cuijk;Vianen buitengebied;BU16840315;0;0;12;0
+202106;Enexis;Cuijk;Beers buitengebied;BU16840419;0;0;0;2
+202106;Enexis;Cuijk;Cuijk kern;BU16840602;0;0;0;1
+202106;Enexis;Cuijk;Cuijk industriegebied;BU16840611;0;0;0;3
+202106;Enexis;Cuijk;Cuijk buitengebied ten westen;BU16840612;0;0;0;0
+202106;Enexis;Cuijk;Cuijk Heeswijkse Kampen;BU16840613;0;0;0;0
+202106;Enexis;Cuijk;Cuijk De Valuwe;BU16840620;0;0;0;0
+202106;Enexis;Cuijk;Haps buitengebied;BU16841106;0;0;1;4
+202106;Enexis;Cuijk;Sint Agatha kern;BU16841404;0;0;0;0
+202106;Enexis;Landerd;Schaijk;BU16850000;0;0;0;1
+202106;Enexis;Landerd;Verspreide huizen Schaijkse Heide;BU16850007;0;0;0;0
+202106;Enexis;Landerd;Verspreide huizen Mun;BU16850008;0;0;0;0
+202106;Enexis;Landerd;Overige verspreide huizen;BU16850009;0;0;0;1
+202106;Enexis;Landerd;Reek;BU16850100;0;0;0;0
+202106;Enexis;Landerd;Zeeland;BU16850200;0;0;0;0
+202106;Enexis;Landerd;Nabbegat-Voederheil;BU16850201;0;0;1;1
+202106;Enexis;Landerd;Oventje;BU16850202;0;0;0;0
+202106;Enexis;Landerd;Verspreide huizen Trent-Graspeel;BU16850207;0;0;0;1
+202106;Enexis;Landerd;Verspreide huizen Zevenhuis;BU16850208;0;0;0;0
+202106;Enexis;Landerd;Verspreide huizen Duifhuis-Kreitsberg;BU16850209;0;0;0;1
+202106;Enexis;Landerd;Verspreide huizen Peel;BU16850909;0;0;0;1
+202106;Enexis;De Wolden;Zuidwolde kern;BU16900000;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Zuidwolde;BU16900009;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Alteveer;BU16900109;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Kerkenveld;BU16900209;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Drogteropslagen;BU16900309;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Linde;BU16900409;0;0;0;1
+202106;Enexis;De Wolden;Verspreide huizen Fort;BU16900509;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Veeningen;BU16900609;0;0;0;0
+202106;Enexis;De Wolden;Oldenhave;BU16900801;0;0;0;0
+202106;Enexis;De Wolden;Leeuwte;BU16900803;0;0;0;1
+202106;Enexis;De Wolden;Hees;BU16900804;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Ruinen;BU16900809;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Pesse;BU16900909;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Ansen;BU16901009;0;0;0;0
+202106;Enexis;De Wolden;Ruinerwold;BU16901100;0;0;0;0
+202106;Enexis;De Wolden;Oosteinde;BU16901102;0;0;0;1
+202106;Enexis;De Wolden;Weerwille;BU16901104;0;0;0;0
+202106;Enexis;De Wolden;Oosteinde-Buiten;BU16901105;0;0;0;0
+202106;Enexis;De Wolden;Ruinerwold-Buiten;BU16901109;0;0;0;0
+202106;Enexis;De Wolden;Koekange Zuid;BU16901202;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen Koekange;BU16901209;0;0;0;0
+202106;Enexis;De Wolden;Verspreide huizen De Wijk;BU16901309;0;0;0;0
+202106;Enexis;Noordenveld;Roden;BU16990000;0;0;0;0
+202106;Enexis;Noordenveld;Industrieterrein Roden;BU16990020;0;0;1;2
+202106;Enexis;Noordenveld;Nieuw-Roden;BU16990030;0;0;0;0
+202106;Enexis;Noordenveld;Buitengebied Roden Noord;BU16990120;0;0;120;0
+202106;Enexis;Noordenveld;Buitengebied Roden Zuid;BU16990130;0;0;0;0
+202106;Enexis;Noordenveld;Norg;BU16990300;0;0;0;0
+202106;Enexis;Noordenveld;Een;BU16990310;0;0;0;0
+202106;Enexis;Noordenveld;Langelo;BU16990320;0;0;0;1
+202106;Enexis;Noordenveld;Verspreide huizen Een-West;BU16990380;0;0;0;1
+202106;Enexis;Noordenveld;Verspreide huizen Norg;BU16990390;0;0;0;0
+202106;Enexis;Noordenveld;Verspreide huizen Een;BU16990400;0;0;0;0
+202106;Enexis;Noordenveld;Verspreide huizen Peest;BU16990420;0;0;72;0
+202106;Enexis;Noordenveld;Verspreide huizen Zuidvelde;BU16990430;0;0;0;1
+202106;Enexis;Noordenveld;Verspreide huizen Veenhuizen;BU16990450;0;0;0;1
+202106;Enexis;Noordenveld;Peize;BU16990600;0;0;0;1
+202106;Enexis;Noordenveld;Verspreide huizen Peize Noord;BU16990630;0;0;0;0
+202106;Enexis;Twenterand;Centrum-Vriezenveen;BU17000000;0;0;0;0
+202106;Enexis;Twenterand;Westeinde;BU17000003;0;0;0;0
+202106;Enexis;Twenterand;Industrieterrein Vriezenveen-West;BU17000008;0;0;0;0
+202106;Enexis;Twenterand;Verspreide huizen De Westerhoeve;BU17000105;0;0;0;1
+202106;Enexis;Twenterand;Verspreide huizen ten noorden van Vriezenveen;BU17000106;0;0;2;1
+202106;Enexis;Twenterand;Verspreide huizen ten zuiden van Vriezenveen;BU17000109;0;0;0;15
+202106;Enexis;Twenterand;Westerhaar-Oost;BU17000202;0;0;0;0
+202106;Enexis;Twenterand;Verspreide huizen Westerhaar-Vriezenveensewijk-Oost;BU17000208;0;0;0;1
+202106;Enexis;Twenterand;Den Ham;BU17000300;0;0;0;0
+202106;Enexis;Twenterand;Buurtschap Meer;BU17000307;0;0;0;0
+202106;Enexis;Twenterand;Buurtschap Magele;BU17000308;0;0;0;0
+202106;Enexis;Twenterand;Buurtschap Linde;BU17000309;0;0;0;15
+202106;Enexis;Twenterand;Vroomshoop-West;BU17000403;0;0;0;0
+202106;Enexis;Twenterand;Industrieterrein;BU17000406;0;0;2;1
+202106;Enexis;Twenterand;Verspreide huizen Vroomshoop-Oost;BU17000409;0;0;0;1
+202106;Enexis;Westerveld;Verspreide huizen Diever;BU17010009;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Wapse;BU17010109;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Zorgvlied;BU17010209;0;0;0;0
+202106;Enexis;Westerveld;Dwingelo;BU17010300;0;0;0;0
+202106;Enexis;Westerveld;Westeinde;BU17010301;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Dwingeloo;BU17010309;0;0;0;0
+202106;Enexis;Westerveld;Lhee;BU17010400;0;0;0;1
+202106;Enexis;Westerveld;Lheebroek;BU17010401;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Lhee;BU17010409;0;0;0;1
+202106;Enexis;Westerveld;Geeuwenbrug;BU17010600;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Geeuwenbrug;BU17010609;0;0;0;0
+202106;Enexis;Westerveld;Havelte;BU17010800;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Havelte;BU17010809;0;0;0;1
+202106;Enexis;Westerveld;Verspreide huizen Uffelte;BU17010909;0;0;0;0
+202106;Enexis;Westerveld;Vledder;BU17011100;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Vledder;BU17011109;0;0;0;0
+202106;Enexis;Westerveld;Frederiksoord;BU17011200;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Doldersum;BU17011609;0;0;0;0
+202106;Enexis;Westerveld;Verspreide huizen Boschoord;BU17011709;0;0;0;0
+202106;Enexis;Sint Anthonis;Sint Anthonis;BU17020000;0;0;0;0
+202106;Enexis;Sint Anthonis;Verspreide huizen Ledeacker;BU17020008;0;0;0;0
+202106;Enexis;Sint Anthonis;Verspreide huizen Sint Anthonis;BU17020009;0;0;1;3
+202106;Enexis;Sint Anthonis;Verspreide huizen Oploo;BU17020109;0;0;9;3
+202106;Enexis;Sint Anthonis;Verspreide huizen Westerbeek;BU17020209;0;0;2;1
+202106;Enexis;Sint Anthonis;Verspreide huizen Stevensbeek;BU17020309;0;0;0;0
+202106;Enexis;Sint Anthonis;Wanroij;BU17020400;0;0;0;0
+202106;Enexis;Sint Anthonis;Verspreide huizen Wanroij's Broek;BU17020409;0;0;2;3
+202106;Enexis;Sint Anthonis;Verspreide huizen De Peel;BU17020509;0;0;2;4
+202106;Enexis;Cranendonck;Budel;BU17060000;0;0;0;0
+202106;Enexis;Cranendonck;Heikant, Meemortel, Bosch;BU17060001;0;0;0;1
+202106;Enexis;Cranendonck;Verspreide huizen Berg en Toom;BU17060008;0;0;0;0
+202106;Enexis;Cranendonck;Verspreide huizen in het Oosten;BU17060009;0;0;0;2
+202106;Enexis;Cranendonck;Klein-Schoot;BU17060101;0;0;0;0
+202106;Enexis;Cranendonck;Budel-Dorplein;BU17060200;0;0;25;34
+202106;Enexis;Cranendonck;Industrieterrein Dorplein;BU17060201;0;0;0;2
+202106;Enexis;Cranendonck;Maarheeze;BU17060300;0;0;10;1
+202106;Enexis;Cranendonck;Industrieterrein Den Engelsman Rondven;BU17060302;0;0;0;1
+202106;Enexis;Cranendonck;Verspreide huizen Hugten;BU17060308;0;0;42;1
+202106;Enexis;Cranendonck;Verspreide huizen Maarheeze;BU17060309;0;0;6;1
+202106;Enexis;Cranendonck;Soerendonk;BU17060400;0;0;0;0
+202106;Enexis;Cranendonck;Verspreide huizen Soerendonk;BU17060409;0;0;0;1
+202106;Enexis;Cranendonck;Gastel;BU17060500;0;0;1;0
+202106;Enexis;Steenwijkerland;Groot Verlaat;BU17080014;0;0;0;1
+202106;Enexis;Steenwijkerland;Oldemarkt;BU17080200;0;0;0;0
+202106;Enexis;Steenwijkerland;De Boterberg;BU17080201;0;0;0;1
+202106;Enexis;Steenwijkerland;Vollenhove;BU17080700;0;0;0;0
+202106;Enexis;Steenwijkerland;Schaarkampen;BU17080702;0;0;0;0
+202106;Enexis;Steenwijkerland;Verspreide huizen Vollenhove;BU17080709;0;0;0;1
+202106;Enexis;Steenwijkerland;Sint Jansklooster;BU17080800;0;0;0;0
+202106;Enexis;Steenwijkerland;Verspreide huizen Barsbeek;BU17080813;0;0;0;0
+202106;Enexis;Steenwijkerland;Dinxterveen;BU17081105;0;0;36;0
+202106;Enexis;Steenwijkerland;Verspreide huizen ten noorden van Blokzijl;BU17081608;0;0;0;0
+202106;Enexis;Steenwijkerland;Verspreide huizen ten zuiden van Blokzijl;BU17081609;0;0;0;0
+202106;Enexis;Steenwijkerland;Verspreide huizen Giethoorn-Noord;BU17081701;0;0;0;2
+202106;Enexis;Steenwijkerland;Giethoorn-Zuid;BU17081704;0;0;0;0
+202106;Enexis;Steenwijkerland;Onna;BU17081900;0;0;24;0
+202106;Enexis;Steenwijkerland;Kallenkote;BU17082000;0;0;0;0
+202106;Enexis;Steenwijkerland;Eesveen;BU17082100;0;0;30;0
+202106;Enexis;Steenwijkerland;De Bult;BU17082200;0;0;0;0
+202106;Enexis;Steenwijkerland;Buitengebied Steenwijkerwold;BU17082901;0;0;0;1
+202106;Enexis;Steenwijkerland;Paasloo;BU17083100;0;0;0;0
+202106;Enexis;Steenwijkerland;Nederland;BU17083500;0;0;0;0
+202106;Enexis;Moerdijk;Centrum;BU17090000;0;0;0;0
+202106;Enexis;Moerdijk;Torenveld;BU17090001;0;0;0;0
+202106;Enexis;Moerdijk;Lindonk;BU17090004;0;0;0;0
+202106;Enexis;Moerdijk;Schansdijk en omgeving;BU17090005;0;0;0;0
+202106;Enexis;Moerdijk;Zwanengat en omgeving;BU17090006;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen ten oosten van Zevenbergen;BU17090009;0;0;0;1
+202106;Enexis;Moerdijk;Verspreide huizen Zevenbergschen Hoek;BU17090109;0;0;0;1
+202106;Enexis;Moerdijk;Langeweg;BU17090200;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Langeweg;BU17090209;32;0;0;2
+202106;Enexis;Moerdijk;Klundert;BU17090300;0;0;0;0
+202106;Enexis;Moerdijk;Industrieterrein Moerdijk;BU17090303;0;48;30;22
+202106;Enexis;Moerdijk;Verspreide huizen Klundert;BU17090309;0;0;0;1
+202106;Enexis;Moerdijk;Moerdijk;BU17090400;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Moerdijk;BU17090409;17;0;0;0
+202106;Enexis;Moerdijk;Noordhoek;BU17090500;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Noordhoek;BU17090509;0;0;0;1
+202106;Enexis;Moerdijk;Standdaarbuiten;BU17090600;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Standdaarbuiten;BU17090609;0;0;0;0
+202106;Enexis;Moerdijk;Fijnaart;BU17090700;0;0;0;0
+202106;Enexis;Moerdijk;Oudemolen;BU17090701;0;0;0;0
+202106;Enexis;Moerdijk;Zwingelspaan;BU17090703;0;0;0;1
+202106;Enexis;Moerdijk;Verspreide huizen Fijnaart;BU17090709;0;0;0;1
+202106;Enexis;Moerdijk;Heijningen;BU17090800;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Heijningen;BU17090809;0;31;0;1
+202106;Enexis;Moerdijk;Willemstad;BU17090900;0;9;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Willemstad;BU17090909;0;0;0;0
+202106;Enexis;Moerdijk;Verspreide huizen Helwijk;BU17091009;0;0;0;0
+202106;Enexis;Echt-Susteren;Mariaveld;BU17110103;0;0;0;0
+202106;Enexis;Echt-Susteren;Verspreide huizen Susteren;BU17110107;0;0;0;2
+202106;Enexis;Echt-Susteren;Handelsterrein;BU17110153;0;0;0;0
+202106;Enexis;Echt-Susteren;Verspreide huizen Dieteren;BU17110210;0;0;2;1
+202106;Enexis;Echt-Susteren;Roosteren;BU17110417;0;0;0;0
+202106;Enexis;Echt-Susteren;Berkelaar;BU17110521;0;0;0;0
+202106;Enexis;Echt-Susteren;De Berk;BU17110522;0;0;0;1
+202106;Enexis;Echt-Susteren;De Loop;BU17110523;0;0;0;0
+202106;Enexis;Echt-Susteren;Echt Centrum;BU17110524;0;0;0;0
+202106;Enexis;Echt-Susteren;Echt Noord;BU17110525;0;0;0;0
+202106;Enexis;Echt-Susteren;Gebroek;BU17110526;0;0;0;0
+202106;Enexis;Echt-Susteren;Businesspark Midden-Limburg;BU17110528;0;0;0;2
+202106;Enexis;Echt-Susteren;Buitengebied de Loop;BU17110548;0;0;0;1
+202106;Enexis;Echt-Susteren;Buitengebied Berkelaar;BU17110554;0;0;6;0
+202106;Enexis;Echt-Susteren;Diergaarde;BU17110628;0;0;29;2
+202106;Enexis;Echt-Susteren;Hingen;BU17110731;0;0;0;0
+202106;Enexis;Echt-Susteren;Peij;BU17110732;0;0;1;0
+202106;Enexis;Echt-Susteren;Schilberg;BU17110735;0;0;0;0
+202106;Enexis;Echt-Susteren;Liboscherveld;BU17110836;0;0;0;0
+202106;Enexis;Echt-Susteren;Sint Joost;BU17111041;0;0;0;0
+202106;Enexis;Echt-Susteren;Lackerbosch;BU17111144;0;0;6;0
+202106;Enexis;Drimmelen;Made;BU17190000;0;0;0;1
+202106;Enexis;Drimmelen;Tuinbouwgebied;BU17190008;0;0;2;2
+202106;Enexis;Drimmelen;Verspreide huizen Made;BU17190009;0;0;1;1
+202106;Enexis;Drimmelen;Terheijden;BU17190200;0;0;6;0
+202106;Enexis;Drimmelen;Verspreide huizen Binnenpolder;BU17190208;0;0;10;0
+202106;Enexis;Drimmelen;Verspreide huizen Zonzeelsepolder;BU17190209;0;0;0;1
+202106;Enexis;Drimmelen;Wagenberg;BU17190300;0;0;0;0
+202106;Enexis;Drimmelen;Verspreide huizen Wagenberg;BU17190309;0;0;1;0
+202106;Enexis;Drimmelen;Blauwe Sluis;BU17190401;0;0;0;0
+202106;Enexis;Drimmelen;Verspreide huizen Lage Zwaluwe;BU17190409;54;0;0;0
+202106;Enexis;Drimmelen;Hooge Zwaluwe;BU17190500;0;0;0;0
+202106;Enexis;Drimmelen;Verspreide huizen Groot Zonzeelsche Polder;BU17190508;0;0;0;1
+202106;Enexis;Drimmelen;Verspreide huizen Hooge Zwaluwe;BU17190509;0;0;1;1
+202106;Enexis;Bernheze;'t Dorp;BU17210101;0;0;0;0
+202106;Enexis;Bernheze;Kennedystraat;BU17210105;0;0;0;0
+202106;Enexis;Bernheze;Buitenpas - Noordrand;BU17210110;0;0;0;0
+202106;Enexis;Bernheze;Broekhoek - Middelste Groes;BU17210119;0;0;0;0
+202106;Enexis;Bernheze;De Beemd;BU17210120;0;0;0;0
+202106;Enexis;Bernheze;St. Servatius - Schoonstr - Den Dolvert;BU17210201;0;0;0;0
+202106;Enexis;Bernheze;Heilige Stok - Kerkstraat;BU17210203;0;0;0;0
+202106;Enexis;Bernheze;De abdij;BU17210204;0;0;0;0
+202106;Enexis;Bernheze;Hopveld - Muggenhoek;BU17210208;0;0;0;0
+202106;Enexis;Bernheze;Eikenhoek;BU17210209;0;0;0;0
+202106;Enexis;Bernheze;Laar;BU17210301;0;0;0;0
+202106;Enexis;Bernheze;De Hoef;BU17210302;0;0;0;0
+202106;Enexis;Bernheze;Donzel;BU17210304;0;0;0;0
+202106;Enexis;Bernheze;Kleinwijk;BU17210309;0;0;0;0
+202106;Enexis;Bernheze;De Bleeken - 't Grolder;BU17210401;0;0;0;5
+202106;Enexis;Bernheze;Zoggel - Berkt;BU17210402;0;0;0;0
+202106;Enexis;Bernheze;Hooge Wijst - De Vorssel;BU17210403;0;0;0;0
+202106;Enexis;Bernheze;Beugt;BU17210501;0;0;0;1
+202106;Enexis;Bernheze;Fokkershoek;BU17210502;0;0;0;0
+202106;Enexis;Bernheze;Heeswijkse Bosschen;BU17210503;0;0;1;2
+202106;Enexis;Bernheze;Hazelberg;BU17210504;0;0;0;4
+202106;Enexis;Bernheze;Heische Wal - DintherseHoek;BU17210505;0;0;1;2
+202106;Enexis;Bernheze;Loosbroek;BU17210506;0;0;0;0
+202106;Enexis;Bernheze;Groote Heide;BU17210601;0;0;1;3
+202106;Enexis;Bernheze;Vorstenbosch;BU17210602;0;0;0;0
+202106;Enexis;Bernheze;Menzel;BU17210603;0;0;0;2
+202106;Enexis;Alphen-Chaam;Alphen;BU17230000;0;0;0;0
+202106;Enexis;Alphen-Chaam;Buitengebied Alphen;BU17230009;0;0;0;2
+202106;Enexis;Alphen-Chaam;Verspreide huizen in het Zuidwesten;BU17230109;0;0;0;1
+202106;Enexis;Alphen-Chaam;Galder;BU17230200;0;0;15;0
+202106;Enexis;Alphen-Chaam;Verspreide huizen Galder;BU17230208;0;0;0;0
+202106;Enexis;Alphen-Chaam;Verspreide huizen Strijbeek;BU17230209;0;0;0;1
+202106;Enexis;Alphen-Chaam;Verspreide huizen Bavel;BU17230909;0;0;0;0
+202106;Enexis;Bergeijk;Meester Pankenstraat-Riethovensedijk;BU17240008;0;0;0;0
+202106;Enexis;Bergeijk;Eerselsedijk-Woonbos e.o.;BU17240011;0;0;0;1
+202106;Enexis;Bergeijk;Weebosch;BU17240101;0;0;0;0
+202106;Enexis;Bergeijk;Dorpstraat;BU17240206;0;0;0;0
+202106;Enexis;Bergeijk;Industrieterrein 'Loonsebaan';BU17240209;0;0;0;1
+202106;Enexis;Bergeijk;Eviestraat-Vlasstraat e.o.;BU17240302;0;0;0;0
+202106;Enexis;Bergeijk;Walik;BU17240307;0;0;0;1
+202106;Enexis;Bergeijk;Heijerstraat-Loveren;BU17240401;0;0;0;1
+202106;Enexis;Bergeijk;Industrieterrein 'Leemskuilen';BU17240409;0;0;0;1
+202106;Enexis;Bergeijk;Loo;BU17240501;0;0;0;0
+202106;Enexis;Bergeijk;Industrieterrein 'Waterlaat';BU17240503;0;0;0;1
+202106;Enexis;Bergeijk;Buitengebied Noord 1;BU17240601;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Noord 2;BU17240602;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Noord 3;BU17240603;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Noord 4;BU17240604;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Zuid-Oost;BU17240605;0;0;0;3
+202106;Enexis;Bergeijk;Buitengebied Noord-West 1;BU17240606;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Noord-West 2;BU17240607;0;0;0;0
+202106;Enexis;Bergeijk;Buitengebied Zuid-West;BU17240608;0;0;0;1
+202106;Enexis;Bergeijk;Buitengebied Zuid 1;BU17240609;0;0;0;2
+202106;Enexis;Bergeijk;Buitengebied Zuid 2;BU17240610;0;0;1;2
+202106;Enexis;Bladel;Bladel;BU17280000;0;0;0;1
+202106;Enexis;Bladel;Industrieterrein Bladel;BU17280001;0;0;0;2
+202106;Enexis;Bladel;Verspreide huizen ten noorden van Bladel;BU17280008;0;0;1;2
+202106;Enexis;Bladel;Verspreide huizen ten zuiden van Bladel;BU17280009;0;0;0;1
+202106;Enexis;Bladel;Verspreide huizen Netersel;BU17280109;0;0;0;0
+202106;Enexis;Bladel;Hapert;BU17280200;0;0;0;0
+202106;Enexis;Bladel;Industrieterrein Hapert;BU17280201;0;0;0;1
+202106;Enexis;Bladel;Verspreide huizen Hapert;BU17280209;22;0;54;10
+202106;Enexis;Bladel;Hoogeloon;BU17280300;0;0;0;0
+202106;Enexis;Bladel;Hoogcasteren en omgeving;BU17280301;0;0;0;1
+202106;Enexis;Bladel;Verspreide huizen Hoogeloon;BU17280309;0;0;0;1
+202106;Enexis;Bladel;Verspreide huizen Casteren;BU17280409;0;0;0;1
+202106;Enexis;Gulpen-Wittem;Gulpen;BU17290000;0;0;0;0
+202106;Enexis;Gulpen-Wittem;Reijmerstok;BU17290003;0;0;0;1
+202106;Enexis;Gulpen-Wittem;Verspreide huizen;BU17290009;0;0;0;0
+202106;Enexis;Gulpen-Wittem;Wijlre;BU17290100;0;0;0;0
+202106;Enexis;Gulpen-Wittem;Elkenrade;BU17290103;0;0;0;0
+202106;Enexis;Tynaarlo;Zuidlaren;BU17300000;0;0;0;0
+202106;Enexis;Tynaarlo;Zuidlaarderveen;BU17300200;0;0;0;0
+202106;Enexis;Tynaarlo;Verspreide huizen Zuidlaarderveen;BU17300209;0;0;0;0
+202106;Enexis;Tynaarlo;Westlaren;BU17300400;0;0;0;0
+202106;Enexis;Tynaarlo;Verspreide huizen Westlaren;BU17300402;0;0;0;0
+202106;Enexis;Tynaarlo;Paterswolde;BU17300600;0;0;0;0
+202106;Enexis;Tynaarlo;Eelde;BU17300700;0;0;0;22
+202106;Enexis;Tynaarlo;Oosterbroek en vliegveld;BU17300701;0;0;0;2
+202106;Enexis;Tynaarlo;Verspreide huizen Eelderwolde;BU17300809;0;0;0;0
+202106;Enexis;Tynaarlo;Vries;BU17300900;0;0;0;1
+202106;Enexis;Tynaarlo;Verspreide huizen Donderen;BU17301009;0;0;0;2
+202106;Enexis;Tynaarlo;Verspreide huizen Bunne;BU17301109;0;0;0;1
+202106;Enexis;Tynaarlo;Yde;BU17301200;0;0;0;0
+202106;Enexis;Tynaarlo;De Punt;BU17301201;0;0;0;0
+202106;Enexis;Tynaarlo;Tynaarlo;BU17301300;0;0;0;0
+202106;Enexis;Tynaarlo;Verspreide huizen Tynaarlo;BU17301309;0;0;0;17
+202106;Enexis;Tynaarlo;Verspreide huizen Zeegse;BU17301407;0;0;0;0
+202106;Enexis;Tynaarlo;Zeijen;BU17301500;0;0;0;0
+202106;Enexis;Tynaarlo;Verspreide huizen Zeijen;BU17301509;0;0;0;1
+202106;Enexis;Midden-Drenthe;Beilen;BU17310000;0;0;0;1
+202106;Enexis;Midden-Drenthe;Verspreide huizen Beilen;BU17310009;0;0;0;22
+202106;Enexis;Midden-Drenthe;Hijken;BU17310100;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Hijken;BU17310109;0;0;10;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Hooghalen;BU17310209;0;0;1;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Wijster;BU17310309;0;0;0;0
+202106;Enexis;Midden-Drenthe;Smilde-Centrum;BU17310600;0;0;0;0
+202106;Enexis;Midden-Drenthe;Smilde-Zuid;BU17310602;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Smilde;BU17310609;0;0;0;1
+202106;Enexis;Midden-Drenthe;Bovensmilde-Centrum;BU17310700;0;0;0;0
+202106;Enexis;Midden-Drenthe;Bovensmilde-Zuid;BU17310702;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Bovensmilde;BU17310709;0;0;25;1
+202106;Enexis;Midden-Drenthe;Hoogersmilde-Noord;BU17310801;0;0;0;1
+202106;Enexis;Midden-Drenthe;Verspreide huizen Hoogersmilde;BU17310809;0;0;0;6
+202106;Enexis;Midden-Drenthe;Westerbork;BU17310900;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Elp;BU17311009;0;0;0;0
+202106;Enexis;Midden-Drenthe;Witteveen;BU17311100;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Witteveen;BU17311109;0;0;0;1
+202106;Enexis;Midden-Drenthe;Verspreide huizen Nieuweroord;BU17311309;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen Orvelte;BU17311509;0;0;0;0
+202106;Enexis;Midden-Drenthe;Garminge;BU17311600;0;0;0;0
+202106;Enexis;Midden-Drenthe;Verspreide huizen de Broekstreek;BU17311609;0;0;0;0
+202106;Enexis;Hof van Twente;Kerspel;BU17350109;0;0;0;2
+202106;Enexis;Hof van Twente;Markelo;BU17350200;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Markelerbroek;BU17350206;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Stokkum;BU17350207;0;0;1;1
+202106;Enexis;Hof van Twente;Verspreide huizen Herike;BU17350208;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Markelo;BU17350209;0;0;0;1
+202106;Enexis;Hof van Twente;Verspreide huizen Kerspel en Goor;BU17350309;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Elsen;BU17350407;0;0;9;0
+202106;Enexis;Hof van Twente;Verspreide huizen Elsenerbroek;BU17350408;0;0;0;10
+202106;Enexis;Hof van Twente;Diepenheim-Noord;BU17350500;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Markvelde;BU17350508;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Kerspel en Schipbeek;BU17350509;0;0;0;0
+202106;Enexis;Hof van Twente;Greekerinckskamp;BU17350602;0;0;0;0
+202106;Enexis;Hof van Twente;'t Kip;BU17350603;0;0;0;0
+202106;Enexis;Hof van Twente;Vossenbrink en De Braak;BU17350609;0;0;0;1
+202106;Enexis;Hof van Twente;Industrieterrein-Delden;BU17350700;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Deldeneresch;BU17350709;0;0;0;0
+202106;Enexis;Hof van Twente;Hengevelde;BU17350800;0;0;0;2
+202106;Enexis;Hof van Twente;Verspreide huizen Hengevelde;BU17350805;0;0;1;1
+202106;Enexis;Hof van Twente;Verspreide huizen Deldeneresch;BU17350806;0;0;1;0
+202106;Enexis;Hof van Twente;Verspreide huizen Deldenerbroek;BU17350807;0;0;13;1
+202106;Enexis;Hof van Twente;Verspreide huizen Zeldam;BU17350809;0;0;0;2
+202106;Enexis;Hof van Twente;Bentelo kern;BU17350900;0;0;0;0
+202106;Enexis;Hof van Twente;Verspreide huizen Wiene;BU17350908;0;0;0;2
+202106;Enexis;Hof van Twente;Verspreide huizen Bentelo;BU17350909;0;0;1;2
+202106;Enexis;Rijssen-Holten;Kern-Rijssen;BU17420000;0;0;0;0
+202106;Enexis;Rijssen-Holten;Lenfert en omgeving;BU17420100;0;0;0;0
+202106;Enexis;Rijssen-Holten;De Delle;BU17420101;0;0;0;0
+202106;Enexis;Rijssen-Holten;Braakmanslanden;BU17420102;0;0;0;1
+202106;Enexis;Rijssen-Holten;Veeneslagen;BU17420105;0;0;0;0
+202106;Enexis;Rijssen-Holten;Opbroek;BU17420106;0;0;0;0
+202106;Enexis;Rijssen-Holten;Verspreide huizen Ligtenberg;BU17420207;0;0;0;17
+202106;Enexis;Rijssen-Holten;Verspreide huizen Zuidrand en omgeving;BU17420208;0;0;0;0
+202106;Enexis;Rijssen-Holten;Holten-Kom en De Kol;BU17420300;0;0;0;0
+202106;Enexis;Rijssen-Holten;Holten-De Haar;BU17420301;0;0;0;0
+202106;Enexis;Rijssen-Holten;Vletgaarsmaten;BU17420402;0;0;0;2
+202106;Enexis;Rijssen-Holten;Buurtschap Holterbroek;BU17420501;0;0;0;1
+202106;Enexis;Rijssen-Holten;Buurtschap Beuseberg;BU17420502;0;0;0;0
+202106;Enexis;Rijssen-Holten;Buurtschap Espelo;BU17420503;0;0;0;0
+202106;Enexis;Rijssen-Holten;Buurtschap Look;BU17420505;0;0;0;0
+202106;Enexis;Rijssen-Holten;Verspreide huizen Dijkerhoek;BU17420509;0;0;4;1
+202106;Enexis;Rijssen-Holten;De Mors en Plaagslagen;BU17420701;0;0;1;8
+202106;Enexis;Geldrop-Mierlo;Centrum;BU17710000;0;0;0;1
+202106;Enexis;Geldrop-Mierlo;Zesgehuchten;BU17710003;0;0;0;0
+202106;Enexis;Geldrop-Mierlo;Braakhuizen-Noord;BU17710004;0;0;0;0
+202106;Enexis;Geldrop-Mierlo;Braakhuizen-Zuid;BU17710005;0;0;0;0
+202106;Enexis;Geldrop-Mierlo;Coevering;BU17710006;0;0;0;0
+202106;Enexis;Geldrop-Mierlo;Gijzenrooi;BU17710009;0;0;0;0
+202106;Enexis;Geldrop-Mierlo;Mierlo;BU17710100;0;0;0;1
+202106;Enexis;Geldrop-Mierlo;Verspreide huizen Mierlo;BU17710109;0;0;15;1
+202106;Enexis;Olst-Wijhe;Stationswijk en Industrieweg;BU17730113;0;0;0;0
+202106;Enexis;Olst-Wijhe;Kortrick en Zonnekamp;BU17730114;0;0;0;0
+202106;Enexis;Olst-Wijhe;Buitengebied Olst;BU17730115;0;0;0;0
+202106;Enexis;Olst-Wijhe;Wijhe Centrum;BU17730216;0;0;6;0
+202106;Enexis;Olst-Wijhe;Peperkamp en De Enk;BU17730217;0;0;0;1
+202106;Enexis;Olst-Wijhe;Buitengebied Wesepe;BU17730321;0;0;0;0
+202106;Enexis;Olst-Wijhe;Boskamp Kern;BU17730422;0;0;0;0
+202106;Enexis;Olst-Wijhe;Buitengebied Boskamp;BU17730423;0;0;2;0
+202106;Enexis;Olst-Wijhe;Welsum;BU17730626;0;0;0;0
+202106;Enexis;Olst-Wijhe;Den Nul Kern;BU17730727;0;0;0;0
+202106;Enexis;Olst-Wijhe;Buitengebied Den Nul;BU17730728;0;0;10;0
+202106;Enexis;Olst-Wijhe;Eikelhof;BU17730829;0;0;0;0
+202106;Enexis;Olst-Wijhe;Elshof;BU17730930;0;0;0;1
+202106;Enexis;Olst-Wijhe;Middel;BU17731132;0;0;10;1
+202106;Enexis;Olst-Wijhe;Herxen;BU17731233;0;0;0;0
+202106;Enexis;Dinkelland;Centrum;BU17741010;0;0;0;0
+202106;Enexis;Dinkelland;Kerkeres;BU17741011;0;0;0;0
+202106;Enexis;Dinkelland;Dorper-Es;BU17741013;0;0;0;0
+202106;Enexis;Dinkelland;Kloppendijk;BU17741050;0;0;0;1
+202106;Enexis;Dinkelland;Sombeek;BU17741051;0;0;0;1
+202106;Enexis;Dinkelland;Buitengebied Denekamp;BU17741099;0;0;0;1
+202106;Enexis;Dinkelland;Lattrop kern;BU17741110;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Breklenkamp;BU17741198;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Lattrop;BU17741199;0;0;1;0
+202106;Enexis;Dinkelland;Verspreide huizen Tilligte;BU17741299;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Groot Agelo;BU17741398;0;0;0;1
+202106;Enexis;Dinkelland;Verspreide huizen Klein Agelo;BU17741399;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Noord Deurningen;BU17741499;0;0;0;2
+202106;Enexis;Dinkelland;De Mors;BU17741550;0;0;0;1
+202106;Enexis;Dinkelland;Buitengebied Ootmarsum-West;BU17741599;0;0;0;0
+202106;Enexis;Dinkelland;Weerselo;BU17741610;0;0;0;0
+202106;Enexis;Dinkelland;Eertman;BU17741611;0;0;0;0
+202106;Enexis;Dinkelland;Echelpoel;BU17741650;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Weerselo;BU17741699;0;0;0;0
+202106;Enexis;Dinkelland;Rossum;BU17741710;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Rossum;BU17741799;0;0;0;0
+202106;Enexis;Dinkelland;Verspreide huizen Saasveld;BU17741899;0;0;1;2
+202106;Enexis;Dinkelland;Verspreide huizen Deurningen;BU17741999;0;0;0;1
+202106;Enexis;Dinkelland;Verspreide huizen Oud Ootmarsum;BU17742199;0;0;0;1
+202106;Enexis;Sittard-Geleen;Limbrichterveld;BU18830001;0;0;0;0
+202106;Enexis;Sittard-Geleen;Industrieterrein Bergerweg-Rosengarten;BU18830008;0;0;0;1
+202106;Enexis;Sittard-Geleen;Sittard-Centrum;BU18830100;0;0;0;0
+202106;Enexis;Sittard-Geleen;Sanderbout;BU18830101;0;0;2;0
+202106;Enexis;Sittard-Geleen;Ophoven;BU18830102;0;0;0;0
+202106;Enexis;Sittard-Geleen;Kollenberg-Park Leyenbroek;BU18830103;0;0;0;0
+202106;Enexis;Sittard-Geleen;Omgeving Watersley;BU18830109;0;0;0;1
+202106;Enexis;Sittard-Geleen;Industrieterrein Noord;BU18830208;0;0;2;4
+202106;Enexis;Sittard-Geleen;Geleen-Centrum;BU18830501;0;0;0;2
+202106;Enexis;Sittard-Geleen;Lindenheuvel;BU18830503;0;0;2;4
+202106;Enexis;Sittard-Geleen;Kluis;BU18830505;0;0;0;1
+202106;Enexis;Sittard-Geleen;Industriegebied D.S.M. en Graetheide;BU18830507;0;0;0;0
+202106;Enexis;Sittard-Geleen;Born;BU18830603;0;0;0;0
+202106;Enexis;Sittard-Geleen;Graetheide;BU18830606;0;0;0;0
+202106;Enexis;Sittard-Geleen;Industriegebied;BU18830607;0;0;4;17
+202106;Enexis;Sittard-Geleen;Omgeving Limbrichterbos-Wolfrath;BU18830609;0;0;0;0
+202106;Enexis;Peel en Maas;Grashoek;BU18940000;0;0;0;3
+202106;Enexis;Peel en Maas;Koningslust;BU18940001;0;0;0;1
+202106;Enexis;Peel en Maas;Kievitsheide;BU18940002;0;0;30;0
+202106;Enexis;Peel en Maas;Vliegert;BU18940003;0;0;0;1
+202106;Enexis;Peel en Maas;Beringe;BU18940100;0;0;2;17
+202106;Enexis;Peel en Maas;Panningen;BU18940101;0;0;0;3
+202106;Enexis;Peel en Maas;Helden;BU18940102;0;0;0;0
+202106;Enexis;Peel en Maas;Egchel;BU18940105;0;21;0;3
+202106;Enexis;Peel en Maas;Zelen-Hub;BU18940106;0;0;0;1
+202106;Enexis;Peel en Maas;Groeze;BU18940107;0;0;0;1
+202106;Enexis;Peel en Maas;Onder-Eindt-Zandberg;BU18940108;0;0;0;1
+202106;Enexis;Peel en Maas;Keup;BU18940109;0;0;0;1
+202106;Enexis;Peel en Maas;Kessel;BU18940200;0;0;0;2
+202106;Enexis;Peel en Maas;Kesseleik;BU18940203;0;0;0;1
+202106;Enexis;Peel en Maas;Hout en Oijen;BU18940204;0;0;0;1
+202106;Enexis;Peel en Maas;Verspreide huizen Kessel;BU18940208;0;0;0;2
+202106;Enexis;Peel en Maas;Verspreide huizen Kesseleik;BU18940209;0;0;0;1
+202106;Enexis;Peel en Maas;Maasbree;BU18940300;0;0;0;0
+202106;Enexis;Peel en Maas;Verspreide huizen ten zuiden van Provinciale weg;BU18940308;0;0;0;0
+202106;Enexis;Peel en Maas;Verspreide huizen ten noorden van Provinciale weg;BU18940309;0;0;1;7
+202106;Enexis;Peel en Maas;Baarlo;BU18940400;0;0;2;0
+202106;Enexis;Peel en Maas;Soeterbeek;BU18940402;0;0;1;0
+202106;Enexis;Peel en Maas;Verspreide huizen op Den Hert;BU18940408;0;0;0;0
+202106;Enexis;Peel en Maas;Verspreide huizen ten zuiden van Baarlo;BU18940409;0;0;0;0
+202106;Enexis;Peel en Maas;Meijel;BU18940500;0;0;0;0
+202106;Enexis;Peel en Maas;Roggelsedijk;BU18940502;0;0;0;4
+202106;Enexis;Peel en Maas;Verspreide huizen Berg en Nederweerterdijk;BU18940507;0;0;0;0
+202106;Enexis;Peel en Maas;Verspreide huizen Steenoven en Langstraat;BU18940508;0;0;0;0
+202106;Enexis;Oldambt;Winschoten-Centrum;BU18950000;0;0;0;0
+202106;Enexis;Oldambt;Winschoten-Grintweg;BU18950005;0;0;0;0
+202106;Enexis;Oldambt;Winschoten-industriegebied;BU18950008;0;0;1;10
+202106;Enexis;Oldambt;Verspreide huizen Winschoten;BU18950009;0;0;0;1
+202106;Enexis;Oldambt;Finsterwolde Hardenberg;BU18950101;0;0;0;0
+202106;Enexis;Oldambt;Finsterwolde Ganzedijk;BU18950103;0;0;0;0
+202106;Enexis;Oldambt;Verspreide huizen Finsterwolde;BU18950104;0;0;1;1
+202106;Enexis;Oldambt;Verspreide huizen Drieborg;BU18950209;0;0;0;0
+202106;Enexis;Oldambt;Beerta-Centrum;BU18950300;0;0;0;0
+202106;Enexis;Oldambt;Verspreide huizen Beerta;BU18950309;0;0;0;2
+202106;Enexis;Oldambt;Nieuw-Beerta;BU18950400;0;0;0;1
+202106;Enexis;Oldambt;Nieuweschans De Bron;BU18950500;0;0;0;1
+202106;Enexis;Oldambt;Nieuweschans-Centrum;BU18950501;0;0;2;0
+202106;Enexis;Oldambt;Eexta;BU18950601;0;0;0;0
+202106;Enexis;Oldambt;Heiligerlee;BU18950602;0;0;0;1
+202106;Enexis;Oldambt;Eexta-Zuid;BU18950603;0;0;0;2
+202106;Enexis;Oldambt;Westerlee;BU18950700;0;0;0;0
+202106;Enexis;Oldambt;Verspreide huizen ten noorden van Westerlee;BU18950709;0;0;0;0
+202106;Enexis;Oldambt;Midwolda;BU18950900;0;0;1;0
+202106;Enexis;Oldambt;Oostwold;BU18950901;0;0;0;1
+202106;Enexis;Oldambt;Zuiderpolder;BU18950902;0;0;0;0
+202106;Enexis;Oldambt;Nieuwolda;BU18951000;0;0;0;0
+202106;Enexis;Oldambt;Verspreide huizen Nieuwolda;BU18951009;0;0;0;0
+202106;Enexis;Zwartewaterland;Genemuiden Noord-Oost;BU18960001;0;0;0;1
+202106;Enexis;Zwartewaterland;Genemuiden Industrieterrein;BU18960010;0;0;0;7
+202106;Enexis;Zwartewaterland;Binnenlanden-West;BU18960013;0;0;0;0
+202106;Enexis;Zwartewaterland;Kamperzeedijk-Oost;BU18960100;0;0;0;0
+202106;Enexis;Zwartewaterland;Landelijk gebied Genemuiden;BU18960108;0;0;0;1
+202106;Enexis;Zwartewaterland;Hasselt Industrieterrein;BU18960203;0;0;0;6
+202106;Enexis;Zwartewaterland;Molenwaard;BU18960206;0;0;0;0
+202106;Enexis;Zwartewaterland;Streukel-Holten-Genne;BU18960310;0;0;0;0
+202106;Enexis;Zwartewaterland;Zwartsluis Kern;BU18960400;0;0;0;0
+202106;Enexis;Zwartewaterland;Zwartsluis Industrieterrein;BU18960407;0;0;0;1
+202106;Enexis;Zwartewaterland;Mastenbroek;BU18960500;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Eijsden-Breust;BU19030000;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Mariadorp-Beezepool;BU19030001;0;0;0;1
+202106;Enexis;Eijsden-Margraten;Verspreide huizen;BU19030009;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Gronsveld;BU19030100;0;0;0;2
+202106;Enexis;Eijsden-Margraten;Margraten;BU19030200;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Cadier;BU19030300;0;0;0;2
+202106;Enexis;Eijsden-Margraten;Verspreide huizen;BU19030309;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Moerslag-Libeek;BU19030403;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Bruisterbosch;BU19030404;0;0;0;0
+202106;Enexis;Eijsden-Margraten;Banholt;BU19030501;0;0;0;0
+202106;Enexis;Meierijstad;Boerdonk;BU19480101;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Boerdonk;BU19480103;0;0;0;2
+202106;Enexis;Meierijstad;Buitengebied Erp;BU19480104;0;0;0;3
+202106;Enexis;Meierijstad;Buitengebied Geregt;BU19480105;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Hurkske en Hoek;BU19480106;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Keldonk;BU19480107;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Kraanmeer en Veluwe;BU19480108;0;0;0;3
+202106;Enexis;Meierijstad;Erp Centrum;BU19480110;0;0;0;0
+202106;Enexis;Meierijstad;Erp Zuid;BU19480111;0;0;0;0
+202106;Enexis;Meierijstad;Keldonk;BU19480112;0;0;0;0
+202106;Enexis;Meierijstad;Boschweg Noordoost;BU19480201;0;0;0;0
+202106;Enexis;Meierijstad;Boschweg Zuidwest;BU19480202;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebeid Elderbroek;BU19480203;0;0;1;0
+202106;Enexis;Meierijstad;Buitengebied Broekkant;BU19480204;0;0;1;0
+202106;Enexis;Meierijstad;Buitengebied Molendijk;BU19480205;0;0;0;2
+202106;Enexis;Meierijstad;Buitengebied Oetelaar;BU19480206;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Rooiseheide;BU19480207;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Steeg;BU19480208;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Vlagheide;BU19480209;0;0;0;0
+202106;Enexis;Meierijstad;De Beemd 1;BU19480210;0;0;0;0
+202106;Enexis;Meierijstad;De Borne 1;BU19480212;0;0;0;0
+202106;Enexis;Meierijstad;Duin 1;BU19480214;0;0;0;2
+202106;Enexis;Meierijstad;Duin 2;BU19480215;0;0;0;4
+202106;Enexis;Meierijstad;Hulzebraak;BU19480219;0;0;0;0
+202106;Enexis;Meierijstad;Molendijk;BU19480220;0;0;0;0
+202106;Enexis;Meierijstad;Rooiseheide;BU19480224;0;0;0;0
+202106;Enexis;Meierijstad;Schijndel Centrum 4;BU19480228;0;0;0;0
+202106;Enexis;Meierijstad;Wijbosch;BU19480229;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Boskant;BU19480303;0;0;1;3
+202106;Enexis;Meierijstad;Buitengebied Jekschotse Heide en Everse;BU19480304;0;0;2;3
+202106;Enexis;Meierijstad;Buitengebied Nijnsel;BU19480305;0;0;7;3
+202106;Enexis;Meierijstad;Buitengebied Olland;BU19480306;0;0;6;0
+202106;Enexis;Meierijstad;Buitengebied Rijsingen en Schijndelse Heide;BU19480307;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Veerse Heide en Koevering;BU19480308;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Vressel en Zwijnsbergen;BU19480309;0;0;0;3
+202106;Enexis;Meierijstad;Cathalijne en Kinderbos;BU19480310;0;0;0;0
+202106;Enexis;Meierijstad;Heikant en Sluitappel;BU19480312;0;0;0;1
+202106;Enexis;Meierijstad;Nijnsel;BU19480315;0;0;0;2
+202106;Enexis;Meierijstad;Olland;BU19480316;0;0;0;0
+202106;Enexis;Meierijstad;Sint-Oedenrode Centrum Noord;BU19480317;0;0;0;0
+202106;Enexis;Meierijstad;Sint-Oedenrode Centrum Zuid;BU19480318;0;0;0;1
+202106;Enexis;Meierijstad;'t Ven Oost;BU19480401;0;0;0;0
+202106;Enexis;Meierijstad;Amert en Binnenveld;BU19480403;0;0;2;8
+202106;Enexis;Meierijstad;Bloemenwijk;BU19480404;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Driehuizen en Hazelberg;BU19480405;0;0;1;3
+202106;Enexis;Meierijstad;Buitengebied Eerde;BU19480406;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Heuvel en Havelt;BU19480407;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Jekschot;BU19480408;0;0;0;2
+202106;Enexis;Meierijstad;Buitengebied Mariaheide;BU19480409;0;0;0;1
+202106;Enexis;Meierijstad;Buitengebied Sportpark en Dorshout;BU19480410;0;0;0;0
+202106;Enexis;Meierijstad;Buitengebied Zijtaart;BU19480411;0;0;0;1
+202106;Enexis;Meierijstad;Bunderse Hoek Zuid;BU19480413;0;0;0;0
+202106;Enexis;Meierijstad;Doornhoek en Kempkens;BU19480416;0;0;1;3
+202106;Enexis;Meierijstad;Dubbelen;BU19480417;18;0;0;16
+202106;Enexis;Meierijstad;Koolenkampen en Iepenlaan;BU19480422;0;0;0;0
+202106;Enexis;Meierijstad;Laarbunders;BU19480423;0;0;0;0
+202106;Enexis;Meierijstad;Leest;BU19480424;0;0;0;0
+202106;Enexis;Meierijstad;Oranjewijk en Dorsveld;BU19480427;0;0;0;0
+202106;Enexis;Meierijstad;Oude ontginning;BU19480428;0;0;0;1
+202106;Enexis;Meierijstad;Veghel Centrum;BU19480429;0;0;0;0
+202106;Enexis;Meierijstad;Zijtaart;BU19480433;0;0;0;0
+202106;Enexis;Westerwolde;Bellingwolde;BU19500000;0;0;0;0
+202106;Enexis;Westerwolde;Vriescheloo;BU19500001;0;0;0;0
+202106;Enexis;Westerwolde;Vriescheloo-Zuid;BU19500004;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen ten zuidoosten van Vriescheloo;BU19500008;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen Westerwoldse A;BU19500009;0;0;2;1
+202106;Enexis;Westerwolde;Veelerveen;BU19500100;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen ten noordoosten van Rhederbrug;BU19500108;0;0;50;0
+202106;Enexis;Westerwolde;Blijham;BU19500200;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen in de polder Blijham;BU19500206;0;0;1;1
+202106;Enexis;Westerwolde;Verspreide huizen ten westen van Blijham;BU19500207;0;0;0;0
+202106;Enexis;Westerwolde;Sellingen;BU19500300;0;0;0;0
+202106;Enexis;Westerwolde;Vlagtwedde;BU19500400;0;0;0;0
+202106;Enexis;Westerwolde;Veele;BU19500403;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen Vlagtwedde;BU19500409;0;0;0;1
+202106;Enexis;Westerwolde;Bourtange;BU19500500;0;0;0;0
+202106;Enexis;Westerwolde;Stakenborg;BU19500504;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen Bourtange;BU19500508;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen ten noorden van Vlagtwedde;BU19500509;0;0;0;0
+202106;Enexis;Westerwolde;Harpel;BU19500600;0;0;0;1
+202106;Enexis;Westerwolde;Verspreide huizen tussen Harpel en Sellingerbeetse;BU19500609;0;0;16;110
+202106;Enexis;Westerwolde;Ter Apel;BU19500700;0;0;0;0
+202106;Enexis;Westerwolde;Verspreide huizen Ter Apel en Ter Apelkanaal;BU19500709;0;0;0;1
+202106;Enexis;Westerwolde;Verspreide huizen te Laudermarke;BU19500808;0;0;22;0
+202106;Enexis;Westerwolde;Verspreide huizen Ter Wisch;BU19500809;0;0;0;0
+202106;Enexis;Westerwolde;De Maten;BU19500900;0;0;0;0
+202106;Enexis;Midden-Groningen;Noorderpark;BU19520101;0;0;0;0
+202106;Enexis;Midden-Groningen;Westerpark;BU19520102;0;0;0;0
+202106;Enexis;Midden-Groningen;Martenshoek en Industriegebied Martenshoek;BU19520105;0;0;0;1
+202106;Enexis;Midden-Groningen;Industriegebied Martenshoek;BU19520107;0;0;1;2
+202106;Enexis;Midden-Groningen;Spoorstraat en Kieldiep;BU19520201;0;0;0;0
+202106;Enexis;Midden-Groningen;Woldwijck-Midden;BU19520207;0;0;0;0
+202106;Enexis;Midden-Groningen;Woldwijck-Oost;BU19520208;0;0;0;0
+202106;Enexis;Midden-Groningen;Stadshart-Zuid;BU19520301;0;0;0;0
+202106;Enexis;Midden-Groningen;De Dreven;BU19520303;0;0;0;0
+202106;Enexis;Midden-Groningen;Kalkwijk-Zuid;BU19520306;0;0;0;0
+202106;Enexis;Midden-Groningen;Magrietpark;BU19520401;0;0;0;0
+202106;Enexis;Midden-Groningen;Nieuw Woelwijck;BU19520407;0;0;0;0
+202106;Enexis;Midden-Groningen;Polder De Nijverheid;BU19520408;0;0;0;2
+202106;Enexis;Midden-Groningen;Sappemeer-Noord;BU19520409;0;0;15;0
+202106;Enexis;Midden-Groningen;Kiel-Windeweer Buitengebied;BU19520502;0;0;0;0
+202106;Enexis;Midden-Groningen;Kropswolde Recreatiegebied;BU19520603;0;0;0;27
+202106;Enexis;Midden-Groningen;Foxhol Industriegebied;BU19520702;0;0;14;0
+202106;Enexis;Midden-Groningen;Westerbroek Buitengebied;BU19520803;0;0;0;0
+202106;Enexis;Midden-Groningen;Westerbroek Industriegebied;BU19520804;0;0;0;3
+202106;Enexis;Midden-Groningen;Harkstede;BU19520901;0;0;0;0
+202106;Enexis;Midden-Groningen;Scharmer;BU19520904;0;0;0;0
+202106;Enexis;Midden-Groningen;Scharmer Buitengebied;BU19520905;0;0;0;0
+202106;Enexis;Midden-Groningen;Kolham;BU19521001;0;0;0;0
+202106;Enexis;Midden-Groningen;Kolham Bedrijventerrein;BU19521002;0;0;0;0
+202106;Enexis;Midden-Groningen;Slochteren;BU19521201;0;0;0;0
+202106;Enexis;Midden-Groningen;Slochteren Natuurgebied;BU19521202;0;0;0;0
+202106;Enexis;Midden-Groningen;Slochteren Buitengebied;BU19521203;0;0;0;0
+202106;Enexis;Midden-Groningen;Hellum;BU19521401;0;0;0;0
+202106;Enexis;Midden-Groningen;Hellum Natuurgebied;BU19521402;0;0;0;1
+202106;Enexis;Midden-Groningen;Siddeburen;BU19521501;0;0;0;1
+202106;Enexis;Midden-Groningen;Siddeburen Buitengebied;BU19521502;0;0;0;0
+202106;Enexis;Midden-Groningen;Overschild Buitengebied;BU19521602;0;0;0;1
+202106;Enexis;Midden-Groningen;Steendam;BU19521702;0;0;0;0
+202106;Enexis;Midden-Groningen;Muntendam-west;BU19521801;0;0;1;0
+202106;Enexis;Midden-Groningen;Muntendam Buitengebied oost;BU19521803;0;0;0;47
+202106;Enexis;Midden-Groningen;Tripscompagnie;BU19521805;0;0;0;0
+202106;Enexis;Midden-Groningen;Borgercompagnie;BU19521806;0;0;0;0
+202106;Enexis;Midden-Groningen;Noordbroek;BU19521901;0;0;0;0
+202106;Enexis;Midden-Groningen;Noordbroek Buitengebied;BU19521902;0;0;0;1
+202106;Enexis;Midden-Groningen;Zuidbroek;BU19522001;0;0;35;1
+202106;Enexis;Midden-Groningen;Bedrijventerrein Gouden Driehoek;BU19522002;0;0;1;1
+202106;Enexis;Midden-Groningen;Zuidbroek Buitengebied west;BU19522003;0;0;0;0
+202106;Enexis;Midden-Groningen;Zuidbroek Buitengebied oost;BU19522004;0;0;1;0
+202106;Enexis;Midden-Groningen;Industrieterrein Zuidbroek;BU19522005;0;0;0;4
+202106;Enexis;Midden-Groningen;Meeden;BU19522101;0;54;0;0
+202106;Enexis;Midden-Groningen;Meeden Buitengebied;BU19522102;0;0;0;0
+202106;Enexis;;; ;0;15;126;33
